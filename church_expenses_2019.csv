@@ -1,0 +1,1001 @@
+expense_id,date,sub_category,amount,vendor,description,payment_method,receipt,approved_by
+1,1/11/2019,student_leadership,8976.13,Voonder,molestie nibh in lectus pellentesque at nulla suspendisse potenti cras in,check,true,Dasie Colquite
+2,2/13/2019,student_leadership,3422.39,Leenti,ipsum integer a nibh in quis justo maecenas rhoncus aliquam lacus morbi quis tortor id,check,false,Darb Dionis
+3,3/30/2019,social_justice,7432.78,Jazzy,,credit card,false,Jeff Stonham
+4,9/25/2019,student_leadership,315.34,Devify,,credit card,true,Duke Vassano
+5,2/12/2019,other,9484.59,Oba,tristique est et tempus semper est quam pharetra magna ac consequat metus sapien,cash,true,Lib Lebreton
+6,4/28/2019,other,2956.1,Photobug,nisl venenatis lacinia aenean sit amet justo morbi ut odio cras mi pede malesuada in,check,true,Erin Labitt
+7,3/2/2019,other,374.15,Voomm,curabitur convallis duis consequat dui nec nisi volutpat eleifend donec ut dolor morbi,credit card,false,Cecilia Elies
+8,6/7/2019,student_leadership,6313.32,Mydo,mollis molestie lorem quisque ut erat curabitur gravida nisi at nibh in hac habitasse,check,true,Janos Thynn
+9,1/28/2019,outreach,8074.22,Meemm,,credit card,false,Guinna Raffeorty
+10,12/29/2019,office_administration,6656.11,Jazzy,,check,true,Brendin Gradly
+11,12/18/2019,building_management,5692.37,Dablist,,credit card,false,Franni Ratnage
+12,6/22/2019,retreats,8684.95,Devshare,,check,false,Gunar Jerg
+13,5/4/2019,crm_expenses,3270.64,Abatz,sapien non mi integer ac neque duis bibendum,cash,false,Ara Drohan
+14,12/21/2019,outreach,6970.89,Twinder,bibendum imperdiet nullam orci pede venenatis non,check,false,Alane Jago
+15,4/6/2019,office_administration,8242.81,Skajo,odio justo sollicitudin ut suscipit a feugiat et eros vestibulum ac est,cash,false,Kippie Roullier
+16,8/5/2019,other,4950.68,Jabberbean,ipsum praesent blandit lacinia erat vestibulum sed,check,true,Kelly Severn
+17,7/17/2019,liturgy_music,2112.3,Skidoo,cras non velit nec nisi vulputate,cash,true,Hoebart Valero
+18,11/26/2019,comm_life,2979.12,Realpoint,,cash,true,Claus Kynsey
+19,12/28/2019,automobiles,8164.43,Oozz,,credit card,false,Lynne Sugg
+20,1/30/2019,automobiles,5817.35,Yacero,,credit card,true,Jaynell Emma
+21,9/11/2019,social_justice,8913.57,Zooveo,tincidunt nulla mollis molestie lorem quisque ut erat curabitur gravida nisi at nibh in hac,cash,false,Carly Barnish
+22,8/22/2019,liturgy_music,3814.35,Oyoba,sagittis nam congue risus semper porta volutpat quam pede,credit card,true,Zelda Crocetto
+23,11/30/2019,liturgy_music,1537.8,Centimia,etiam faucibus cursus urna ut tellus nulla ut erat id mauris vulputate elementum nullam,cash,true,Orsa Eagland
+24,6/22/2019,student_leadership,7421.55,Kimia,ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae nulla,credit card,true,Suzi Corkhill
+25,12/9/2019,office_administration,1812.7,Yakidoo,duis consequat dui nec nisi volutpat eleifend donec ut dolor morbi vel lectus in,cash,false,Lillis Aspinall
+26,4/16/2019,student_leadership,3901.11,Riffpath,erat eros viverra eget congue eget semper,cash,true,Elladine Abadam
+27,8/18/2019,comm_life,5991.71,Ntags,vulputate justo in blandit ultrices enim lorem ipsum,cash,true,Fernande Suthworth
+28,5/25/2019,liturgy_music,7254.99,Photospace,primis in faucibus orci luctus et ultrices posuere,check,true,Liv Nottingham
+29,12/16/2019,outreach,578.25,Oyoyo,ac tellus semper interdum mauris ullamcorper,credit card,true,Thorpe MacKeller
+30,8/18/2019,retreats,2609.43,Plajo,etiam vel augue vestibulum rutrum rutrum neque aenean auctor,credit card,false,Vance Amori
+31,12/11/2019,student_leadership,5184.44,Katz,libero quis orci nullam molestie,cash,false,Sidoney Lunk
+32,6/10/2019,social_justice,531.45,Gabvine,maecenas pulvinar lobortis est phasellus sit amet erat,cash,true,Astrix Salmond
+33,10/17/2019,student_leadership,8683.53,Rhynoodle,turpis eget elit sodales scelerisque mauris sit amet eros suspendisse,credit card,false,Bayard Moorhouse
+34,12/6/2019,faith_education,99.34,Skinder,nunc vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae,credit card,false,Osmond Langston
+35,5/17/2019,faith_education,5845.29,Blogtags,in faucibus orci luctus et ultrices,credit card,true,Gerianne Tilberry
+36,7/6/2019,automobiles,938.49,Eimbee,massa tempor convallis nulla neque libero convallis eget,check,true,Myrvyn Cowup
+37,3/28/2019,comm_life,208.46,Eimbee,curabitur gravida nisi at nibh in hac habitasse platea dictumst aliquam augue quam,check,true,Hendrika Ciobutaro
+38,10/21/2019,automobiles,8563.37,Podcat,velit nec nisi vulputate nonummy maecenas tincidunt lacus at velit vivamus vel nulla eget eros,check,true,Elane Sheran
+39,8/2/2019,student_leadership,9227.21,Mynte,nibh in hac habitasse platea,check,false,Evey McCorkell
+40,11/16/2019,automobiles,5772.77,Skyble,cras mi pede malesuada in imperdiet et commodo vulputate justo in blandit ultrices enim,check,true,Rasla Osbourne
+41,6/15/2019,student_leadership,5086.72,Gabvine,nunc vestibulum ante ipsum primis in faucibus orci luctus et ultrices,check,true,Hamlin Pigram
+42,8/17/2019,office_administration,9655.69,Leexo,lobortis ligula sit amet eleifend pede libero quis orci,credit card,false,Alessandro Arrighini
+43,4/16/2019,liturgy_music,2708.67,Tagpad,dui maecenas tristique est et tempus semper est quam pharetra magna ac,cash,false,Madonna Blowne
+44,9/8/2019,faith_education,1338.87,Edgepulse,felis donec semper sapien a libero nam dui proin leo odio porttitor id,cash,false,Lauri Shipston
+45,4/29/2019,student_leadership,8434.61,Zoombeat,ut nunc vestibulum ante ipsum primis in faucibus orci,cash,false,Otes Artin
+46,6/27/2019,liturgy_music,8431.79,Wikizz,justo sollicitudin ut suscipit a feugiat et eros vestibulum ac est lacinia nisi,check,true,Jackie Jamieson
+47,5/5/2019,utilities,5206.95,Tagpad,habitasse platea dictumst maecenas ut,check,true,Kathy Townend
+48,3/26/2019,office_administration,844.61,Twimm,pharetra magna ac consequat metus sapien ut nunc vestibulum ante ipsum primis,check,false,Rodrick Halson
+49,11/25/2019,office_administration,8998.29,Skilith,,check,true,Edgardo Twitchett
+50,3/30/2019,crm_expenses,2011.07,Eire,pellentesque at nulla suspendisse potenti cras in,check,false,Ruthi Herity
+51,7/19/2019,social_justice,6738.01,Dynazzy,,check,true,Mervin Roocroft
+52,12/24/2019,comm_life,1843.03,Centimia,,check,true,Obadias Blackwood
+53,10/31/2019,automobiles,9176.52,Gabtype,vehicula condimentum curabitur in libero ut massa volutpat convallis morbi odio odio elementum eu,credit card,false,Justinian Niemiec
+54,4/23/2019,retreats,2406.65,Realbridge,velit donec diam neque vestibulum eget vulputate ut,check,false,Lani Keelan
+55,1/26/2019,comm_life,9700.65,Latz,,check,true,Isidor Jiranek
+56,12/25/2019,crm_expenses,8620.13,Blogspan,vivamus vestibulum sagittis sapien cum sociis natoque penatibus et magnis,credit card,true,Prue Maddison
+57,6/7/2019,student_leadership,6798.63,Meetz,pretium iaculis justo in hac habitasse,credit card,true,Roze Eagan
+58,12/3/2019,retreats,7418.74,Kanoodle,sagittis sapien cum sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus,credit card,true,Bill Pashler
+59,1/7/2019,liturgy_music,2347.75,Eidel,,cash,true,Debi Hunt
+60,9/22/2019,other,9153.34,Tagfeed,integer non velit donec diam neque vestibulum eget vulputate ut,credit card,true,Ignazio Speedy
+61,1/16/2019,liturgy_music,8820.75,Photospace,semper rutrum nulla nunc purus phasellus in felis donec semper,credit card,true,Nickie Delve
+62,8/30/2019,office_administration,4116.38,Camimbo,tempus vel pede morbi porttitor lorem id ligula suspendisse ornare consequat lectus in,cash,false,Carter Verrall
+63,4/20/2019,outreach,8805.67,Eayo,dolor quis odio consequat varius integer ac,cash,true,Farley Jerrems
+64,12/17/2019,office_administration,7104.67,Aivee,quis justo maecenas rhoncus aliquam lacus morbi quis tortor id nulla ultrices,check,true,Seumas Hurnell
+65,12/9/2019,other,1759.45,Katz,nulla pede ullamcorper augue a suscipit nulla elit ac nulla,check,false,Brandy Ferretti
+66,3/9/2019,student_leadership,3362.68,Dabvine,vehicula consequat morbi a ipsum integer a nibh in quis justo maecenas rhoncus,check,true,Graham Vyel
+67,2/4/2019,outreach,5657.25,Myworks,est congue elementum in hac habitasse platea dictumst morbi,credit card,false,Melisande Leeson
+68,12/27/2019,outreach,7965.73,Blogspan,mauris ullamcorper purus sit amet nulla quisque arcu libero rutrum ac lobortis vel dapibus,cash,true,Kylynn Bellew
+69,12/20/2019,building_management,2501.52,Yozio,arcu adipiscing molestie hendrerit at vulputate vitae nisl aenean lectus pellentesque eget,cash,false,Rubetta Nunnerley
+70,5/7/2019,building_management,9282.72,Fadeo,nulla eget eros elementum pellentesque quisque porta,check,false,Aldus Barrowclough
+71,12/20/2019,utilities,1068.32,Quire,diam cras pellentesque volutpat dui,cash,false,Didi Mulles
+72,5/11/2019,automobiles,6248.36,Flipopia,lectus vestibulum quam sapien varius ut,check,true,Malvin Lukehurst
+73,7/29/2019,crm_expenses,3723.41,Layo,odio cras mi pede malesuada,check,true,Glendon Jenking
+74,3/14/2019,automobiles,1821.36,Yombu,eleifend pede libero quis orci nullam molestie,cash,true,Garner Cuolahan
+75,10/2/2019,other,6683.31,Jaloo,in ante vestibulum ante ipsum,credit card,false,Cacilie Crumly
+76,5/8/2019,student_leadership,9543.86,Mybuzz,pede justo eu massa donec dapibus duis at velit eu est congue,check,false,Mitchael Suddell
+77,2/14/2019,outreach,3014.08,Skibox,porttitor id consequat in consequat ut nulla sed accumsan felis ut at dolor quis,credit card,false,Sibeal Downey
+78,7/24/2019,student_leadership,3498.37,Voolia,ullamcorper purus sit amet nulla quisque,check,true,Welbie Fetterplace
+79,7/17/2019,crm_expenses,8839.47,Browsecat,lectus in quam fringilla rhoncus mauris enim,check,false,Cristine Ayers
+80,5/3/2019,office_administration,6759.41,Yodo,,check,false,Kellia Staries
+81,10/2/2019,building_management,749.07,Livetube,,credit card,false,Bryna Maylour
+82,7/5/2019,building_management,9618.38,Zooveo,luctus ultricies eu nibh quisque id justo sit amet sapien dignissim vestibulum,cash,true,Marylin Flippelli
+83,4/27/2019,liturgy_music,8042.67,Pixope,donec odio justo sollicitudin ut suscipit a feugiat et eros,credit card,true,Clint Zimmermeister
+84,7/25/2019,comm_life,705.39,Aimbo,nulla suscipit ligula in lacus,cash,false,Estele Di Giorgio
+85,4/17/2019,student_leadership,7617.87,Kazu,mauris non ligula pellentesque ultrices phasellus id sapien in sapien,check,false,Gardiner Harrowell
+86,2/8/2019,social_justice,1251.79,Voomm,orci nullam molestie nibh in lectus,cash,false,Northrop Gourlie
+87,5/26/2019,liturgy_music,2074.84,Lazzy,,check,true,Natty Tunuy
+88,7/26/2019,comm_life,4647.22,Rhynoodle,amet diam in magna bibendum imperdiet nullam orci pede venenatis non sodales sed tincidunt,check,false,Marven Foulgham
+89,9/20/2019,comm_life,412.93,Riffwire,erat tortor sollicitudin mi sit amet lobortis sapien sapien non mi,credit card,true,Ruddy Beddow
+90,10/21/2019,utilities,4392.1,Devcast,scelerisque quam turpis adipiscing lorem vitae mattis nibh,check,false,Lorna Scapens
+91,6/11/2019,faith_education,4835.9,Camimbo,tellus semper interdum mauris ullamcorper purus sit amet nulla quisque arcu,credit card,true,Elwood Shayes
+92,4/8/2019,faith_education,9221.83,Thoughtblab,orci luctus et ultrices posuere cubilia curae donec,cash,false,Ainsley Prodrick
+93,5/6/2019,comm_life,8193.27,Feedbug,,check,false,Muriel Vizor
+94,8/25/2019,office_administration,1419.92,Quamba,in hac habitasse platea dictumst maecenas ut,cash,false,Netty Rennles
+95,6/13/2019,office_administration,1210.33,Eare,ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae mauris,check,false,Toinette Beaman
+96,1/14/2019,liturgy_music,5038.88,Babbleopia,ut suscipit a feugiat et eros vestibulum ac est lacinia nisi venenatis tristique fusce congue,cash,true,Connie Gostall
+97,11/19/2019,retreats,7563.7,Photobean,curae nulla dapibus dolor vel est donec odio justo sollicitudin ut suscipit,check,false,Cora Naldrett
+98,10/17/2019,retreats,7492.9,DabZ,in lectus pellentesque at nulla suspendisse potenti cras in purus eu,check,true,L;urette Ropkes
+99,1/23/2019,other,3894.16,Eabox,volutpat sapien arcu sed augue aliquam erat volutpat,check,false,Celle Heape
+100,1/29/2019,comm_life,6235.49,Riffwire,dolor morbi vel lectus in quam fringilla rhoncus,credit card,false,Jeni Torri
+101,6/6/2019,student_leadership,4787.46,Meeveo,in faucibus orci luctus et ultrices posuere cubilia curae donec pharetra magna vestibulum aliquet,credit card,true,Cristy Verecker
+102,10/18/2019,comm_life,1931.95,Skinte,at nunc commodo placerat praesent blandit nam nulla integer pede,check,true,Wanda Fenech
+103,4/28/2019,outreach,8704.01,Dynazzy,varius nulla facilisi cras non velit,cash,true,Bernadine Iwaszkiewicz
+104,7/14/2019,building_management,7327.78,Devpoint,integer tincidunt ante vel ipsum praesent blandit,check,true,Farra Vanyakin
+105,10/20/2019,comm_life,9472.19,Wordpedia,faucibus accumsan odio curabitur convallis duis consequat dui nec nisi volutpat eleifend donec ut,credit card,false,Fletch Lampet
+106,7/15/2019,building_management,4468.83,Thoughtworks,lorem integer tincidunt ante vel ipsum praesent blandit lacinia erat,credit card,true,Genny Dax
+107,10/15/2019,office_administration,2593.39,Rhybox,eu mi nulla ac enim in tempor turpis nec euismod scelerisque quam turpis,check,true,Kellyann Febry
+108,3/30/2019,office_administration,2065.81,Yadel,hac habitasse platea dictumst maecenas ut massa quis,cash,false,Terencio Bulley
+109,12/21/2019,liturgy_music,1742.32,Blognation,tincidunt eget tempus vel pede morbi,check,true,Amelina Adriani
+110,9/15/2019,office_administration,1995.82,Bluejam,varius integer ac leo pellentesque,cash,true,Genevra Tansill
+111,3/8/2019,other,1354.26,Rhynoodle,nec condimentum neque sapien placerat ante nulla justo aliquam quis turpis eget elit sodales scelerisque,cash,false,Riki Stobo
+112,1/14/2019,social_justice,5198.55,Skyvu,aliquam augue quam sollicitudin vitae consectetuer eget rutrum at lorem integer tincidunt ante vel,cash,false,Chet Struther
+113,8/7/2019,faith_education,7895.11,Katz,amet lobortis sapien sapien non mi integer ac neque duis bibendum,check,false,Ethelda Rassell
+114,9/13/2019,crm_expenses,341.72,Jabbersphere,non interdum in ante vestibulum ante ipsum primis in faucibus,check,false,Kevin Spurdon
+115,3/16/2019,automobiles,4970.18,Dynava,ornare imperdiet sapien urna pretium nisl ut volutpat sapien arcu sed,cash,false,Malinde Pavey
+116,7/24/2019,outreach,3152.81,Brainverse,sed ante vivamus tortor duis mattis egestas metus aenean fermentum donec,cash,false,Luke Prose
+117,4/27/2019,student_leadership,9558.76,Rhybox,dui vel nisl duis ac,cash,true,Arni Tooley
+118,11/28/2019,other,3032.22,Gabvine,elit proin interdum mauris non ligula pellentesque ultrices phasellus id sapien in,check,true,Karim Hinder
+119,10/29/2019,automobiles,6158.42,Skaboo,tincidunt ante vel ipsum praesent blandit lacinia erat vestibulum sed magna at,credit card,false,Sylvia Hendrick
+120,2/15/2019,other,4320.03,Jazzy,vel ipsum praesent blandit lacinia erat vestibulum sed magna at nunc commodo,credit card,false,Andres Farnes
+121,6/29/2019,retreats,1008.83,Rhybox,porttitor lacus at turpis donec posuere metus vitae ipsum aliquam non,check,true,Sibilla Haugen
+122,4/4/2019,student_leadership,7088.98,Rooxo,ipsum dolor sit amet consectetuer adipiscing,check,true,Darby Whiscard
+123,12/2/2019,faith_education,92.19,Skimia,ipsum praesent blandit lacinia erat vestibulum sed,check,true,Cam Beckley
+124,1/30/2019,building_management,884.12,Livetube,amet consectetuer adipiscing elit proin risus praesent lectus vestibulum,credit card,true,Hayes Lamputt
+125,9/25/2019,comm_life,3536.59,Dabshots,quisque erat eros viverra eget congue,credit card,false,Zilvia Jacson
+126,9/9/2019,student_leadership,7035.96,Kare,blandit lacinia erat vestibulum sed magna at nunc,cash,false,Itch Lawes
+127,5/30/2019,outreach,9808.38,Realpoint,sem sed sagittis nam congue risus,credit card,false,Michell Taylor
+128,11/15/2019,student_leadership,1933.85,Agivu,parturient montes nascetur ridiculus mus vivamus vestibulum sagittis,check,false,Cornelle Legon
+129,5/2/2019,student_leadership,2292.01,Eare,imperdiet sapien urna pretium nisl ut volutpat sapien arcu sed augue,cash,false,Delora Kibard
+130,2/2/2019,office_administration,1240.99,Dazzlesphere,odio elementum eu interdum eu tincidunt in,credit card,false,Deidre Gavini
+131,10/26/2019,building_management,4222.8,Gigabox,ullamcorper purus sit amet nulla quisque,check,false,Jemmie Beard
+132,6/1/2019,liturgy_music,5251.81,Dabshots,semper sapien a libero nam dui proin leo odio porttitor id consequat in consequat,check,true,Monti Gever
+133,3/2/2019,student_leadership,8028.95,Roodel,montes nascetur ridiculus mus vivamus,check,true,Eduino Banfill
+134,1/19/2019,building_management,1068.8,Vinte,a odio in hac habitasse platea dictumst maecenas ut massa quis augue luctus,cash,false,Victor Flacke
+135,1/11/2019,faith_education,7403.21,Quire,id ligula suspendisse ornare consequat lectus in est risus auctor sed,credit card,true,Edlin Tipple
+136,12/16/2019,social_justice,812.99,Nlounge,congue elementum in hac habitasse platea dictumst morbi vestibulum velit,check,true,Camella Osman
+137,11/4/2019,crm_expenses,798.64,Devshare,mi sit amet lobortis sapien sapien non mi integer ac neque duis bibendum,check,true,Caryl Colby
+138,5/20/2019,other,8100.29,Topiczoom,eget rutrum at lorem integer tincidunt ante vel ipsum praesent blandit lacinia erat vestibulum,cash,true,Kleon Swatheridge
+139,1/19/2019,liturgy_music,4702.16,Twitterbeat,nisi volutpat eleifend donec ut dolor morbi vel lectus in quam fringilla rhoncus mauris enim,check,true,Aura Mc Dermid
+140,1/4/2019,retreats,2479.0,Jaloo,convallis nulla neque libero convallis eget eleifend luctus ultricies eu nibh quisque id,check,true,Nick Cardoo
+141,6/12/2019,automobiles,6131.13,Lazz,et commodo vulputate justo in blandit ultrices enim lorem,cash,true,Richart Ginnally
+142,6/26/2019,faith_education,55.06,Ainyx,placerat praesent blandit nam nulla integer pede justo lacinia eget,credit card,false,Grazia Ible
+143,5/9/2019,building_management,7168.85,Jaxnation,risus dapibus augue vel accumsan tellus nisi eu orci mauris lacinia,credit card,true,Kele Rapp
+144,1/4/2019,crm_expenses,5417.37,Zoomdog,viverra dapibus nulla suscipit ligula in lacus curabitur at ipsum ac tellus semper,cash,false,Quincy Raden
+145,5/2/2019,student_leadership,381.08,Dynava,volutpat convallis morbi odio odio elementum eu interdum eu tincidunt in,check,false,Jemimah McPeake
+146,9/21/2019,office_administration,3685.57,Voolith,nulla integer pede justo lacinia eget tincidunt eget tempus vel pede,check,false,Agnola Bridden
+147,2/21/2019,automobiles,9118.72,Edgewire,ullamcorper augue a suscipit nulla elit ac nulla sed vel enim sit,check,true,Eben Pudding
+148,6/15/2019,office_administration,7161.55,Digitube,,credit card,true,Jacki Starie
+149,1/19/2019,comm_life,7836.19,Gabtype,vulputate nonummy maecenas tincidunt lacus at velit vivamus vel,cash,true,Ameline Jancy
+150,8/31/2019,other,7574.24,Buzzshare,cursus vestibulum proin eu mi nulla ac enim in tempor turpis nec euismod,check,true,Lindie Aldritt
+151,11/9/2019,automobiles,4516.37,Aimbo,erat nulla tempus vivamus in felis eu sapien cursus vestibulum,cash,false,Kennan Barbisch
+152,1/13/2019,crm_expenses,7178.59,Feedfire,rhoncus dui vel sem sed sagittis nam,check,true,Audie Chatband
+153,9/21/2019,office_administration,3713.62,Quinu,duis faucibus accumsan odio curabitur,check,false,Tiffy Bootyman
+154,2/1/2019,other,2525.78,Mydeo,eget rutrum at lorem integer tincidunt ante,credit card,false,Loydie Bolderson
+155,3/17/2019,other,121.83,Gigabox,ipsum primis in faucibus orci luctus et,credit card,true,Felizio Drummond
+156,8/2/2019,office_administration,3403.16,Pixonyx,elementum ligula vehicula consequat morbi a ipsum integer a nibh in,check,false,Barnard Rheubottom
+157,6/17/2019,automobiles,3147.31,Voomm,lacus at velit vivamus vel nulla eget,credit card,true,Herminia Razzell
+158,3/3/2019,student_leadership,5825.14,Yata,leo odio condimentum id luctus nec molestie sed justo pellentesque viverra pede ac diam,cash,true,Devondra Foat
+159,7/6/2019,outreach,3128.16,Feedfish,pede malesuada in imperdiet et commodo vulputate justo in blandit,credit card,true,Herbie Patman
+160,4/6/2019,liturgy_music,854.9,Fiveclub,elit ac nulla sed vel enim sit amet nunc viverra dapibus nulla suscipit ligula,cash,false,Brander Bremen
+161,7/3/2019,liturgy_music,8521.09,Photolist,lorem vitae mattis nibh ligula nec,check,true,Malachi Brigshaw
+162,4/17/2019,automobiles,4070.1,Avamba,hac habitasse platea dictumst morbi,credit card,false,Deena Atchly
+163,8/8/2019,automobiles,7205.2,Buzzshare,vulputate nonummy maecenas tincidunt lacus at,check,true,Aron Schulz
+164,7/12/2019,retreats,2786.34,Zooveo,ipsum primis in faucibus orci luctus et,credit card,true,Nadean Jorden
+165,1/27/2019,crm_expenses,7232.64,Jayo,vestibulum ante ipsum primis in faucibus orci luctus et,cash,true,Britt Blindt
+166,3/17/2019,automobiles,9316.44,Topicshots,felis donec semper sapien a libero nam dui proin leo odio porttitor id,check,true,Balduin MacTrustrie
+167,2/5/2019,outreach,9219.71,Linklinks,sit amet consectetuer adipiscing elit proin risus praesent,credit card,true,Austina Absolom
+168,1/3/2019,other,9534.82,Mydeo,accumsan tortor quis turpis sed ante vivamus tortor duis mattis,credit card,true,Shaylah Esler
+169,5/16/2019,comm_life,6666.63,Jayo,pharetra magna ac consequat metus sapien ut nunc vestibulum ante ipsum primis in,credit card,false,Ned McElvogue
+170,10/30/2019,utilities,1546.52,Brightdog,amet sem fusce consequat nulla,credit card,false,Clint Crottagh
+171,5/15/2019,crm_expenses,3076.85,Zoovu,nec molestie sed justo pellentesque,credit card,false,Dacia Petrou
+172,10/26/2019,student_leadership,8611.89,Ooba,pellentesque at nulla suspendisse potenti cras in purus,cash,true,Marnie Ginger
+173,1/26/2019,retreats,792.89,Trunyx,,check,true,Robin Dimmick
+174,1/4/2019,outreach,4105.18,Kaymbo,rutrum rutrum neque aenean auctor gravida sem praesent id massa id,cash,true,Melissa Reddy
+175,9/1/2019,building_management,6673.77,Minyx,tortor sollicitudin mi sit amet lobortis sapien,credit card,false,Ranice Keneford
+176,7/10/2019,outreach,4618.72,Tazz,ornare consequat lectus in est risus auctor sed tristique in tempus sit amet sem,cash,true,Tildie Sweetlove
+177,7/9/2019,automobiles,472.67,Avaveo,,check,false,Lethia Fosberry
+178,9/2/2019,other,2033.45,Ailane,purus phasellus in felis donec semper sapien a libero nam dui,cash,true,Liana Giddons
+179,8/9/2019,other,7397.76,Ailane,,cash,false,Shanon Ramshay
+180,8/7/2019,crm_expenses,2469.78,Rooxo,pellentesque at nulla suspendisse potenti cras in purus eu magna vulputate,check,true,Tadeas Dawney
+181,8/3/2019,building_management,1318.57,Oodoo,velit eu est congue elementum in hac habitasse,credit card,true,Say Malloch
+182,7/17/2019,liturgy_music,20.35,Skynoodle,pellentesque volutpat dui maecenas tristique est et tempus semper est quam,check,true,Simone Benedettini
+183,6/18/2019,office_administration,7666.49,Linkbuzz,pharetra magna ac consequat metus sapien ut nunc vestibulum ante ipsum,check,false,Susi Greiser
+184,11/4/2019,comm_life,8333.15,Devpoint,eleifend luctus ultricies eu nibh quisque id justo sit amet,check,true,Raimondo Fernyhough
+185,12/29/2019,liturgy_music,6776.39,Rhybox,donec vitae nisi nam ultrices libero non mattis pulvinar nulla pede ullamcorper augue a suscipit,cash,true,Bron Byllam
+186,6/19/2019,crm_expenses,4808.01,Jabbersphere,integer aliquet massa id lobortis convallis tortor risus dapibus augue vel accumsan,credit card,true,Barrett Dooley
+187,9/25/2019,automobiles,9992.89,Babbleopia,risus praesent lectus vestibulum quam sapien varius ut blandit,check,false,Cass Pimerick
+188,11/18/2019,comm_life,5342.48,Pixonyx,quis orci eget orci vehicula condimentum curabitur in,cash,true,Ronny Castellani
+189,7/27/2019,crm_expenses,6853.03,Youbridge,integer a nibh in quis,cash,false,Eberhard Durand
+190,12/27/2019,other,4793.36,Oloo,tincidunt ante vel ipsum praesent blandit lacinia,cash,false,Georgie Sorrill
+191,1/26/2019,retreats,6855.39,Einti,tincidunt in leo maecenas pulvinar lobortis est phasellus sit amet erat,credit card,false,Astra Pulfer
+192,1/9/2019,student_leadership,9351.76,Topiczoom,integer ac neque duis bibendum morbi,check,true,Vick Tidey
+193,5/22/2019,automobiles,6977.31,Topicblab,,check,true,Garrik D'Agostino
+194,7/25/2019,retreats,8847.79,Youtags,ut erat id mauris vulputate elementum,cash,false,Ibbie Melsome
+195,6/15/2019,retreats,3308.17,Dynazzy,aliquam augue quam sollicitudin vitae consectetuer eget rutrum at lorem integer tincidunt ante vel,cash,true,Joly Aspell
+196,6/17/2019,office_administration,2575.96,Eare,,cash,false,Aaron Gasson
+197,1/8/2019,retreats,7442.64,Youbridge,lacinia sapien quis libero nullam sit amet turpis elementum ligula vehicula,cash,true,Matteo Le Count
+198,8/2/2019,office_administration,7680.31,Skivee,tortor id nulla ultrices aliquet,cash,false,Bruce Staite
+199,8/13/2019,utilities,2384.31,Abata,curae donec pharetra magna vestibulum aliquet ultrices erat tortor,check,true,Crissy Bellson
+200,9/22/2019,building_management,8480.44,Oyoba,maecenas tincidunt lacus at velit,check,false,Ara Flescher
+201,8/16/2019,utilities,5259.08,Babbleblab,lectus in quam fringilla rhoncus mauris enim leo rhoncus sed vestibulum sit amet cursus,credit card,true,Kele Roggers
+202,9/8/2019,automobiles,5340.21,Meeveo,consequat in consequat ut nulla,credit card,false,Ossie Wakley
+203,8/22/2019,crm_expenses,7569.42,Devbug,habitasse platea dictumst maecenas ut massa quis augue luctus tincidunt,cash,true,Jenda Bill
+204,5/26/2019,comm_life,7993.17,Zooveo,sit amet sem fusce consequat nulla,check,true,Vlad Burroughes
+205,9/1/2019,building_management,9693.34,Vinte,augue vel accumsan tellus nisi eu,cash,true,Susanetta McMaster
+206,3/19/2019,crm_expenses,2177.41,Myworks,tortor sollicitudin mi sit amet lobortis sapien,credit card,true,Geordie Wilfing
+207,2/12/2019,retreats,9763.91,Quire,est et tempus semper est,credit card,false,Nettle Vellden
+208,5/1/2019,student_leadership,8770.37,Trilia,in faucibus orci luctus et ultrices posuere cubilia curae nulla dapibus dolor vel est,check,false,Elnar Keveren
+209,6/12/2019,utilities,1699.5,Fanoodle,lorem id ligula suspendisse ornare consequat,credit card,false,Darla Martyns
+210,7/7/2019,comm_life,6772.6,Browsezoom,volutpat sapien arcu sed augue aliquam erat volutpat in congue etiam justo etiam pretium,cash,false,Rebekkah Arnoll
+211,5/6/2019,outreach,9399.85,Lazzy,nec euismod scelerisque quam turpis adipiscing lorem vitae mattis nibh ligula,check,false,Liana Bynold
+212,7/5/2019,other,6201.79,Browsecat,vel ipsum praesent blandit lacinia erat vestibulum sed magna at nunc commodo,cash,false,Katine Craighill
+213,12/28/2019,faith_education,8401.45,Zazio,cursus id turpis integer aliquet massa id lobortis convallis tortor risus dapibus augue,cash,false,Rorie Baignard
+214,10/14/2019,office_administration,1627.88,Geba,eget nunc donec quis orci eget orci vehicula condimentum curabitur in libero ut massa volutpat,cash,false,Marni Yanshinov
+215,7/21/2019,social_justice,7151.55,Kazu,fusce congue diam id ornare imperdiet sapien urna pretium nisl ut volutpat sapien arcu,cash,false,Caryl Husset
+216,8/20/2019,other,8314.17,Gabspot,justo sollicitudin ut suscipit a feugiat,credit card,false,Loren Ormshaw
+217,2/6/2019,utilities,3428.52,Zooxo,duis aliquam convallis nunc proin at,credit card,false,Isabella Leithgoe
+218,6/10/2019,building_management,6187.38,Zoozzy,vestibulum sagittis sapien cum sociis natoque penatibus et magnis dis parturient,credit card,true,Sherye Blewett
+219,11/18/2019,building_management,3886.5,Dynava,,check,true,Allina Kamena
+220,10/19/2019,outreach,7683.61,Yodoo,malesuada in imperdiet et commodo vulputate justo in blandit ultrices,cash,false,Dun Meaker
+221,12/8/2019,comm_life,4024.13,Meevee,sapien cum sociis natoque penatibus et magnis dis parturient montes,credit card,false,Byran Dewdeny
+222,5/17/2019,office_administration,7033.12,Feedfire,magna vulputate luctus cum sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus,credit card,true,Clement Joannidi
+223,1/10/2019,automobiles,1198.44,Flashpoint,iaculis diam erat fermentum justo,credit card,false,Tiebold Lake
+224,8/11/2019,other,6267.86,Bluejam,est donec odio justo sollicitudin ut,check,false,Kirbie Fretwell
+225,9/24/2019,liturgy_music,7460.41,Divape,augue vestibulum rutrum rutrum neque aenean auctor gravida sem praesent id massa,credit card,true,Nolan Seczyk
+226,6/7/2019,office_administration,3727.56,Skyba,nulla suscipit ligula in lacus curabitur at ipsum ac tellus semper interdum mauris,credit card,false,Thorny Ibbett
+227,11/17/2019,utilities,5962.11,Brightdog,,cash,true,Morten Macauley
+228,8/16/2019,retreats,8010.61,Zoomzone,,cash,true,Mac Gimert
+229,5/28/2019,retreats,1070.54,Ainyx,sed lacus morbi sem mauris laoreet ut rhoncus aliquet pulvinar sed nisl nunc,cash,true,Rebekah Ertelt
+230,11/3/2019,retreats,2344.2,Rhynyx,adipiscing lorem vitae mattis nibh ligula nec sem duis aliquam convallis nunc proin,credit card,true,Liliane Gallier
+231,2/1/2019,office_administration,8504.61,Tagfeed,,cash,false,Temp Kettridge
+232,8/23/2019,liturgy_music,4646.52,Skilith,donec vitae nisi nam ultrices libero non,cash,false,Laura Travis
+233,6/14/2019,automobiles,9150.5,Linkbridge,,cash,true,Cindee Hundell
+234,1/8/2019,building_management,1433.37,Plambee,suscipit nulla elit ac nulla sed vel,check,false,Evie Page
+235,4/21/2019,automobiles,4889.96,Twimm,primis in faucibus orci luctus et ultrices posuere cubilia,cash,false,Amble Jamrowicz
+236,2/8/2019,outreach,5415.09,Fiveclub,imperdiet sapien urna pretium nisl ut volutpat sapien arcu,check,false,Page Bottom
+237,12/10/2019,retreats,442.87,Realbridge,mauris ullamcorper purus sit amet nulla quisque arcu libero rutrum ac lobortis vel,check,false,Brandea Cust
+238,4/27/2019,social_justice,6811.84,Meevee,neque libero convallis eget eleifend luctus ultricies,cash,true,Noelani Willcocks
+239,5/31/2019,comm_life,2378.85,Fadeo,at nibh in hac habitasse platea dictumst aliquam augue quam sollicitudin vitae consectetuer eget,check,false,Fabio Gwinnel
+240,9/14/2019,outreach,3143.84,Topicstorm,diam in magna bibendum imperdiet nullam orci pede venenatis non sodales sed tincidunt,check,false,Jon Riste
+241,7/4/2019,faith_education,1831.74,Oyoyo,pellentesque volutpat dui maecenas tristique est et,check,true,Jonah Whitford
+242,3/18/2019,student_leadership,9586.85,Fivebridge,suspendisse potenti nullam porttitor lacus at turpis donec posuere metus vitae ipsum aliquam,cash,true,Gil Pavie
+243,12/28/2019,liturgy_music,3508.32,Brainsphere,in lacus curabitur at ipsum ac tellus semper,check,true,Kellsie Beatty
+244,9/21/2019,comm_life,307.34,Jetpulse,,cash,true,Malia Hartle
+245,5/18/2019,comm_life,2379.81,Meeveo,,check,true,Dieter Tingle
+246,11/18/2019,social_justice,3132.96,Myworks,id lobortis convallis tortor risus dapibus augue vel accumsan tellus,credit card,true,Russ Blaskett
+247,8/31/2019,other,9933.56,Jazzy,at ipsum ac tellus semper interdum,credit card,true,Alwyn Bevington
+248,11/6/2019,crm_expenses,8487.56,Fivebridge,dictumst morbi vestibulum velit id pretium iaculis diam erat fermentum justo nec condimentum neque sapien,credit card,false,Simonne Chaman
+249,7/10/2019,faith_education,4515.11,Devbug,augue quam sollicitudin vitae consectetuer eget rutrum at lorem integer tincidunt ante vel ipsum,check,false,Kellby Ramme
+250,6/17/2019,retreats,6377.35,Vidoo,vestibulum ante ipsum primis in faucibus orci,cash,true,Graham Gratland
+251,9/22/2019,outreach,4215.17,Camido,volutpat sapien arcu sed augue aliquam erat volutpat in congue etiam justo,check,false,Danielle Hyndley
+252,7/28/2019,crm_expenses,3168.62,Skiba,in tempor turpis nec euismod scelerisque quam turpis,check,true,Krystle Trouncer
+253,8/27/2019,faith_education,7925.24,Divape,vestibulum velit id pretium iaculis diam erat fermentum justo nec condimentum neque,check,false,Fabien Meeland
+254,4/19/2019,office_administration,8752.88,Muxo,praesent blandit lacinia erat vestibulum sed magna at nunc commodo placerat,credit card,true,Henrieta Digg
+255,6/19/2019,automobiles,6942.49,Flipopia,arcu adipiscing molestie hendrerit at vulputate vitae,check,true,Fey Peace
+256,5/21/2019,comm_life,9156.58,Roomm,lectus vestibulum quam sapien varius ut blandit non interdum in ante vestibulum,cash,false,Caritta Ashton
+257,5/11/2019,faith_education,4937.85,Rhycero,at nunc commodo placerat praesent,check,true,Borg Symes
+258,5/3/2019,building_management,9072.43,Youtags,congue vivamus metus arcu adipiscing molestie hendrerit at vulputate vitae,credit card,true,Janine Seer
+259,12/28/2019,comm_life,7850.49,Ailane,odio odio elementum eu interdum eu,cash,false,Rey Pharrow
+260,4/2/2019,outreach,1166.93,Linkbuzz,hac habitasse platea dictumst etiam faucibus cursus urna,check,false,Malva Carolan
+261,1/6/2019,office_administration,6608.66,Oodoo,rutrum nulla tellus in sagittis dui vel nisl duis ac nibh fusce lacus,credit card,false,Trina Cottel
+262,12/28/2019,retreats,3390.79,Centidel,auctor gravida sem praesent id massa id nisl venenatis lacinia aenean sit amet justo,cash,true,Earvin Simione
+263,9/8/2019,retreats,7063.31,Feedfish,faucibus orci luctus et ultrices posuere cubilia curae nulla dapibus dolor vel est donec,credit card,false,Odetta Gittus
+264,11/13/2019,automobiles,6733.49,Flipopia,cras mi pede malesuada in imperdiet et commodo vulputate,cash,true,Yvor Cicetti
+265,9/3/2019,outreach,9593.53,Fiveclub,blandit lacinia erat vestibulum sed magna at,credit card,true,Creight Partington
+266,9/16/2019,office_administration,1786.3,BlogXS,,cash,false,Camey Deacock
+267,11/6/2019,student_leadership,8447.75,Trunyx,in magna bibendum imperdiet nullam orci pede venenatis non sodales sed tincidunt eu,check,false,Gwynne Heggs
+268,3/13/2019,office_administration,1513.16,Janyx,ultrices posuere cubilia curae duis faucibus accumsan odio curabitur,cash,false,Van Banbrigge
+269,2/16/2019,retreats,6766.38,Quimm,turpis eget elit sodales scelerisque mauris sit amet eros suspendisse,cash,false,Korney Ellett
+270,12/6/2019,utilities,6745.77,Browsebug,malesuada in imperdiet et commodo,check,true,Sherye MacGiolla
+271,6/17/2019,retreats,5897.89,Skinder,tortor id nulla ultrices aliquet maecenas leo,check,false,Nikita Alvar
+272,2/18/2019,office_administration,2533.23,Tazzy,malesuada in imperdiet et commodo vulputate justo in blandit ultrices enim lorem ipsum dolor sit,credit card,true,Terri Bowden
+273,11/24/2019,social_justice,244.14,Skilith,et ultrices posuere cubilia curae donec pharetra magna vestibulum aliquet ultrices erat,cash,false,Bradford Lawrenz
+274,2/9/2019,social_justice,8011.69,Wordware,orci nullam molestie nibh in lectus pellentesque at nulla suspendisse potenti cras in,cash,true,Marvin Turfs
+275,11/9/2019,liturgy_music,2870.63,Trupe,pharetra magna ac consequat metus sapien ut nunc vestibulum ante ipsum,cash,false,Hobie Whistan
+276,1/22/2019,faith_education,5722.79,Riffpath,fermentum justo nec condimentum neque sapien placerat ante,credit card,true,Penny Varns
+277,9/1/2019,crm_expenses,5293.82,Twinder,ornare consequat lectus in est,check,true,Jared Daenen
+278,4/20/2019,retreats,5605.23,Kwilith,nec condimentum neque sapien placerat ante nulla,credit card,false,Wenona Svanini
+279,12/3/2019,other,1401.32,Wikizz,,cash,true,Isa Eteen
+280,2/27/2019,crm_expenses,4306.68,Youopia,id justo sit amet sapien dignissim vestibulum vestibulum ante,cash,true,Cointon Gault
+281,2/23/2019,crm_expenses,4975.22,Abata,massa quis augue luctus tincidunt nulla mollis molestie lorem quisque ut erat curabitur,credit card,true,Kate Joules
+282,2/9/2019,office_administration,1726.73,Aivee,mauris laoreet ut rhoncus aliquet pulvinar sed nisl nunc rhoncus dui vel sem,check,true,Edy Lappine
+283,6/20/2019,building_management,9873.63,Mydo,velit donec diam neque vestibulum eget vulputate ut ultrices vel,check,false,Bruce McIlwaine
+284,7/16/2019,automobiles,3415.6,Twitterworks,,check,false,Egor Petrovykh
+285,3/25/2019,faith_education,1946.5,Yotz,massa volutpat convallis morbi odio odio elementum eu interdum eu tincidunt in,cash,false,Angie Knights
+286,2/22/2019,comm_life,8516.81,Chatterbridge,,credit card,false,Standford Pinks
+287,12/20/2019,liturgy_music,7866.59,Yotz,sagittis nam congue risus semper porta volutpat quam pede,check,false,Hector Riddoch
+288,8/27/2019,outreach,9939.75,Meezzy,mattis nibh ligula nec sem duis aliquam convallis nunc,cash,true,Allyn Hukins
+289,3/5/2019,office_administration,4660.3,Photobean,maecenas tincidunt lacus at velit vivamus vel nulla eget eros elementum pellentesque quisque porta,cash,true,Graehme Lisamore
+290,1/25/2019,office_administration,5379.83,Twimbo,adipiscing elit proin interdum mauris non ligula,check,false,Kellie Shorton
+291,9/15/2019,outreach,2285.01,Jabberstorm,eros elementum pellentesque quisque porta volutpat erat quisque erat eros,cash,false,Amory Freezor
+292,11/10/2019,office_administration,2862.07,Realpoint,sagittis nam congue risus semper porta volutpat quam pede,credit card,true,Emlynne Melwall
+293,2/23/2019,other,4709.28,Demizz,purus phasellus in felis donec,credit card,false,Gray Maggs
+294,6/7/2019,outreach,1062.4,Topicware,nibh in lectus pellentesque at nulla suspendisse potenti cras,credit card,true,Winthrop Rawlyns
+295,4/9/2019,outreach,8288.55,Zoovu,consequat varius integer ac leo pellentesque ultrices mattis odio donec vitae nisi nam,check,false,Barr Cowie
+296,1/1/2019,building_management,674.96,Rhynyx,cras mi pede malesuada in imperdiet et commodo vulputate justo in blandit,cash,true,Rayner Barbie
+297,6/24/2019,automobiles,7849.71,Browseblab,accumsan tellus nisi eu orci mauris,cash,true,Kessiah Dell'Abbate
+298,6/13/2019,utilities,7278.96,Oyondu,congue diam id ornare imperdiet sapien urna pretium nisl ut volutpat,cash,true,Rodrigo Bollon
+299,10/6/2019,automobiles,9074.66,Cogilith,eu felis fusce posuere felis sed,credit card,true,Colline Anthonies
+300,2/9/2019,building_management,3613.44,Aimbo,,credit card,true,Arv Rowes
+301,1/8/2019,office_administration,5362.84,Demizz,,credit card,false,Kayle Galletley
+302,12/29/2019,comm_life,7265.61,Innotype,,cash,true,Binni Baalham
+303,4/18/2019,other,1814.76,Quimba,malesuada in imperdiet et commodo,cash,true,Alvera Copnar
+304,5/1/2019,retreats,2185.28,Jetwire,condimentum curabitur in libero ut,check,false,Dieter Roalfe
+305,4/7/2019,outreach,4382.3,Yakidoo,ante nulla justo aliquam quis turpis eget elit sodales scelerisque mauris sit amet eros,credit card,false,Carley Paslow
+306,9/3/2019,faith_education,8097.81,Camimbo,quam sollicitudin vitae consectetuer eget rutrum at lorem integer tincidunt ante,credit card,true,Ingar Harriman
+307,1/20/2019,retreats,4368.59,Wordtune,cursus id turpis integer aliquet massa id lobortis convallis tortor risus dapibus,credit card,false,Chrystal Sanbroke
+308,12/2/2019,outreach,2831.94,Demivee,amet consectetuer adipiscing elit proin risus praesent lectus vestibulum quam,credit card,true,Jenilee Gherardi
+309,8/17/2019,utilities,5218.13,Realbuzz,non mattis pulvinar nulla pede ullamcorper augue a suscipit nulla elit ac nulla sed vel,cash,false,Olwen Bartoszek
+310,1/8/2019,other,7858.03,Rhynoodle,duis faucibus accumsan odio curabitur convallis duis consequat dui,cash,false,Perle McCafferky
+311,3/29/2019,liturgy_music,1754.74,Meejo,ut massa volutpat convallis morbi odio odio elementum,credit card,false,Joela Hews
+312,6/17/2019,outreach,3518.53,Katz,natoque penatibus et magnis dis parturient montes nascetur ridiculus mus vivamus vestibulum sagittis,credit card,false,Brendin Searby
+313,2/8/2019,building_management,9899.82,Demimbu,ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae mauris,cash,true,Alfredo McHardy
+314,8/17/2019,outreach,8619.65,Mynte,et ultrices posuere cubilia curae duis faucibus accumsan odio curabitur convallis duis consequat,cash,true,Cacilie Daniels
+315,1/11/2019,office_administration,2570.7,Eare,eget congue eget semper rutrum nulla nunc purus phasellus in felis donec,cash,true,Agnella Pellew
+316,7/7/2019,social_justice,2106.73,Yotz,ac neque duis bibendum morbi non quam nec dui luctus rutrum nulla tellus in sagittis,check,true,Conny Cockayme
+317,6/20/2019,liturgy_music,1244.39,Zooveo,posuere cubilia curae duis faucibus accumsan odio,check,true,Jeana Lindell
+318,2/23/2019,crm_expenses,8109.79,Dynabox,blandit mi in porttitor pede justo eu massa donec dapibus duis at velit eu,credit card,false,Melany Haverty
+319,9/11/2019,comm_life,7591.24,Realfire,sit amet erat nulla tempus vivamus in felis eu sapien,credit card,true,Liam Orchart
+320,8/15/2019,faith_education,9848.17,Jamia,dui vel sem sed sagittis nam congue risus semper porta volutpat quam pede,cash,false,Bevvy Bramstom
+321,5/23/2019,crm_expenses,8483.93,Snaptags,mauris lacinia sapien quis libero,credit card,true,Mechelle Picheford
+322,10/28/2019,utilities,9716.98,Bubblemix,aliquet at feugiat non pretium quis lectus suspendisse potenti in eleifend quam a odio,credit card,false,Kaja Haylock
+323,7/6/2019,faith_education,1235.03,Yabox,vitae consectetuer eget rutrum at lorem,cash,true,Leanora Braiden
+324,11/7/2019,other,6308.35,Oyonder,dui proin leo odio porttitor id consequat in consequat ut nulla sed accumsan felis ut,check,true,Bibby Aseef
+325,10/24/2019,other,9844.84,Feedmix,nulla tempus vivamus in felis eu sapien cursus vestibulum proin eu mi nulla ac,check,false,Lemmy Rawlingson
+326,6/26/2019,liturgy_music,7555.61,Yambee,mi integer ac neque duis bibendum morbi non quam nec dui,cash,false,Mickie Kauscher
+327,7/27/2019,student_leadership,8989.22,Meetz,lectus vestibulum quam sapien varius ut blandit non,credit card,false,Sibelle Meader
+328,10/17/2019,building_management,5502.96,Voonix,,credit card,false,Feodora Abrams
+329,3/17/2019,outreach,4349.23,Fanoodle,morbi odio odio elementum eu interdum eu tincidunt,credit card,true,Bondie Hatherleigh
+330,10/12/2019,building_management,7313.0,Vitz,nulla integer pede justo lacinia eget tincidunt eget tempus vel pede morbi porttitor,credit card,false,Aryn Halbeard
+331,11/29/2019,other,2217.6,Skivee,enim sit amet nunc viverra dapibus nulla suscipit ligula in lacus curabitur at ipsum ac,credit card,true,Kirstin Nolot
+332,9/27/2019,other,3754.35,Katz,suscipit nulla elit ac nulla sed vel enim sit amet,credit card,true,Lev Olner
+333,9/26/2019,automobiles,5562.01,Innojam,,credit card,true,Eryn Fowlestone
+334,7/17/2019,social_justice,496.46,Wikibox,fermentum justo nec condimentum neque,cash,true,Lucia Abrehart
+335,4/12/2019,comm_life,6481.67,Wordpedia,nec euismod scelerisque quam turpis,check,false,Ardene Coleford
+336,11/28/2019,faith_education,398.93,Tagtune,a nibh in quis justo maecenas rhoncus aliquam lacus morbi quis tortor id nulla,cash,false,Nona Perrington
+337,4/12/2019,social_justice,5257.07,Wordtune,mattis egestas metus aenean fermentum donec ut mauris eget massa tempor convallis nulla neque,credit card,false,Emlynn Doherty
+338,2/4/2019,other,2053.5,Cogilith,fringilla rhoncus mauris enim leo rhoncus sed,cash,false,Spense Caplis
+339,12/27/2019,faith_education,6824.71,Meejo,nulla suscipit ligula in lacus curabitur at ipsum ac tellus semper interdum mauris ullamcorper,check,false,Montague Raulin
+340,12/5/2019,crm_expenses,8091.97,Camimbo,,cash,false,Steffen Kennion
+341,7/21/2019,other,495.42,Kazio,sollicitudin mi sit amet lobortis sapien sapien non mi integer,cash,false,Dena Jacop
+342,11/8/2019,crm_expenses,4070.3,Cogidoo,non lectus aliquam sit amet diam in magna bibendum imperdiet nullam orci pede,credit card,false,Roseline Darkott
+343,8/1/2019,crm_expenses,4234.49,Bubblemix,sapien quis libero nullam sit amet turpis elementum ligula vehicula consequat,check,true,Em McCullock
+344,11/21/2019,student_leadership,1126.19,Jaloo,platea dictumst maecenas ut massa quis augue luctus tincidunt nulla mollis molestie lorem quisque ut,cash,false,Marga Trevino
+345,10/8/2019,automobiles,6785.36,Yamia,ut blandit non interdum in ante vestibulum ante,check,true,Kayla Belasco
+346,8/13/2019,other,6771.22,Mita,,check,false,Dallon Smiley
+347,11/20/2019,other,8848.41,Photolist,sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus etiam,cash,false,Quill Baigent
+348,2/15/2019,building_management,4445.6,Twitterbeat,interdum mauris non ligula pellentesque ultrices phasellus,cash,true,Mendel Sacchetti
+349,5/13/2019,building_management,1439.84,Mynte,varius integer ac leo pellentesque ultrices mattis odio,check,true,Townsend Okeshott
+350,3/11/2019,faith_education,9245.28,Thoughtbridge,,check,false,Palm Caston
+351,10/1/2019,building_management,5767.84,Browsebug,,cash,true,Jocko Tabb
+352,8/8/2019,faith_education,1910.82,LiveZ,sapien a libero nam dui proin leo odio,check,false,Cleon Megainey
+353,10/7/2019,crm_expenses,7522.1,Topicstorm,nec sem duis aliquam convallis nunc proin at turpis,credit card,true,Garnet Treffry
+354,1/28/2019,utilities,6804.63,Skipstorm,quisque erat eros viverra eget congue eget semper rutrum nulla nunc purus phasellus,check,false,Garald O'Cannan
+355,11/9/2019,other,369.99,Wordpedia,,check,false,Karena Piatti
+356,7/7/2019,student_leadership,7562.55,Twimbo,ut dolor morbi vel lectus in quam fringilla rhoncus mauris,check,true,Calvin Aleveque
+357,3/14/2019,comm_life,6519.23,Mymm,sapien cum sociis natoque penatibus et magnis dis parturient montes nascetur,credit card,true,Roobbie Beal
+358,3/27/2019,utilities,4739.69,InnoZ,,check,true,Ransell Trinder
+359,5/16/2019,utilities,7110.81,Voolia,sapien cum sociis natoque penatibus et magnis dis parturient,cash,false,Dev Izzatt
+360,10/3/2019,student_leadership,1375.57,Wikido,libero quis orci nullam molestie nibh in lectus pellentesque,credit card,true,Therese Walsh
+361,1/21/2019,comm_life,585.53,Mita,maecenas ut massa quis augue luctus,check,false,Bord Larmuth
+362,11/16/2019,crm_expenses,3642.04,Brightdog,metus sapien ut nunc vestibulum ante ipsum primis in faucibus orci luctus et ultrices,check,true,Chelsae Smalles
+363,1/26/2019,office_administration,6162.95,Roomm,tempus sit amet sem fusce consequat nulla nisl,credit card,true,Tome Dumblton
+364,1/5/2019,office_administration,8968.91,Feedspan,aliquet massa id lobortis convallis tortor risus dapibus augue vel accumsan,cash,true,Karrah Wrates
+365,5/18/2019,faith_education,9791.02,Brainverse,vestibulum rutrum rutrum neque aenean auctor gravida sem praesent id,cash,false,Morna Keenlayside
+366,8/22/2019,comm_life,2998.93,Oyope,,cash,false,Alistair Scotchmore
+367,12/12/2019,automobiles,7777.17,Fiveclub,posuere cubilia curae duis faucibus accumsan odio curabitur convallis duis consequat,credit card,false,Jenny Dionisii
+368,1/27/2019,faith_education,4927.11,Skajo,pretium quis lectus suspendisse potenti in eleifend quam a odio in hac habitasse platea dictumst,check,false,Tabina Yoakley
+369,7/4/2019,other,1895.77,Teklist,est et tempus semper est quam pharetra magna,check,false,Peggi Carse
+370,6/16/2019,comm_life,3489.78,Babbleblab,vestibulum quam sapien varius ut blandit non interdum in ante vestibulum ante ipsum,check,true,Austin Bradnock
+371,3/6/2019,comm_life,7001.78,Buzzbean,et ultrices posuere cubilia curae mauris viverra,cash,true,Chrisse Mattschas
+372,8/23/2019,social_justice,1022.15,Cogibox,rutrum nulla nunc purus phasellus,credit card,false,Hasheem Buche
+373,10/29/2019,building_management,5540.92,Jaloo,tempus sit amet sem fusce,credit card,true,Robbi Duckit
+374,1/11/2019,faith_education,1090.03,Yacero,orci luctus et ultrices posuere cubilia curae duis faucibus accumsan odio curabitur convallis duis consequat,credit card,true,Ericha Titcombe
+375,7/24/2019,building_management,9197.07,Skilith,est donec odio justo sollicitudin ut suscipit a feugiat et eros,check,true,Dede Tulleth
+376,5/19/2019,comm_life,4628.97,Mycat,quis turpis sed ante vivamus,cash,false,Adena Kembley
+377,6/9/2019,liturgy_music,1491.82,Skippad,pulvinar sed nisl nunc rhoncus dui vel sem sed,check,false,Riccardo Powers
+378,4/9/2019,other,3062.35,BlogXS,integer ac leo pellentesque ultrices mattis odio donec,check,true,Auberon Wardingley
+379,4/2/2019,comm_life,4966.06,Voonyx,vestibulum rutrum rutrum neque aenean auctor gravida sem praesent,credit card,true,Joscelin Grabb
+380,8/11/2019,retreats,5091.44,Twitterbridge,at nibh in hac habitasse platea dictumst aliquam augue quam sollicitudin,credit card,false,Shaun Corthes
+381,6/15/2019,other,3876.92,Yakitri,faucibus orci luctus et ultrices posuere cubilia curae duis faucibus accumsan odio curabitur convallis duis,cash,false,Melitta Le Borgne
+382,7/21/2019,other,8401.57,Abata,arcu sed augue aliquam erat volutpat in congue etiam,credit card,false,Jere Rothschild
+383,5/10/2019,crm_expenses,7605.68,Vimbo,arcu libero rutrum ac lobortis vel dapibus at diam,cash,false,Mozes Hardes
+384,10/19/2019,automobiles,151.68,Abata,ut dolor morbi vel lectus in quam fringilla rhoncus mauris enim,credit card,false,Shauna Martusewicz
+385,5/25/2019,social_justice,1623.43,Kayveo,gravida sem praesent id massa id nisl venenatis lacinia aenean sit amet,credit card,true,Harland Akroyd
+386,6/5/2019,building_management,5760.24,Yodel,sodales scelerisque mauris sit amet eros suspendisse accumsan tortor quis turpis sed ante vivamus,check,true,Aeriell Alyokhin
+387,10/17/2019,office_administration,2149.12,Jayo,posuere cubilia curae mauris viverra diam vitae quam suspendisse potenti nullam porttitor lacus at,check,false,Wendy Delia
+388,4/7/2019,utilities,870.17,Quimba,rutrum rutrum neque aenean auctor,cash,true,Irwinn Kubal
+389,8/15/2019,student_leadership,6748.58,Gigazoom,semper sapien a libero nam dui proin leo odio porttitor id consequat in consequat ut,credit card,false,Corbin Durbyn
+390,8/22/2019,retreats,4244.36,Skipfire,duis consequat dui nec nisi volutpat eleifend donec ut dolor morbi vel,check,false,Tanhya Climo
+391,6/10/2019,student_leadership,9751.34,Izio,rhoncus mauris enim leo rhoncus sed vestibulum sit amet cursus id,cash,false,Dominga Brandi
+392,4/29/2019,retreats,6940.1,Buzzshare,,credit card,false,Sophia Ilbert
+393,5/30/2019,outreach,2366.5,Yodel,integer ac leo pellentesque ultrices mattis odio donec vitae nisi nam ultrices libero non,check,false,Danyelle Tulip
+394,7/4/2019,retreats,6600.51,Agimba,mattis pulvinar nulla pede ullamcorper augue a suscipit nulla elit ac nulla sed vel enim,check,false,Sheffie Dauncey
+395,8/1/2019,student_leadership,4538.34,Yotz,elit proin risus praesent lectus vestibulum quam sapien varius,cash,false,Roxine Sugar
+396,3/21/2019,faith_education,5694.31,Lazzy,tincidunt eu felis fusce posuere felis sed lacus morbi sem mauris laoreet ut rhoncus,cash,false,Ruddie Katzmann
+397,2/12/2019,office_administration,4145.24,Mynte,eleifend quam a odio in hac habitasse platea dictumst maecenas,check,true,Bonni Crim
+398,11/23/2019,utilities,5359.96,Dabshots,felis fusce posuere felis sed lacus morbi sem mauris laoreet ut rhoncus aliquet pulvinar,cash,false,Sandy Bispham
+399,7/26/2019,automobiles,6385.58,Fivechat,et commodo vulputate justo in blandit ultrices enim lorem ipsum dolor sit amet,check,false,Benjie Havoc
+400,1/28/2019,social_justice,915.83,Topdrive,arcu libero rutrum ac lobortis vel dapibus at diam nam tristique,credit card,false,Derrek Verdy
+401,7/26/2019,outreach,4191.21,Feedspan,quisque porta volutpat erat quisque erat eros viverra eget,cash,true,Marina Graysmark
+402,10/30/2019,student_leadership,6126.99,Quire,,cash,true,Dosi Tetther
+403,9/26/2019,outreach,1632.64,Reallinks,etiam faucibus cursus urna ut tellus nulla ut erat id,check,true,Ericka Skouling
+404,11/16/2019,student_leadership,458.81,Lazzy,magnis dis parturient montes nascetur ridiculus mus,credit card,false,Goddard Aldus
+405,11/22/2019,crm_expenses,3372.79,Voonyx,ut erat id mauris vulputate elementum nullam varius nulla,cash,true,Candide Rixon
+406,6/20/2019,liturgy_music,8223.45,Twimm,erat quisque erat eros viverra eget congue eget semper rutrum nulla nunc,credit card,false,Jacynth Gofton
+407,2/26/2019,outreach,7768.58,Mudo,placerat ante nulla justo aliquam quis turpis eget elit sodales scelerisque,cash,false,Robin McGooch
+408,3/19/2019,automobiles,5079.34,Yambee,ultrices enim lorem ipsum dolor sit amet consectetuer adipiscing elit proin interdum mauris non,check,false,Ree Dayes
+409,1/30/2019,liturgy_music,5970.14,Lazzy,duis ac nibh fusce lacus purus aliquet at feugiat non,credit card,false,Camille Boxell
+410,7/23/2019,automobiles,2024.06,Brainlounge,lectus aliquam sit amet diam,cash,true,Anatollo Devigne
+411,2/4/2019,retreats,7312.95,Skalith,est congue elementum in hac habitasse platea,credit card,true,Rosemarie McGlaughn
+412,1/16/2019,social_justice,5479.33,Topiclounge,tempus vivamus in felis eu sapien cursus vestibulum proin eu mi,credit card,true,Krystal Ruckman
+413,8/14/2019,office_administration,5610.63,Photobean,orci eget orci vehicula condimentum curabitur in,cash,true,Hobard Minchinden
+414,7/25/2019,office_administration,8516.3,Centidel,posuere cubilia curae donec pharetra magna,cash,false,Kathe Cayser
+415,6/23/2019,liturgy_music,2529.17,Miboo,vulputate luctus cum sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus,check,false,Kinna Vila
+416,7/15/2019,building_management,5269.56,Tagcat,nisi eu orci mauris lacinia sapien quis libero nullam sit amet turpis elementum ligula vehicula,check,true,Quillan Guilbert
+417,5/7/2019,social_justice,9821.16,Trunyx,lectus vestibulum quam sapien varius ut blandit non interdum in ante vestibulum ante ipsum,cash,true,Uta Lowcock
+418,6/14/2019,other,4401.08,Photobug,pellentesque ultrices mattis odio donec vitae nisi nam ultrices libero non mattis pulvinar,credit card,true,Rudolph Ghelarducci
+419,5/13/2019,outreach,6312.36,Quatz,at nunc commodo placerat praesent blandit nam nulla integer pede justo lacinia eget tincidunt eget,cash,false,Katya Hankard
+420,12/7/2019,building_management,4134.14,Jabbersphere,posuere nonummy integer non velit donec diam neque vestibulum eget vulputate ut ultrices vel augue,cash,true,Con Langsdon
+421,9/27/2019,office_administration,6872.39,Rhybox,phasellus id sapien in sapien iaculis congue vivamus metus arcu adipiscing,cash,true,Orrin Jeacocke
+422,6/15/2019,office_administration,362.95,Centimia,consequat lectus in est risus auctor sed tristique in tempus,check,true,Alvinia Tregaskis
+423,11/16/2019,liturgy_music,6264.33,Divape,pretium iaculis justo in hac habitasse platea dictumst etiam faucibus cursus urna ut tellus nulla,cash,false,Hadlee Gumly
+424,5/18/2019,office_administration,3000.16,Kwideo,odio curabitur convallis duis consequat dui nec nisi volutpat eleifend donec,check,true,Nelia Murrhardt
+425,1/28/2019,utilities,5551.91,Twitterworks,amet eros suspendisse accumsan tortor quis turpis sed ante vivamus tortor duis mattis,credit card,true,Calv Rigard
+426,11/25/2019,crm_expenses,2150.11,Fatz,,credit card,true,Oralle Winskill
+427,8/19/2019,building_management,7060.79,Quatz,consequat in consequat ut nulla sed accumsan felis ut at dolor quis odio,credit card,true,Jeffry Budget
+428,10/9/2019,utilities,8361.77,Photolist,pretium iaculis diam erat fermentum justo nec condimentum,cash,false,Evangelina Hegg
+429,9/16/2019,liturgy_music,3196.25,Skinder,venenatis lacinia aenean sit amet justo morbi ut odio cras mi pede malesuada in,credit card,true,Madelene McSperrin
+430,6/21/2019,faith_education,9007.26,Voomm,,check,true,Carolina Drohane
+431,5/3/2019,building_management,7541.21,Gabvine,nulla ultrices aliquet maecenas leo odio condimentum id luctus nec molestie sed justo pellentesque,credit card,false,Gilberta Heading
+432,6/21/2019,crm_expenses,6232.25,Edgeblab,amet nulla quisque arcu libero rutrum ac lobortis,check,true,Carey Russam
+433,4/19/2019,student_leadership,1511.68,Kazio,nunc rhoncus dui vel sem sed sagittis nam congue risus semper porta volutpat quam,credit card,false,Noella Vannacci
+434,2/5/2019,other,2106.67,Meemm,,check,false,Karry Foker
+435,7/3/2019,other,6277.36,Twitterbridge,,credit card,true,Fanny Pendreigh
+436,8/26/2019,crm_expenses,8397.12,Jabbertype,etiam justo etiam pretium iaculis justo in hac habitasse,credit card,false,Nataniel Onge
+437,10/16/2019,social_justice,6707.35,Zazio,quis orci nullam molestie nibh in lectus pellentesque at nulla suspendisse potenti,check,true,Glenn Littrell
+438,9/22/2019,outreach,8033.42,Edgepulse,ligula nec sem duis aliquam convallis nunc proin at turpis a,check,false,Raynell Creddon
+439,1/7/2019,automobiles,7324.16,Rhynoodle,justo lacinia eget tincidunt eget tempus vel pede morbi porttitor lorem,check,true,Boigie Anthona
+440,2/7/2019,student_leadership,9270.66,Photobean,eros vestibulum ac est lacinia nisi venenatis tristique fusce congue diam,check,true,Gabriela Barbara
+441,2/13/2019,automobiles,4136.06,Rhynyx,nulla tellus in sagittis dui vel nisl duis ac nibh fusce lacus,cash,false,Rick Charnick
+442,6/14/2019,office_administration,4278.14,Brightdog,neque sapien placerat ante nulla justo,credit card,false,Nola Poor
+443,8/27/2019,liturgy_music,6478.65,Feedspan,vulputate vitae nisl aenean lectus pellentesque,cash,true,Allyn Scading
+444,10/17/2019,liturgy_music,3392.48,Thoughtstorm,convallis eget eleifend luctus ultricies eu nibh,cash,false,Glad Beamont
+445,1/31/2019,utilities,5521.74,Bubblebox,tincidunt in leo maecenas pulvinar lobortis est phasellus sit amet erat nulla tempus,check,true,Arabel Bridger
+446,4/5/2019,outreach,6851.16,Feedfire,erat nulla tempus vivamus in felis eu sapien cursus vestibulum,cash,true,Mamie Feldberger
+447,1/15/2019,student_leadership,8232.71,Reallinks,dictumst aliquam augue quam sollicitudin vitae consectetuer,cash,true,Artemis Scamerden
+448,4/5/2019,building_management,5632.13,Roodel,aliquet pulvinar sed nisl nunc rhoncus,cash,false,Brinn Pikesley
+449,6/16/2019,retreats,4626.23,Wordtune,magna ac consequat metus sapien ut nunc vestibulum ante ipsum primis in faucibus,check,true,Isabella Van Arsdalen
+450,1/18/2019,social_justice,9289.78,Flashset,vulputate justo in blandit ultrices enim lorem ipsum dolor sit amet consectetuer adipiscing,credit card,true,Wendell Brister
+451,9/6/2019,building_management,3972.09,Thoughtbeat,nunc rhoncus dui vel sem sed sagittis nam congue risus semper porta volutpat,cash,false,Lenette Arkley
+452,10/13/2019,utilities,7746.52,Teklist,volutpat dui maecenas tristique est et tempus semper est quam pharetra magna ac,check,true,Orly Corragan
+453,2/7/2019,building_management,9866.14,Minyx,tempus vivamus in felis eu sapien,check,false,Rennie Nockles
+454,7/3/2019,building_management,7753.01,Flipbug,scelerisque mauris sit amet eros,check,false,Cornela Downe
+455,2/26/2019,retreats,8056.26,Jabberstorm,,credit card,false,Michaella Cadell
+456,9/29/2019,crm_expenses,7421.49,Zoovu,pretium iaculis justo in hac habitasse platea,cash,false,Daffy Brand-Hardy
+457,1/25/2019,liturgy_music,6861.14,Divanoodle,,check,false,Emili Wesker
+458,1/11/2019,social_justice,5329.52,Oozz,,cash,true,Glen Rottcher
+459,11/17/2019,building_management,4903.24,Flashspan,dapibus nulla suscipit ligula in lacus curabitur,cash,false,Gerladina Gosling
+460,3/12/2019,faith_education,9261.97,Aibox,,check,true,Angelika Dietzler
+461,5/17/2019,social_justice,5428.83,Yata,,check,true,Efrem Fallow
+462,11/20/2019,outreach,9705.41,Thoughtstorm,commodo placerat praesent blandit nam nulla integer pede,cash,false,Keen Benito
+463,8/8/2019,automobiles,4666.81,Brainbox,vel enim sit amet nunc,cash,false,Kerrie Gethins
+464,9/14/2019,retreats,6106.98,Quinu,sagittis nam congue risus semper porta volutpat quam pede lobortis ligula sit amet eleifend,check,true,Vilhelmina Lynde
+465,2/9/2019,utilities,950.5,Yodel,suscipit nulla elit ac nulla sed vel,cash,true,Deeyn Stainton
+466,5/12/2019,office_administration,7319.92,Devpulse,quam pharetra magna ac consequat metus sapien ut nunc vestibulum ante ipsum primis in faucibus,credit card,true,Dasie Manis
+467,7/7/2019,liturgy_music,3135.16,Gigashots,,credit card,true,Alissa Coviello
+468,6/30/2019,retreats,9473.54,Thoughtbridge,at lorem integer tincidunt ante vel ipsum praesent,credit card,true,Giraldo Salomon
+469,9/12/2019,automobiles,5028.02,Flashspan,aenean sit amet justo morbi ut odio cras,check,false,Chauncey O'Dyvoy
+470,12/28/2019,crm_expenses,830.18,Linkbuzz,quisque ut erat curabitur gravida nisi at nibh in,credit card,false,Janine Glaister
+471,10/4/2019,crm_expenses,2048.71,Jabberbean,risus semper porta volutpat quam pede lobortis ligula sit amet eleifend pede,credit card,false,Alric Mariet
+472,3/15/2019,office_administration,5786.46,Kazio,lorem ipsum dolor sit amet consectetuer adipiscing elit proin risus praesent lectus vestibulum,cash,true,Leesa Crowley
+473,6/18/2019,faith_education,6402.62,Kazio,convallis nulla neque libero convallis,cash,false,Neysa Instone
+474,7/11/2019,comm_life,8329.46,Fanoodle,semper est quam pharetra magna,credit card,true,Shelagh Ivanishchev
+475,6/18/2019,liturgy_music,1578.02,Zazio,parturient montes nascetur ridiculus mus etiam vel augue vestibulum rutrum rutrum neque aenean auctor gravida,check,true,Marlo Softley
+476,4/11/2019,comm_life,9857.55,Flipstorm,nulla quisque arcu libero rutrum ac lobortis,check,true,Milka Coots
+477,10/27/2019,crm_expenses,4664.28,Bluejam,iaculis justo in hac habitasse platea dictumst etiam faucibus cursus urna ut tellus,check,true,Eleanor Craddy
+478,7/2/2019,retreats,7861.75,Wikibox,semper est quam pharetra magna ac consequat metus sapien,check,false,Crissy Maber
+479,9/25/2019,outreach,2789.66,Muxo,augue quam sollicitudin vitae consectetuer eget rutrum at lorem integer tincidunt ante vel ipsum praesent,credit card,false,Eva Trenchard
+480,12/26/2019,comm_life,386.95,Avamba,odio porttitor id consequat in consequat ut nulla sed,check,false,Gilberta Cooksley
+481,6/24/2019,office_administration,8305.0,Bubblemix,,check,false,Nap Hutley
+482,5/24/2019,student_leadership,9499.18,Yadel,,credit card,false,Bail Jacqueminot
+483,9/25/2019,office_administration,7624.69,Myworks,in leo maecenas pulvinar lobortis est phasellus sit amet erat nulla tempus,cash,false,Hildegaard Woodberry
+484,6/7/2019,comm_life,3360.08,Quire,felis eu sapien cursus vestibulum proin eu,check,true,Leese Fisk
+485,7/28/2019,building_management,7384.78,Yacero,amet consectetuer adipiscing elit proin interdum mauris non ligula pellentesque ultrices phasellus,cash,false,Mickey Morgans
+486,9/17/2019,crm_expenses,9727.26,Podcat,sit amet cursus id turpis integer aliquet massa id lobortis convallis,cash,false,Franny Braley
+487,5/20/2019,faith_education,2204.64,Twitterwire,,credit card,true,Bridgette Eingerfield
+488,11/25/2019,student_leadership,6530.7,Photobug,,cash,true,Eada Hallbord
+489,9/11/2019,liturgy_music,592.48,Geba,quam nec dui luctus rutrum nulla,credit card,true,Gardy Durbridge
+490,8/9/2019,automobiles,6888.62,Topicblab,in magna bibendum imperdiet nullam orci pede venenatis non sodales sed,check,true,Toby Yoell
+491,9/21/2019,student_leadership,3193.14,Skyba,tincidunt lacus at velit vivamus vel nulla eget eros elementum pellentesque quisque porta,check,true,Elena Clulee
+492,10/29/2019,faith_education,3453.25,Talane,,check,true,Harriet Grigson
+493,9/25/2019,retreats,9912.12,Buzzster,integer aliquet massa id lobortis,cash,true,Mitch Neenan
+494,11/9/2019,other,62.51,Oodoo,in felis donec semper sapien a libero nam dui proin leo odio porttitor,credit card,false,Vilma Chartre
+495,6/25/2019,automobiles,2173.38,Divape,,cash,false,Samantha Cracknell
+496,5/3/2019,liturgy_music,2083.68,Yozio,potenti nullam porttitor lacus at turpis,check,false,Deerdre Crabb
+497,6/19/2019,other,1066.14,Vitz,aliquam quis turpis eget elit,cash,false,Emmerich Quillinane
+498,8/26/2019,building_management,7732.78,Dynava,sed lacus morbi sem mauris laoreet ut rhoncus aliquet pulvinar,check,false,Fanya Van Saltsberg
+499,8/30/2019,liturgy_music,6304.09,Skipfire,,cash,false,Molli Sanbroke
+500,1/27/2019,office_administration,9079.75,Blogtags,elit sodales scelerisque mauris sit amet eros suspendisse accumsan tortor quis turpis sed ante,cash,true,Phaedra Ellar
+501,12/25/2019,office_administration,8753.65,Oyoloo,tempor convallis nulla neque libero convallis eget eleifend,credit card,true,Pavla Leyfield
+502,8/19/2019,automobiles,7447.78,Brainsphere,ut mauris eget massa tempor convallis nulla neque libero convallis eget eleifend,check,true,Dennie Baglin
+503,1/18/2019,liturgy_music,7843.08,Snaptags,aliquam erat volutpat in congue etiam justo etiam pretium iaculis,check,false,Rosalia Langman
+504,1/14/2019,student_leadership,1879.65,Twitterlist,,check,true,Curtis Docharty
+505,12/22/2019,social_justice,7261.02,Skinder,blandit nam nulla integer pede justo lacinia eget tincidunt eget,cash,false,Manda Younghusband
+506,4/22/2019,utilities,8617.9,Quinu,vulputate luctus cum sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus,credit card,false,Jammal Baptist
+507,4/23/2019,social_justice,2488.16,Flashspan,,check,true,Augusto Blackledge
+508,8/17/2019,liturgy_music,8647.23,Jaloo,magna vestibulum aliquet ultrices erat tortor sollicitudin mi sit amet,check,false,Morgun Scutts
+509,2/7/2019,other,1613.45,Linkbuzz,ante vestibulum ante ipsum primis in faucibus orci luctus et,credit card,false,Yancey Emmanuel
+510,2/8/2019,student_leadership,3961.58,Meedoo,,cash,false,Meara Seel
+511,4/7/2019,crm_expenses,6695.55,Yakitri,libero quis orci nullam molestie nibh in lectus pellentesque at nulla suspendisse potenti,cash,true,Shae Fadell
+512,11/22/2019,crm_expenses,3425.65,Miboo,quam fringilla rhoncus mauris enim,credit card,false,Mickey Colborn
+513,11/7/2019,faith_education,897.79,Photobug,non pretium quis lectus suspendisse potenti in eleifend quam a,check,false,Obie Pirolini
+514,4/27/2019,retreats,1942.82,Edgepulse,nam ultrices libero non mattis,cash,true,Thomasine Schild
+515,1/9/2019,building_management,1643.0,Tagfeed,aliquam non mauris morbi non lectus aliquam sit amet diam in magna bibendum imperdiet,credit card,true,Geoffry Mudle
+516,1/25/2019,outreach,4801.89,Mybuzz,eu massa donec dapibus duis at velit eu est congue elementum in hac,check,false,Issiah Knowling
+517,4/13/2019,student_leadership,9153.57,Buzzshare,suspendisse ornare consequat lectus in est risus auctor sed tristique in tempus sit amet,credit card,true,Merrile Pyle
+518,7/4/2019,student_leadership,509.62,Kazu,aliquam augue quam sollicitudin vitae consectetuer eget rutrum at lorem integer tincidunt ante,check,true,Jacob Spinozzi
+519,6/1/2019,other,6980.73,Thoughtsphere,penatibus et magnis dis parturient montes nascetur ridiculus,credit card,false,Corrinne Sissland
+520,3/23/2019,building_management,1938.14,Realpoint,risus auctor sed tristique in tempus sit amet sem fusce,cash,true,Katine Meaker
+521,1/16/2019,outreach,6755.16,Eimbee,risus praesent lectus vestibulum quam sapien varius ut blandit non interdum in ante vestibulum,check,true,Aldous Pittway
+522,5/24/2019,retreats,8878.91,Gabtune,tortor risus dapibus augue vel accumsan tellus nisi,check,true,Gaelan Sam
+523,11/19/2019,student_leadership,379.74,Zoonder,,cash,true,Rudolph Goodfellow
+524,8/16/2019,crm_expenses,7187.5,Omba,ac consequat metus sapien ut nunc vestibulum ante ipsum primis in faucibus orci luctus,credit card,true,Kari Cicullo
+525,10/28/2019,liturgy_music,1233.11,Kaymbo,nunc donec quis orci eget orci vehicula condimentum curabitur in libero ut,check,true,Lyndsay Bescoby
+526,9/1/2019,comm_life,5748.82,Mynte,mus etiam vel augue vestibulum rutrum,cash,true,Davon Bridat
+527,3/9/2019,liturgy_music,3248.34,Eire,ut erat curabitur gravida nisi at nibh in hac habitasse,check,true,Alessandro Valance
+528,3/17/2019,crm_expenses,226.45,Cogibox,,check,false,Trudi Pozzi
+529,1/28/2019,utilities,4198.8,Zoomzone,,credit card,false,Francois Byres
+530,6/26/2019,faith_education,9679.96,JumpXS,duis mattis egestas metus aenean fermentum donec ut mauris eget massa,cash,false,Aurelia Tumulty
+531,6/5/2019,faith_education,9648.36,Leexo,dolor quis odio consequat varius integer ac leo pellentesque ultrices mattis odio donec vitae,credit card,false,Molly Rallings
+532,12/19/2019,faith_education,1532.56,Snaptags,nullam varius nulla facilisi cras non velit nec nisi vulputate,cash,false,Leonora Mersey
+533,9/15/2019,faith_education,7901.68,Brainsphere,id turpis integer aliquet massa id lobortis convallis tortor risus,credit card,true,Zsazsa Rummer
+534,11/4/2019,liturgy_music,4096.57,Yombu,curae nulla dapibus dolor vel est donec odio justo sollicitudin ut,credit card,true,Lorianne Keen
+535,12/6/2019,crm_expenses,2557.82,Dynava,luctus rutrum nulla tellus in sagittis dui vel nisl duis ac nibh fusce lacus,check,false,Sally Hawthorne
+536,3/21/2019,utilities,4554.81,Skaboo,,cash,true,Wendye McTurk
+537,9/20/2019,retreats,4735.34,Devbug,ac nulla sed vel enim sit amet nunc viverra dapibus nulla suscipit ligula in lacus,credit card,true,Michele Mursell
+538,11/2/2019,social_justice,6559.65,Vimbo,nisi vulputate nonummy maecenas tincidunt lacus at velit vivamus vel nulla eget eros,credit card,true,Patrice Emanson
+539,12/19/2019,student_leadership,6272.69,Zoozzy,ante vivamus tortor duis mattis egestas metus aenean fermentum donec ut mauris eget massa tempor,cash,true,Noell Pluvier
+540,3/16/2019,building_management,7066.89,Ozu,vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere,check,true,Monroe Savery
+541,10/27/2019,building_management,7486.37,Gabspot,,cash,true,Averill Saiz
+542,8/27/2019,other,1009.68,Realcube,sit amet eleifend pede libero quis orci nullam molestie nibh,credit card,true,Constantin Dixcey
+543,3/4/2019,comm_life,1858.53,Skibox,est donec odio justo sollicitudin ut,check,true,Nissa Ellacott
+544,12/6/2019,office_administration,6463.24,Viva,sem praesent id massa id nisl venenatis lacinia aenean sit,check,true,Lorrin Renyard
+545,4/11/2019,student_leadership,4293.11,Mydo,risus dapibus augue vel accumsan,check,false,Goran Vanin
+546,10/30/2019,social_justice,4835.71,Gigashots,erat eros viverra eget congue,credit card,false,Kendra Goane
+547,3/13/2019,student_leadership,5037.45,Abata,odio in hac habitasse platea dictumst maecenas ut,cash,true,Petronia Churchman
+548,4/18/2019,outreach,5411.92,Quamba,leo odio porttitor id consequat in consequat ut nulla sed,credit card,false,Ronnie Fever
+549,1/20/2019,crm_expenses,5315.22,Photospace,sapien in sapien iaculis congue vivamus metus arcu adipiscing molestie hendrerit at,cash,true,Consolata Hourstan
+550,6/12/2019,liturgy_music,6009.22,Twitterlist,eu massa donec dapibus duis at velit eu est congue elementum in hac habitasse,credit card,true,Hirsch Phillcock
+551,8/23/2019,utilities,4347.53,Zoomlounge,ridiculus mus vivamus vestibulum sagittis sapien cum sociis natoque penatibus et magnis,cash,true,Roslyn Peak
+552,2/6/2019,crm_expenses,2307.35,Devbug,,check,false,Caroline Lamminam
+553,5/3/2019,student_leadership,6532.48,Fanoodle,nulla nunc purus phasellus in felis donec semper sapien a libero,check,true,Codi Zisneros
+554,5/10/2019,building_management,2421.96,Feedspan,vel augue vestibulum rutrum rutrum neque aenean auctor gravida sem praesent id massa,check,false,Gennifer Kleewein
+555,5/13/2019,automobiles,523.16,Babblestorm,sit amet erat nulla tempus vivamus in felis eu sapien cursus vestibulum,credit card,false,Audrye Tommasi
+556,5/28/2019,other,8870.14,Youbridge,neque vestibulum eget vulputate ut ultrices vel augue,cash,false,Sherye Hynd
+557,9/25/2019,student_leadership,2711.98,Dynabox,habitasse platea dictumst maecenas ut massa quis augue luctus,cash,true,Sandy Gager
+558,3/4/2019,automobiles,829.83,Mymm,tristique in tempus sit amet sem fusce consequat nulla nisl nunc nisl,credit card,false,Theo Frisel
+559,5/28/2019,retreats,3587.11,Eazzy,,check,false,Lewiss Kochel
+560,2/25/2019,building_management,8669.62,Yakitri,sit amet justo morbi ut odio cras mi pede malesuada in imperdiet et commodo,check,false,Twyla Stithe
+561,10/28/2019,utilities,1271.87,Babblestorm,suspendisse potenti nullam porttitor lacus at turpis donec posuere metus vitae ipsum aliquam non mauris,credit card,false,Karyl Powner
+562,5/10/2019,crm_expenses,5853.46,Jazzy,,cash,true,Yetta Gabel
+563,9/6/2019,utilities,564.19,Tazz,consequat ut nulla sed accumsan felis ut at dolor quis odio consequat varius integer ac,cash,false,Allister Stirrip
+564,7/13/2019,office_administration,1121.97,Jabbersphere,,check,false,Charlean Casoni
+565,9/14/2019,faith_education,4685.22,Youspan,in quam fringilla rhoncus mauris enim leo rhoncus sed,check,true,Aeriel Kibel
+566,5/15/2019,automobiles,9028.13,Skyble,aenean fermentum donec ut mauris eget massa tempor convallis nulla neque libero,cash,true,Nelle Mapples
+567,3/26/2019,student_leadership,1218.15,Camimbo,sapien placerat ante nulla justo aliquam quis turpis eget elit sodales scelerisque,credit card,true,Bail Brandrick
+568,3/23/2019,office_administration,2125.75,Roodel,non mattis pulvinar nulla pede ullamcorper,credit card,true,Mikel Durward
+569,4/4/2019,other,2740.31,InnoZ,suspendisse accumsan tortor quis turpis sed ante vivamus tortor duis,cash,false,Karim Gaytor
+570,9/23/2019,faith_education,7414.11,Linkbridge,in purus eu magna vulputate,credit card,false,Lorne Bruford
+571,9/7/2019,student_leadership,7861.56,Centimia,quam suspendisse potenti nullam porttitor lacus at turpis,check,true,Jose Downey
+572,11/17/2019,social_justice,3736.35,Flipbug,augue vestibulum ante ipsum primis in,check,false,Emmi McComas
+573,12/17/2019,building_management,5401.11,Yoveo,augue a suscipit nulla elit ac nulla sed vel enim sit,credit card,false,Meggie Teasey
+574,6/12/2019,outreach,1505.28,Eire,posuere cubilia curae donec pharetra magna vestibulum aliquet,cash,true,Augustina McBayne
+575,3/13/2019,utilities,2681.66,Tekfly,,cash,false,Mela Osbaldeston
+576,3/18/2019,office_administration,8418.27,Photojam,metus vitae ipsum aliquam non mauris morbi non lectus aliquam sit,cash,true,Karmen McNea
+577,4/28/2019,student_leadership,5728.73,Realcube,nisi at nibh in hac habitasse platea dictumst aliquam,check,true,Florinda Ielden
+578,9/18/2019,student_leadership,1825.83,Layo,nulla sed accumsan felis ut at dolor quis odio consequat varius,cash,true,Sarita McGuffie
+579,5/11/2019,automobiles,4064.29,Divavu,in quam fringilla rhoncus mauris enim leo rhoncus sed,credit card,false,Joleen Brumby
+580,11/13/2019,student_leadership,5061.77,Shufflester,,credit card,false,Beatriz Goldsbury
+581,6/25/2019,crm_expenses,9101.43,Jaloo,ut tellus nulla ut erat id,check,false,Kittie Kettoe
+582,10/28/2019,outreach,9733.59,Zoomdog,ac neque duis bibendum morbi non quam nec dui luctus rutrum nulla,cash,false,Edgard Goodsal
+583,3/31/2019,comm_life,9264.2,Shuffletag,augue vestibulum rutrum rutrum neque aenean auctor gravida sem praesent id massa id nisl venenatis,check,false,Kim Lardnar
+584,10/6/2019,other,9777.64,Skynoodle,in leo maecenas pulvinar lobortis est phasellus sit amet erat nulla tempus vivamus in felis,cash,true,Lulu Laing
+585,2/28/2019,outreach,2040.08,Zooveo,diam erat fermentum justo nec condimentum neque sapien placerat ante nulla justo aliquam quis turpis,cash,true,Gabbie Sames
+586,10/9/2019,liturgy_music,6085.38,Browsezoom,turpis donec posuere metus vitae ipsum aliquam non,check,true,Harriette Heersema
+587,4/24/2019,student_leadership,7520.59,Livetube,quis justo maecenas rhoncus aliquam lacus morbi quis tortor id nulla ultrices aliquet maecenas,check,true,Natty Cornewall
+588,7/13/2019,outreach,1481.92,Skivee,eu sapien cursus vestibulum proin eu mi nulla ac enim in tempor turpis nec,credit card,true,Arri Moorerud
+589,9/16/2019,utilities,7473.01,Meembee,sit amet turpis elementum ligula vehicula consequat morbi a ipsum integer a nibh in,credit card,false,Drud Androletti
+590,11/17/2019,utilities,8573.56,Kanoodle,nulla pede ullamcorper augue a suscipit nulla,cash,true,Amil Raddin
+591,7/30/2019,crm_expenses,4152.85,Latz,quam nec dui luctus rutrum nulla tellus in,cash,false,Farlee Cail
+592,1/29/2019,faith_education,4046.52,Zoombox,non interdum in ante vestibulum ante ipsum primis in faucibus orci luctus et,check,true,Annnora Finicj
+593,12/21/2019,student_leadership,6749.46,Pixope,at ipsum ac tellus semper,check,true,Andria Heare
+594,6/18/2019,retreats,2884.49,Meeveo,sem duis aliquam convallis nunc proin at turpis a pede posuere,credit card,false,Ryun Gebhard
+595,9/27/2019,other,7946.7,Dynabox,orci vehicula condimentum curabitur in libero,credit card,false,Thoma Mushrow
+596,10/25/2019,faith_education,5656.56,Kare,mus etiam vel augue vestibulum rutrum rutrum,credit card,false,Dolorita Brumbie
+597,12/26/2019,liturgy_music,7335.89,Jaxnation,vitae quam suspendisse potenti nullam porttitor lacus at turpis donec posuere metus vitae,check,false,Gabey Dormer
+598,3/15/2019,utilities,37.57,Feedfish,congue diam id ornare imperdiet sapien urna pretium nisl ut volutpat sapien arcu,check,false,Andi Curror
+599,9/2/2019,retreats,8439.49,Browsedrive,,cash,true,Marcelia Jzhakov
+600,2/13/2019,retreats,2608.66,Feedfish,,check,false,Ginevra Swadlinge
+601,5/26/2019,automobiles,2791.93,Kwinu,non sodales sed tincidunt eu felis fusce posuere,credit card,false,Emanuele Meneghi
+602,6/3/2019,liturgy_music,1666.37,Skaboo,,cash,true,Carlos Romand
+603,1/4/2019,liturgy_music,5549.37,Tavu,tristique fusce congue diam id ornare imperdiet sapien urna,credit card,false,Norma Blackater
+604,2/17/2019,liturgy_music,968.63,Dablist,,credit card,true,Madalena Ambrogioli
+605,1/22/2019,faith_education,242.5,Demivee,,credit card,true,Elke Ploughwright
+606,10/21/2019,student_leadership,9109.02,Wikido,condimentum id luctus nec molestie sed justo pellentesque viverra pede ac diam cras,credit card,false,Ellswerth Occleshaw
+607,2/6/2019,outreach,3451.94,Blogtags,ut erat curabitur gravida nisi at,check,true,Roseanna Johnes
+608,9/1/2019,office_administration,7125.28,Riffpath,tellus nisi eu orci mauris lacinia sapien quis,credit card,false,Eveline Nusche
+609,10/10/2019,building_management,7485.24,Thoughtsphere,,credit card,false,Carolyn Dumbreck
+610,5/18/2019,building_management,4200.54,Meemm,dapibus augue vel accumsan tellus,credit card,false,Jordain Regnard
+611,7/12/2019,retreats,8195.54,Eimbee,nec euismod scelerisque quam turpis adipiscing lorem vitae,credit card,true,Denney Balshaw
+612,6/26/2019,office_administration,2653.48,Yoveo,enim leo rhoncus sed vestibulum sit amet cursus id turpis integer,check,false,Addison Pervoe
+613,8/18/2019,automobiles,2523.61,Meevee,risus dapibus augue vel accumsan tellus,credit card,false,Reiko Dubble
+614,2/26/2019,student_leadership,2833.08,Mynte,accumsan felis ut at dolor quis odio consequat,cash,false,Freida Fairholm
+615,7/28/2019,automobiles,659.46,Browsedrive,et magnis dis parturient montes nascetur ridiculus mus vivamus vestibulum sagittis,check,false,Hewe Vasyukov
+616,11/24/2019,automobiles,4494.03,Divanoodle,venenatis lacinia aenean sit amet justo morbi ut,cash,false,Hortensia Dohms
+617,10/15/2019,building_management,2652.42,Agivu,nisl duis bibendum felis sed interdum venenatis turpis enim blandit,credit card,false,Erhard Fowlds
+618,5/7/2019,crm_expenses,4596.51,Mynte,ut nulla sed accumsan felis ut at dolor,credit card,false,Lynnell Tolussi
+619,11/2/2019,other,4286.1,Wordware,viverra dapibus nulla suscipit ligula in lacus curabitur at,cash,false,Alia Canti
+620,6/3/2019,liturgy_music,3613.46,Tazzy,ultrices libero non mattis pulvinar nulla pede ullamcorper,cash,false,Debora Moukes
+621,9/20/2019,automobiles,1490.38,Tagopia,turpis eget elit sodales scelerisque mauris sit amet eros suspendisse accumsan tortor quis turpis sed,cash,true,Fredrick Atkin
+622,4/19/2019,faith_education,3533.74,Pixope,libero ut massa volutpat convallis morbi odio odio elementum eu interdum eu tincidunt in,credit card,false,Maxie Ledley
+623,3/22/2019,crm_expenses,8749.36,Zoombeat,dictumst aliquam augue quam sollicitudin vitae consectetuer eget rutrum at lorem integer,cash,false,Nevsa Clohisey
+624,6/4/2019,outreach,9304.52,Browsetype,congue etiam justo etiam pretium iaculis justo in hac habitasse,check,false,Stormi Wixey
+625,3/24/2019,automobiles,2869.37,Ailane,elementum nullam varius nulla facilisi cras non velit nec,check,false,Christabel Gozney
+626,6/7/2019,utilities,8689.81,Kazu,lectus suspendisse potenti in eleifend quam a odio in hac habitasse platea dictumst maecenas,check,false,Martha Malia
+627,1/14/2019,automobiles,595.97,Divanoodle,dolor sit amet consectetuer adipiscing elit proin risus praesent lectus vestibulum quam sapien varius,credit card,true,Ferdie Durston
+628,11/4/2019,faith_education,1561.38,Miboo,maecenas ut massa quis augue luctus tincidunt nulla mollis molestie lorem quisque,check,false,Pammie Fells
+629,4/28/2019,office_administration,3617.87,Pixonyx,molestie lorem quisque ut erat curabitur gravida nisi at,check,true,Carmencita Petrishchev
+630,10/19/2019,liturgy_music,4201.46,Kwinu,congue diam id ornare imperdiet sapien urna pretium nisl ut volutpat,check,false,Dusty Guilloux
+631,12/4/2019,comm_life,3259.11,Oyonder,consequat in consequat ut nulla sed accumsan felis ut at dolor quis odio consequat varius,cash,true,Dorette Mourgue
+632,10/29/2019,comm_life,8309.79,Trupe,id justo sit amet sapien dignissim vestibulum,check,false,Ninette Nuccii
+633,5/31/2019,liturgy_music,7052.16,Wordware,consectetuer adipiscing elit proin interdum mauris non,check,false,Marje Olner
+634,1/6/2019,other,5597.14,Eire,tellus nisi eu orci mauris lacinia sapien quis libero nullam sit amet turpis elementum,check,false,Mitch Stillert
+635,4/15/2019,utilities,7302.19,Innotype,sapien quis libero nullam sit amet turpis elementum ligula vehicula consequat morbi a ipsum,cash,false,Hatti Frichley
+636,6/11/2019,crm_expenses,9048.96,Vinte,lacinia sapien quis libero nullam sit amet turpis elementum ligula vehicula consequat morbi a,check,true,Maddy Cheasman
+637,3/22/2019,crm_expenses,4460.89,Innotype,lobortis ligula sit amet eleifend pede libero quis orci,cash,false,Binnie Alliberton
+638,1/11/2019,office_administration,1772.57,Topicblab,eu mi nulla ac enim in tempor turpis nec,cash,true,Reinaldo Iacovo
+639,8/11/2019,utilities,9549.99,Podcat,,cash,true,Aldric Ciotto
+640,1/31/2019,liturgy_music,2700.07,Browsecat,sed accumsan felis ut at dolor quis,check,true,Geoffry Peacock
+641,9/27/2019,building_management,3811.09,Browsecat,auctor gravida sem praesent id massa id nisl venenatis lacinia aenean,check,true,Ralph Blue
+642,10/29/2019,crm_expenses,570.52,Blogspan,in purus eu magna vulputate luctus cum sociis natoque penatibus et magnis dis parturient,cash,true,Amie Twelve
+643,12/2/2019,student_leadership,4936.62,Vimbo,in faucibus orci luctus et ultrices,credit card,false,Jordanna Saiger
+644,4/19/2019,other,46.68,Fadeo,,check,false,Rebeca Sambath
+645,6/5/2019,faith_education,298.81,Pixoboo,nulla suscipit ligula in lacus curabitur at ipsum,check,false,Merola Chaize
+646,11/4/2019,outreach,7189.22,Browsezoom,,credit card,true,Callean Chesman
+647,11/7/2019,faith_education,7551.85,Skimia,molestie lorem quisque ut erat curabitur gravida nisi at nibh,cash,false,Lissi Finlow
+648,10/28/2019,building_management,973.01,Dynabox,ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae nulla dapibus,check,false,Cornelle Cordoba
+649,1/19/2019,crm_expenses,6202.02,Rhynyx,,credit card,true,Xenos Willoughey
+650,11/26/2019,crm_expenses,5733.18,Livepath,,cash,true,Shirlene Blowfield
+651,4/20/2019,social_justice,2451.61,Avaveo,,credit card,true,Herminia Mattioli
+652,10/28/2019,faith_education,3222.31,Mynte,at velit eu est congue elementum in hac habitasse,cash,false,Aylmar Loud
+653,9/6/2019,building_management,9519.68,Plajo,in faucibus orci luctus et ultrices posuere cubilia,cash,true,Derril Pope
+654,9/30/2019,office_administration,1765.59,Topiclounge,lorem id ligula suspendisse ornare consequat lectus in est risus auctor sed tristique in,cash,true,Giustina Ibell
+655,7/5/2019,building_management,5542.93,Jazzy,,cash,true,Hortense Morden
+656,4/21/2019,social_justice,6798.67,Wikibox,sit amet lobortis sapien sapien non mi integer ac neque duis bibendum morbi non,credit card,false,Tracy Luetkemeyer
+657,9/20/2019,liturgy_music,5815.82,Innojam,consequat morbi a ipsum integer a nibh in,credit card,false,Rudolf Goodyer
+658,6/20/2019,comm_life,1380.73,Shuffledrive,id lobortis convallis tortor risus dapibus augue vel accumsan tellus nisi eu orci mauris,cash,true,Jonis Canizares
+659,11/7/2019,office_administration,9894.64,Zooxo,ut at dolor quis odio consequat varius integer ac leo,credit card,true,Verile Livingstone
+660,11/10/2019,outreach,9635.82,Skipstorm,aliquet ultrices erat tortor sollicitudin mi sit amet,check,true,Renee Widdop
+661,2/27/2019,crm_expenses,4838.83,Miboo,lectus in quam fringilla rhoncus mauris enim leo rhoncus sed vestibulum sit amet,credit card,false,Peder Kellard
+662,4/26/2019,outreach,1844.66,BlogXS,augue vel accumsan tellus nisi eu orci mauris lacinia sapien quis libero nullam sit,cash,true,Augustina Tennant
+663,7/10/2019,automobiles,7232.33,Kwinu,,cash,true,Rosco Robrow
+664,5/6/2019,social_justice,5556.63,Brightbean,nullam varius nulla facilisi cras non velit nec nisi vulputate nonummy maecenas,check,true,Frankie Rishbrook
+665,9/19/2019,faith_education,3870.83,Mycat,orci luctus et ultrices posuere cubilia curae duis,check,true,Dareen Glowacki
+666,2/21/2019,faith_education,2987.31,Tagcat,imperdiet sapien urna pretium nisl ut volutpat sapien arcu sed augue aliquam erat volutpat,credit card,true,Fenelia Yanuk
+667,12/25/2019,comm_life,4637.05,Myworks,,credit card,false,Colas Whitticks
+668,7/23/2019,faith_education,3685.17,Wordtune,nonummy maecenas tincidunt lacus at velit vivamus vel,credit card,true,Laurence Casarino
+669,2/10/2019,comm_life,3503.79,Blognation,,check,false,Allissa McCready
+670,5/23/2019,retreats,1636.77,Npath,nibh quisque id justo sit amet sapien dignissim vestibulum vestibulum ante ipsum primis in,credit card,false,Jany Hugland
+671,9/1/2019,other,4058.35,Skyvu,in hac habitasse platea dictumst aliquam augue quam sollicitudin,cash,true,Jessica Hambling
+672,9/3/2019,office_administration,9366.75,Browsebug,cubilia curae mauris viverra diam vitae quam suspendisse potenti nullam porttitor lacus at turpis,credit card,true,Marianna Melding
+673,12/13/2019,automobiles,2918.62,Edgetag,justo etiam pretium iaculis justo in hac habitasse,credit card,true,Justin McVicar
+674,6/3/2019,liturgy_music,9729.53,Kamba,lacus at velit vivamus vel nulla eget,cash,true,Malinde Sainsbury-Brown
+675,12/4/2019,liturgy_music,5133.8,Livetube,sociis natoque penatibus et magnis dis parturient montes nascetur,check,true,Vanda Alonso
+676,4/21/2019,crm_expenses,4721.41,Yoveo,a suscipit nulla elit ac nulla sed vel enim sit amet nunc viverra,credit card,true,Thaine Wilmington
+677,8/14/2019,liturgy_music,2097.07,Fatz,ultrices mattis odio donec vitae nisi nam ultrices libero non mattis,cash,false,Ailis Whittock
+678,10/11/2019,faith_education,7403.96,Meetz,quam a odio in hac habitasse,cash,false,Serge Cristofanini
+679,5/9/2019,automobiles,2247.28,Rhyzio,augue vestibulum rutrum rutrum neque aenean auctor gravida sem praesent id,check,false,Basile Alexsandrovich
+680,10/31/2019,automobiles,4724.14,Browsedrive,etiam justo etiam pretium iaculis,check,false,Sella Gladhill
+681,5/8/2019,faith_education,4540.96,Jaxworks,augue a suscipit nulla elit ac nulla,credit card,true,Merla Bemment
+682,2/27/2019,liturgy_music,6710.36,Jaxspan,pede justo eu massa donec dapibus duis,credit card,false,Nikola Robshaw
+683,11/17/2019,automobiles,8518.13,Kare,suscipit a feugiat et eros vestibulum ac est lacinia nisi venenatis tristique fusce congue,cash,false,Vernice Titcomb
+684,9/21/2019,outreach,8107.31,Zoomcast,justo eu massa donec dapibus duis at velit eu est congue elementum in hac,check,true,Eddy Durning
+685,10/15/2019,building_management,2129.06,Skynoodle,ac leo pellentesque ultrices mattis odio donec vitae nisi nam ultrices libero,credit card,false,Joycelin Erangey
+686,2/5/2019,office_administration,4540.45,Zoomcast,placerat ante nulla justo aliquam quis,credit card,true,Dyanna Grice
+687,10/20/2019,comm_life,9723.77,Youtags,nec sem duis aliquam convallis nunc proin at turpis a pede posuere,check,false,Mercedes Brende
+688,6/4/2019,social_justice,522.32,Cogilith,molestie nibh in lectus pellentesque at nulla suspendisse potenti cras in purus eu magna,credit card,true,Milton Kohrs
+689,2/15/2019,social_justice,9210.2,Yodo,et commodo vulputate justo in,cash,true,Eziechiele Blackaby
+690,11/19/2019,crm_expenses,8767.71,Twitternation,mattis odio donec vitae nisi nam ultrices libero non,cash,false,Alene Berdale
+691,6/27/2019,building_management,6814.34,Blogtag,sed accumsan felis ut at dolor quis odio consequat,cash,true,Dar Formoy
+692,4/14/2019,automobiles,761.2,Blogspan,duis at velit eu est congue elementum in hac,credit card,false,Elvina Denne
+693,6/1/2019,crm_expenses,8005.35,Voonix,enim leo rhoncus sed vestibulum sit amet cursus id turpis integer,cash,true,Man Denisard
+694,1/20/2019,faith_education,4256.19,Ntag,nibh fusce lacus purus aliquet at feugiat non,cash,true,Cal Davenhill
+695,2/18/2019,other,9604.94,Cogilith,,cash,true,Georg Mackney
+696,1/12/2019,crm_expenses,4235.66,Yoveo,,credit card,true,Aloise MacCawley
+697,12/17/2019,student_leadership,9485.26,Divanoodle,,credit card,false,Free Ygou
+698,10/25/2019,utilities,9090.22,Trunyx,nulla integer pede justo lacinia eget tincidunt,check,false,Gustav de Mullett
+699,8/21/2019,social_justice,976.52,Mydeo,a feugiat et eros vestibulum ac est lacinia nisi venenatis tristique fusce congue diam id,check,true,Fields Redgate
+700,7/7/2019,student_leadership,7587.92,Rhybox,neque vestibulum eget vulputate ut ultrices vel augue vestibulum ante ipsum primis,check,true,Mathilde Wagg
+701,9/7/2019,social_justice,3290.2,Yacero,commodo placerat praesent blandit nam nulla,credit card,true,Patin Dowden
+702,4/9/2019,office_administration,8634.83,Realpoint,,check,true,Royce Cogman
+703,12/18/2019,crm_expenses,6117.01,Realcube,ante nulla justo aliquam quis turpis eget elit sodales scelerisque mauris sit amet eros suspendisse,check,false,Rhianon Jaffa
+704,1/12/2019,other,9306.78,Kayveo,eu sapien cursus vestibulum proin eu mi nulla,check,false,Daniele Brampton
+705,7/7/2019,outreach,5644.13,Leenti,vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae nulla,check,true,Cloe Perse
+706,2/26/2019,utilities,9232.47,Photojam,suspendisse potenti in eleifend quam a odio in,credit card,false,Faulkner Stroton
+707,10/19/2019,retreats,3037.32,Topicblab,risus auctor sed tristique in tempus sit amet sem fusce consequat nulla nisl nunc nisl,cash,false,Siusan Whate
+708,7/24/2019,crm_expenses,18.82,Buzzdog,vestibulum ante ipsum primis in faucibus orci,cash,false,Brooks Dumini
+709,3/17/2019,liturgy_music,7670.94,Yadel,nulla sed vel enim sit amet nunc viverra dapibus nulla,check,true,Dunn Pieterick
+710,8/8/2019,office_administration,2487.19,Cogibox,orci luctus et ultrices posuere cubilia curae donec pharetra magna,check,true,Graeme Petegrew
+711,9/2/2019,other,6488.76,Thoughtbridge,,cash,true,Hilary Bertomeu
+712,8/5/2019,student_leadership,3649.84,Jazzy,,check,false,Ellary Mart
+713,4/21/2019,outreach,919.26,Ntag,nisi at nibh in hac habitasse platea dictumst aliquam augue quam,credit card,false,Merry Aylmore
+714,10/15/2019,social_justice,8463.92,Wikizz,,check,false,Gasper Hargerie
+715,11/10/2019,other,8561.45,Ntag,,cash,true,Laurette Bernardini
+716,5/15/2019,student_leadership,4863.23,Fivechat,nibh quisque id justo sit amet sapien dignissim vestibulum vestibulum ante,credit card,false,Hilliary Calloway
+717,7/5/2019,faith_education,7083.9,Omba,platea dictumst maecenas ut massa quis augue luctus tincidunt nulla mollis,cash,true,Alexandro Dearnaley
+718,7/15/2019,comm_life,6460.07,Jaxnation,in hac habitasse platea dictumst aliquam,credit card,false,Ingmar Hardi
+719,5/18/2019,building_management,5386.2,Twinder,curabitur convallis duis consequat dui nec nisi volutpat eleifend donec ut dolor,credit card,true,Lewie Gorman
+720,9/20/2019,retreats,8658.25,Twitterworks,diam cras pellentesque volutpat dui maecenas tristique est,check,true,Brnaba Rosas
+721,5/31/2019,utilities,8251.23,Yakitri,lobortis est phasellus sit amet erat nulla tempus vivamus in felis eu sapien,cash,false,Hattie Slaght
+722,11/15/2019,building_management,7581.39,Fadeo,non velit donec diam neque vestibulum eget vulputate ut ultrices vel augue vestibulum,cash,true,Calli Robert
+723,7/6/2019,utilities,4370.46,Quamba,,check,true,Brinna O'Scully
+724,1/28/2019,liturgy_music,2013.68,BlogXS,natoque penatibus et magnis dis parturient montes nascetur ridiculus mus,check,false,Uri Bellingham
+725,3/17/2019,student_leadership,3902.54,Skiba,id mauris vulputate elementum nullam varius nulla facilisi cras non velit nec nisi vulputate nonummy,credit card,true,Kellie Hemphrey
+726,10/10/2019,comm_life,2875.25,Agivu,in tempus sit amet sem fusce consequat nulla nisl nunc nisl duis bibendum,credit card,true,Basil Rivallant
+727,5/10/2019,crm_expenses,2472.75,Oyondu,mauris enim leo rhoncus sed vestibulum sit amet,check,true,Morna Heitz
+728,11/12/2019,utilities,7510.49,Quimm,amet eleifend pede libero quis orci nullam molestie nibh in,cash,false,Marilin Doree
+729,6/17/2019,outreach,8837.98,Blogtags,orci vehicula condimentum curabitur in libero ut massa volutpat convallis morbi odio odio,cash,false,Jo Twidale
+730,12/24/2019,building_management,9463.94,Fliptune,suscipit ligula in lacus curabitur at ipsum ac tellus semper interdum mauris ullamcorper purus,credit card,true,Faye Jochanany
+731,9/26/2019,other,4643.74,Wordware,sit amet nunc viverra dapibus nulla suscipit ligula in lacus curabitur at ipsum ac tellus,cash,false,Nan Crankhorn
+732,3/28/2019,outreach,1843.84,Twimm,semper interdum mauris ullamcorper purus sit amet nulla quisque arcu libero rutrum ac lobortis,cash,true,Babbette Gissop
+733,7/4/2019,crm_expenses,767.92,Meembee,nulla ultrices aliquet maecenas leo odio condimentum id luctus,check,true,Nicola Badrick
+734,4/15/2019,utilities,7521.87,Fivechat,aliquam sit amet diam in magna bibendum imperdiet nullam orci,check,false,See Fandrich
+735,5/28/2019,crm_expenses,2911.91,Photobug,quis lectus suspendisse potenti in eleifend quam a odio in hac,credit card,true,Darren Passie
+736,8/5/2019,automobiles,3963.91,Fivespan,adipiscing molestie hendrerit at vulputate,credit card,false,Dorolisa Marcome
+737,1/25/2019,comm_life,2574.07,Babbleset,eget rutrum at lorem integer tincidunt ante vel ipsum praesent blandit lacinia erat,cash,true,Des Alten
+738,9/3/2019,crm_expenses,1785.77,Ailane,dignissim vestibulum vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere,cash,true,Padriac Dey
+739,7/13/2019,automobiles,1889.21,Quinu,eleifend pede libero quis orci nullam molestie nibh in lectus pellentesque at nulla suspendisse,cash,false,Brigitta Gregersen
+740,11/8/2019,student_leadership,6885.61,Zava,,cash,true,Amelie Firpi
+741,5/12/2019,liturgy_music,6134.09,Linklinks,nulla elit ac nulla sed vel enim sit amet,check,true,Avictor Gallyon
+742,12/25/2019,office_administration,9364.73,Blogtag,vestibulum vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae,credit card,true,Randi Norwich
+743,5/23/2019,crm_expenses,6573.63,Zoomcast,in purus eu magna vulputate luctus cum,cash,true,Malanie Eagle
+744,4/2/2019,automobiles,7156.19,Devify,ante nulla justo aliquam quis,check,false,Lenna Ferrandez
+745,12/21/2019,social_justice,3918.81,Zoombox,lacus at turpis donec posuere metus vitae ipsum aliquam non,credit card,false,Jeanna Gauche
+746,8/13/2019,outreach,3068.31,Skiptube,aliquet massa id lobortis convallis tortor risus,credit card,true,Cindy Gosland
+747,6/18/2019,automobiles,6497.16,Yakijo,,cash,false,Delbert Parmeter
+748,7/30/2019,office_administration,8447.8,Yodel,praesent blandit nam nulla integer pede justo lacinia eget tincidunt eget,cash,false,Birdie Roblou
+749,8/8/2019,crm_expenses,7495.41,Youopia,at vulputate vitae nisl aenean lectus pellentesque eget nunc donec quis orci eget,cash,true,Tobe Van Niekerk
+750,9/20/2019,crm_expenses,7649.69,Divanoodle,vehicula consequat morbi a ipsum integer a nibh in quis justo maecenas rhoncus,cash,true,Briney Ferriby
+751,5/25/2019,other,6821.6,Blogpad,volutpat eleifend donec ut dolor morbi vel lectus in quam fringilla rhoncus,credit card,true,Flossi MacCracken
+752,12/9/2019,comm_life,690.92,Devbug,,cash,false,Elise Gundry
+753,9/16/2019,other,4961.43,Meemm,id consequat in consequat ut nulla sed accumsan felis ut,check,true,Woodie Boniface
+754,5/10/2019,building_management,6329.99,Pixonyx,elementum eu interdum eu tincidunt in leo maecenas pulvinar lobortis est phasellus,cash,false,Sergio Netherclift
+755,12/20/2019,outreach,901.48,Aibox,morbi porttitor lorem id ligula suspendisse ornare consequat lectus in est risus,check,true,Magdalen Maidment
+756,11/2/2019,office_administration,1448.29,Trudoo,id nisl venenatis lacinia aenean sit amet justo morbi ut odio cras,check,false,Salvidor Klemencic
+757,3/18/2019,comm_life,2699.31,Mymm,massa id nisl venenatis lacinia,check,true,Kristal Dorin
+758,7/14/2019,liturgy_music,8018.11,Realbuzz,sollicitudin ut suscipit a feugiat et eros vestibulum ac,cash,false,Matti Mor
+759,8/12/2019,social_justice,2423.2,Edgepulse,ultrices vel augue vestibulum ante ipsum primis in faucibus orci luctus et ultrices,cash,false,Torey Bernardos
+760,8/2/2019,automobiles,5302.81,Voonte,amet nunc viverra dapibus nulla suscipit ligula in lacus curabitur at,cash,false,Nomi Cadalleder
+761,2/17/2019,liturgy_music,1442.59,Gigabox,mauris vulputate elementum nullam varius,credit card,true,Frans Lippo
+762,8/11/2019,crm_expenses,6886.69,Thoughtsphere,ac est lacinia nisi venenatis tristique fusce congue diam id ornare imperdiet sapien urna,check,false,Beilul Tape
+763,5/16/2019,office_administration,5827.98,Wordware,,cash,true,Hamid Aneley
+764,12/7/2019,outreach,5912.86,Fatz,nascetur ridiculus mus vivamus vestibulum sagittis sapien cum,check,true,Normand Simonson
+765,6/19/2019,comm_life,8956.13,Abata,,credit card,false,Parrnell Rutter
+766,4/7/2019,crm_expenses,4112.72,Mybuzz,,cash,true,Erich Lockey
+767,9/12/2019,faith_education,2026.84,Edgeblab,,check,false,Cammy Wadhams
+768,12/2/2019,other,2777.56,Jaxspan,sem fusce consequat nulla nisl nunc nisl duis bibendum,cash,true,Hillyer Stanfield
+769,2/25/2019,comm_life,5384.4,Skynoodle,primis in faucibus orci luctus et ultrices posuere cubilia curae nulla dapibus,credit card,true,Lavinia Dawidman
+770,1/23/2019,other,3188.78,Voonder,etiam pretium iaculis justo in hac habitasse platea dictumst,check,true,Ulises Kettlestringe
+771,8/6/2019,building_management,4519.46,Quinu,,credit card,true,Timotheus Ride
+772,8/24/2019,comm_life,8815.67,BlogXS,dapibus nulla suscipit ligula in lacus curabitur at,credit card,true,Glyn Clitherow
+773,3/25/2019,utilities,4338.49,Jamia,eu interdum eu tincidunt in leo maecenas pulvinar,cash,true,Westley Bradder
+774,1/28/2019,student_leadership,7305.97,Bubbletube,vel ipsum praesent blandit lacinia erat vestibulum sed magna,check,false,Briana Kernley
+775,6/13/2019,automobiles,3604.26,Thoughtstorm,non velit donec diam neque vestibulum eget,credit card,true,Darnall Ripsher
+776,1/1/2019,outreach,3634.86,Jabbersphere,id turpis integer aliquet massa,cash,true,Nappy Colleran
+777,12/25/2019,automobiles,6175.73,Jayo,sagittis sapien cum sociis natoque penatibus,cash,true,Anabella Clemente
+778,5/1/2019,other,9679.75,Skivee,vel pede morbi porttitor lorem id ligula suspendisse ornare consequat lectus in est,cash,false,Anabelle Pardie
+779,8/10/2019,comm_life,3086.1,Avavee,pellentesque quisque porta volutpat erat quisque erat eros viverra eget,check,true,Jocelyne Seccombe
+780,9/18/2019,office_administration,4828.58,Blogtag,in faucibus orci luctus et ultrices posuere cubilia,cash,false,Nalani Toward
+781,2/9/2019,student_leadership,6010.94,Photojam,nunc vestibulum ante ipsum primis in faucibus orci luctus,credit card,false,Cherlyn Blitz
+782,9/8/2019,social_justice,3737.41,Youspan,malesuada in imperdiet et commodo vulputate justo in blandit,cash,true,Lloyd Braunlein
+783,12/19/2019,social_justice,6481.61,Buzzbean,porttitor id consequat in consequat ut nulla sed accumsan,credit card,false,Elissa Tomashov
+784,12/11/2019,crm_expenses,7157.29,Demimbu,lectus vestibulum quam sapien varius ut blandit non interdum in,credit card,false,Stafani Nuzzti
+785,11/6/2019,utilities,5667.79,Devify,,credit card,false,Em Cunio
+786,1/30/2019,retreats,7076.39,Tagfeed,in quis justo maecenas rhoncus aliquam lacus morbi quis tortor id,check,true,Micheal Depke
+787,10/26/2019,building_management,1352.34,Avamba,eget semper rutrum nulla nunc purus phasellus in felis donec,cash,false,Mora Duffitt
+788,2/25/2019,faith_education,3157.29,Thoughtmix,vestibulum proin eu mi nulla ac enim in tempor turpis,cash,true,Iseabal Falla
+789,5/24/2019,social_justice,8654.34,Flipopia,,check,false,Virgilio Ubsdall
+790,3/11/2019,crm_expenses,9680.04,Kwimbee,,credit card,false,Dacey Zucker
+791,12/12/2019,other,451.99,Thoughtstorm,,credit card,false,Doe Matton
+792,1/23/2019,office_administration,7335.68,Podcat,sodales sed tincidunt eu felis fusce,credit card,true,Jewell Hutchings
+793,11/13/2019,liturgy_music,1748.62,Topicshots,id mauris vulputate elementum nullam varius,cash,true,Basilius Ben-Aharon
+794,10/17/2019,building_management,2846.98,Gigabox,in sapien iaculis congue vivamus metus arcu adipiscing,credit card,true,Flin Danforth
+795,2/1/2019,crm_expenses,2330.88,Bluezoom,,cash,false,Linnie Dagleas
+796,3/20/2019,student_leadership,3195.48,Eazzy,elementum in hac habitasse platea dictumst morbi vestibulum velit,credit card,true,Nancey Backshall
+797,8/22/2019,crm_expenses,4629.94,Browsedrive,,cash,true,Ab Camilleri
+798,6/22/2019,liturgy_music,5172.63,Linktype,sollicitudin vitae consectetuer eget rutrum,credit card,true,Jacques Milborn
+799,6/23/2019,outreach,8324.99,Blogtags,vestibulum quam sapien varius ut blandit non interdum in ante vestibulum ante ipsum,check,false,Brigg Fry
+800,12/12/2019,liturgy_music,3747.72,Eabox,,check,false,Aline Grafhom
+801,6/18/2019,building_management,1487.88,Jabbertype,suspendisse accumsan tortor quis turpis sed ante,check,false,Kial Heinschke
+802,6/22/2019,automobiles,3124.21,Zoombox,consequat in consequat ut nulla sed accumsan felis ut,check,false,Clarinda Dietsche
+803,8/5/2019,liturgy_music,2917.09,Jabberstorm,,credit card,false,Wilhelmine Elverston
+804,2/27/2019,other,4002.76,Oyope,sagittis sapien cum sociis natoque penatibus et magnis dis parturient montes nascetur,check,false,Marie-jeanne Dobble
+805,9/17/2019,social_justice,2445.66,Kare,turpis integer aliquet massa id,credit card,false,Wainwright McLorinan
+806,8/11/2019,utilities,3.56,Tanoodle,curae duis faucibus accumsan odio curabitur,check,false,Erik Whittington
+807,11/2/2019,comm_life,5041.53,Topicblab,quam sollicitudin vitae consectetuer eget rutrum at lorem integer tincidunt,credit card,true,Wolfie Kivits
+808,9/7/2019,building_management,6976.93,Photobug,,check,false,Agnese Cleugh
+809,9/24/2019,building_management,8395.03,Topicstorm,nisi vulputate nonummy maecenas tincidunt lacus at velit vivamus vel nulla eget eros elementum,cash,true,Jorry Preble
+810,7/24/2019,utilities,8961.2,Livetube,et tempus semper est quam pharetra magna,credit card,false,Lindsy Standeven
+811,12/23/2019,utilities,6300.25,Dynabox,ac est lacinia nisi venenatis tristique,cash,false,Yovonnda Lodo
+812,8/19/2019,student_leadership,5417.67,Tagcat,tincidunt in leo maecenas pulvinar lobortis est,cash,false,Ginny Scougal
+813,2/23/2019,faith_education,7495.78,Kazu,donec diam neque vestibulum eget vulputate ut ultrices vel augue vestibulum,credit card,true,Tammie Sully
+814,1/9/2019,automobiles,2593.44,Einti,faucibus cursus urna ut tellus nulla ut erat id mauris vulputate,credit card,false,Catlin Sermin
+815,6/25/2019,other,2899.11,Tazz,ante vestibulum ante ipsum primis in faucibus orci luctus et ultrices,check,false,Siegfried Shade
+816,8/13/2019,office_administration,6264.23,Centimia,proin eu mi nulla ac enim in tempor turpis nec euismod scelerisque quam turpis,cash,false,Creight Temporal
+817,7/4/2019,liturgy_music,3702.59,Rhybox,,cash,true,Marianna Gildersleaves
+818,8/8/2019,other,5609.0,Ntags,mauris vulputate elementum nullam varius nulla facilisi cras,check,false,Else Pawelek
+819,5/12/2019,automobiles,9564.86,Dazzlesphere,neque libero convallis eget eleifend luctus ultricies eu nibh quisque id justo sit amet,check,false,Annis Malecky
+820,8/13/2019,student_leadership,7274.38,Tagtune,cubilia curae duis faucibus accumsan odio curabitur convallis,cash,false,Selby Donaway
+821,10/8/2019,utilities,8730.36,Cogibox,lobortis sapien sapien non mi integer ac neque duis bibendum,check,true,Torin Palfreman
+822,5/26/2019,other,8321.83,Realmix,,credit card,true,Phillis Hardy-Piggin
+823,6/30/2019,social_justice,5386.74,Realmix,morbi odio odio elementum eu interdum,cash,false,Stafford Lyptrade
+824,5/18/2019,student_leadership,8647.25,Trilith,blandit mi in porttitor pede justo eu massa donec dapibus duis at velit,check,false,Ferguson Waddingham
+825,5/16/2019,liturgy_music,8531.27,Shuffledrive,nullam porttitor lacus at turpis donec posuere metus,credit card,true,Augustus Benditt
+826,7/7/2019,building_management,1621.64,Wikizz,volutpat in congue etiam justo etiam pretium iaculis justo in hac habitasse platea dictumst,cash,true,Stacie Heartfield
+827,11/19/2019,liturgy_music,5704.82,Shuffletag,nullam varius nulla facilisi cras non velit nec nisi,cash,false,Edwin Yeulet
+828,12/9/2019,comm_life,2113.39,Yakidoo,libero convallis eget eleifend luctus ultricies eu,cash,true,Dwayne Halliday
+829,9/17/2019,building_management,6848.75,Trilia,maecenas rhoncus aliquam lacus morbi quis tortor id nulla ultrices aliquet,check,true,Arin Livingstone
+830,1/30/2019,office_administration,2653.14,Aibox,velit eu est congue elementum in hac habitasse platea dictumst morbi,cash,true,Harriott Shipston
+831,5/6/2019,retreats,9821.39,Skiptube,auctor sed tristique in tempus sit,cash,true,Haydon Greenstead
+832,4/12/2019,retreats,6885.17,Flipopia,in eleifend quam a odio in,credit card,true,Desirae Bawles
+833,12/27/2019,social_justice,2231.99,Dabfeed,diam neque vestibulum eget vulputate ut ultrices vel augue vestibulum ante ipsum,cash,false,Arleen Quinell
+834,6/6/2019,comm_life,8896.4,Gabcube,,cash,true,Astrix Kenningham
+835,9/29/2019,retreats,6520.56,Gigaclub,duis bibendum morbi non quam nec dui,check,false,Gustaf Brennan
+836,2/20/2019,outreach,3323.13,Jatri,posuere cubilia curae donec pharetra magna vestibulum aliquet ultrices erat tortor sollicitudin mi sit amet,cash,false,George Copp
+837,10/11/2019,crm_expenses,2196.45,Yoveo,,cash,true,Margaret Aldcorn
+838,10/2/2019,office_administration,1237.58,Voolia,ligula vehicula consequat morbi a ipsum integer a,cash,false,Gill Paulitschke
+839,7/26/2019,comm_life,4538.52,Thoughtbeat,phasellus in felis donec semper sapien a libero nam dui proin leo odio,credit card,false,Emlynn Vaines
+840,6/12/2019,liturgy_music,7778.68,Nlounge,,check,true,Thor Mascall
+841,12/7/2019,student_leadership,8240.02,Rooxo,,check,false,Abdel Denys
+842,4/13/2019,automobiles,9374.57,Twinder,rhoncus aliquam lacus morbi quis tortor id nulla ultrices aliquet maecenas leo odio condimentum,check,true,Edi Overstone
+843,5/30/2019,liturgy_music,2915.53,Wikizz,ultrices libero non mattis pulvinar nulla pede ullamcorper augue a suscipit nulla,check,false,Basia Minards
+844,11/2/2019,student_leadership,8796.41,Skimia,libero non mattis pulvinar nulla pede ullamcorper augue a suscipit nulla,cash,false,Marcellina Byford
+845,6/21/2019,other,3112.56,Quinu,lacinia eget tincidunt eget tempus vel,cash,true,Amii Easom
+846,10/18/2019,social_justice,8238.91,Devcast,,check,false,Anastasie Wondraschek
+847,5/31/2019,crm_expenses,6663.29,Realmix,congue etiam justo etiam pretium iaculis,check,true,Eilis Ronnay
+848,6/18/2019,office_administration,3089.74,Avaveo,iaculis justo in hac habitasse platea dictumst etiam faucibus cursus urna ut tellus,cash,false,Ludvig Moyse
+849,2/19/2019,retreats,9418.83,Voolith,vestibulum ante ipsum primis in faucibus orci,credit card,true,Chiquia Trewinnard
+850,10/8/2019,utilities,2661.61,Kamba,donec vitae nisi nam ultrices libero non mattis,cash,true,Cassie Ponte
+851,12/2/2019,comm_life,8617.67,Izio,felis ut at dolor quis,check,true,Jolyn Seathwright
+852,8/12/2019,faith_education,2095.4,Realblab,justo etiam pretium iaculis justo in hac habitasse platea dictumst etiam faucibus cursus,credit card,false,Jeremiah Kleinberer
+853,7/9/2019,other,2845.01,Plambee,penatibus et magnis dis parturient montes nascetur ridiculus mus etiam vel augue,credit card,true,Paulina Zavattieri
+854,7/24/2019,office_administration,5758.56,Kazu,,check,false,Trude Drinkwater
+855,5/16/2019,office_administration,9094.01,Npath,sit amet diam in magna bibendum imperdiet nullam orci pede venenatis non sodales sed,cash,true,Lucian Broadwood
+856,5/7/2019,crm_expenses,1807.63,Kayveo,lorem integer tincidunt ante vel ipsum praesent blandit lacinia erat vestibulum sed magna at,cash,false,Beaufort Jansens
+857,11/4/2019,outreach,6764.19,Zoomdog,ullamcorper purus sit amet nulla quisque arcu libero rutrum ac lobortis vel dapibus,credit card,true,Gael Sircomb
+858,2/15/2019,building_management,3679.81,Gabtune,turpis nec euismod scelerisque quam turpis adipiscing lorem vitae mattis nibh,cash,true,Wenda Madsen
+859,6/10/2019,comm_life,899.9,Jayo,,credit card,true,Vasilis De Ruggero
+860,4/8/2019,crm_expenses,1728.99,Riffpath,ut at dolor quis odio consequat varius integer ac leo pellentesque ultrices,check,false,Paddy Bulfit
+861,5/27/2019,student_leadership,1819.46,Teklist,maecenas tristique est et tempus semper est,credit card,true,Waneta McClosh
+862,4/18/2019,other,5171.16,Yakijo,,check,false,Patrica Ewbanks
+863,8/2/2019,comm_life,4071.08,Twitternation,et ultrices posuere cubilia curae,credit card,true,Harlen Vogl
+864,10/29/2019,student_leadership,3961.29,Blogtag,sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus,cash,false,Willi Kenright
+865,1/17/2019,retreats,1636.46,Zoombox,consectetuer adipiscing elit proin interdum mauris non ligula pellentesque ultrices phasellus id sapien in,credit card,false,Rodrigo Gunthorpe
+866,5/26/2019,automobiles,4851.97,Vipe,ut massa quis augue luctus tincidunt nulla mollis,cash,true,Robby Beernaert
+867,4/16/2019,crm_expenses,2440.04,Dynazzy,quis orci eget orci vehicula condimentum curabitur in libero ut massa volutpat convallis,cash,false,Reade Caslett
+868,3/10/2019,utilities,4161.96,Lazzy,velit eu est congue elementum in hac habitasse platea dictumst morbi vestibulum velit id pretium,credit card,true,Annette Scatchar
+869,4/11/2019,other,9776.69,Cogilith,,credit card,false,Andee MacElholm
+870,6/25/2019,automobiles,2959.55,Bubblemix,justo nec condimentum neque sapien placerat ante,credit card,true,Amii Burrow
+871,4/21/2019,utilities,6582.34,Thoughtsphere,imperdiet sapien urna pretium nisl ut,credit card,true,Livvy Dormon
+872,2/21/2019,outreach,4545.42,Tavu,sapien ut nunc vestibulum ante ipsum primis in faucibus orci,cash,true,Regen Damerell
+873,6/8/2019,outreach,2393.19,Mydo,,check,true,Harmonia Sloyan
+874,4/25/2019,comm_life,7043.94,Devcast,sapien arcu sed augue aliquam erat volutpat in congue etiam justo,cash,false,Tremain Cayton
+875,5/22/2019,retreats,3643.89,Zoomzone,vestibulum vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae,cash,false,Reuven Smellie
+876,6/18/2019,office_administration,244.93,Gabtune,,credit card,false,Kane Jullian
+877,6/17/2019,comm_life,2605.31,Voomm,consectetuer adipiscing elit proin interdum mauris non ligula,cash,true,Kira Fursse
+878,4/9/2019,crm_expenses,870.59,Demizz,eget semper rutrum nulla nunc purus phasellus,cash,true,Fleming Masson
+879,1/7/2019,outreach,9179.1,Twimbo,orci vehicula condimentum curabitur in libero,check,false,Giovanni World
+880,4/4/2019,automobiles,7057.9,Youopia,purus phasellus in felis donec semper sapien a libero nam dui proin leo,check,false,Ferne Horrigan
+881,10/10/2019,retreats,268.83,Jaxnation,dapibus at diam nam tristique,check,true,Jeromy Pring
+882,7/9/2019,building_management,9171.55,Vinte,at feugiat non pretium quis lectus suspendisse potenti in eleifend quam a odio,check,false,Bernetta Skahill
+883,9/8/2019,liturgy_music,3966.86,Zoozzy,tempor turpis nec euismod scelerisque quam turpis adipiscing lorem vitae mattis,check,false,Chad Fairs
+884,6/1/2019,office_administration,8521.19,Vidoo,nulla ultrices aliquet maecenas leo odio,cash,false,Floyd Merredy
+885,2/3/2019,building_management,1.94,Youbridge,bibendum felis sed interdum venenatis turpis enim blandit mi in porttitor pede,check,false,Vinita Drydale
+886,4/12/2019,automobiles,4969.54,Babbleopia,auctor gravida sem praesent id massa,cash,false,Merola Hebbard
+887,9/11/2019,other,9354.79,Zoonder,at nunc commodo placerat praesent blandit nam nulla integer pede justo lacinia eget tincidunt eget,check,true,Honey Emmet
+888,2/24/2019,crm_expenses,2975.92,Kazio,magnis dis parturient montes nascetur ridiculus mus,cash,false,Carlos Moores
+889,6/26/2019,faith_education,2565.61,Thoughtworks,ante ipsum primis in faucibus orci luctus et ultrices,credit card,false,Cherey Fillimore
+890,2/6/2019,retreats,2174.09,Twimm,,credit card,true,Alena Ferney
+891,4/12/2019,automobiles,7589.49,Vipe,pede libero quis orci nullam,check,true,Elora Strathern
+892,9/24/2019,other,1382.07,Realcube,platea dictumst morbi vestibulum velit id pretium iaculis diam erat fermentum justo nec,credit card,false,Imojean Whitemarsh
+893,10/18/2019,office_administration,2290.15,Babbleopia,congue vivamus metus arcu adipiscing molestie hendrerit at vulputate,credit card,false,Finn Simoncello
+894,4/10/2019,comm_life,3002.72,Skinix,erat eros viverra eget congue eget semper rutrum nulla nunc purus phasellus in felis,credit card,true,Karmen Le Merchant
+895,2/20/2019,retreats,5299.06,Oyoloo,praesent lectus vestibulum quam sapien varius ut blandit non interdum in ante vestibulum ante,check,true,Darbee Gleader
+896,11/14/2019,retreats,4777.82,Yabox,curabitur convallis duis consequat dui nec,cash,false,Nanon Christopherson
+897,4/23/2019,comm_life,7576.35,Avamm,erat tortor sollicitudin mi sit amet lobortis sapien sapien non mi integer ac,cash,false,Tamiko Krysiak
+898,4/1/2019,liturgy_music,7412.34,Wordware,convallis nulla neque libero convallis eget eleifend luctus ultricies,credit card,true,Joyan Kimmins
+899,11/1/2019,crm_expenses,67.23,Tekfly,consequat lectus in est risus auctor sed tristique in tempus sit,check,false,Job Roscamps
+900,8/1/2019,comm_life,3525.36,Zooxo,ut dolor morbi vel lectus in quam fringilla rhoncus mauris,credit card,true,Enrichetta Mulvany
+901,6/27/2019,automobiles,4200.33,Voomm,aliquet ultrices erat tortor sollicitudin mi,check,true,Dolley Etherton
+902,10/4/2019,automobiles,3210.12,Pixope,in tempus sit amet sem fusce consequat nulla nisl nunc nisl duis,cash,false,Berte Tivenan
+903,10/13/2019,liturgy_music,9130.27,Feedfish,ultrices posuere cubilia curae duis,check,false,Budd Lesmonde
+904,8/11/2019,outreach,7428.03,Youspan,dolor vel est donec odio justo sollicitudin ut,credit card,true,Yulma Kimbury
+905,10/2/2019,building_management,7073.55,Aimbu,nec sem duis aliquam convallis nunc proin at turpis a pede posuere,credit card,false,Olimpia Discombe
+906,11/4/2019,liturgy_music,3362.18,Edgetag,volutpat dui maecenas tristique est et tempus semper est quam pharetra,cash,false,Finley Shinton
+907,4/18/2019,utilities,6111.59,Realmix,etiam pretium iaculis justo in hac,cash,true,Yurik Sired
+908,2/3/2019,comm_life,8482.55,Rhyzio,id justo sit amet sapien dignissim vestibulum vestibulum ante ipsum primis in faucibus orci luctus,cash,false,Madge Aggett
+909,3/26/2019,liturgy_music,438.16,Mydeo,vestibulum ac est lacinia nisi venenatis tristique fusce congue diam,cash,true,Fancie Slogrove
+910,4/13/2019,social_justice,2641.45,Jaloo,velit eu est congue elementum in hac habitasse platea dictumst morbi,check,true,Sheena Hamblington
+911,11/11/2019,other,8344.19,Tambee,sapien dignissim vestibulum vestibulum ante ipsum primis in faucibus orci luctus et ultrices,credit card,false,Chrissie Carles
+912,2/23/2019,retreats,4781.79,Zazio,,cash,false,Kay Bergin
+913,5/15/2019,social_justice,1886.09,Shuffledrive,curabitur gravida nisi at nibh in hac habitasse platea dictumst aliquam augue quam sollicitudin vitae,credit card,true,Ann Djokovic
+914,8/30/2019,comm_life,510.81,Meemm,,credit card,true,Chuck Ladbrooke
+915,8/3/2019,utilities,8923.14,Voonte,,credit card,false,Kiri Bolger
+916,9/21/2019,utilities,6832.27,Eire,,cash,false,Drucie Lestrange
+917,11/9/2019,faith_education,5437.33,Yodo,orci luctus et ultrices posuere cubilia curae,credit card,false,Roxie Halse
+918,12/5/2019,student_leadership,142.03,Bubblebox,sed interdum venenatis turpis enim blandit mi in porttitor pede justo eu,cash,true,Juditha Domesday
+919,5/19/2019,other,2976.78,Tagchat,,check,true,Cull Culter
+920,9/2/2019,other,8909.08,Rhyloo,ac tellus semper interdum mauris ullamcorper purus sit amet nulla quisque arcu libero,check,true,Mona Stiger
+921,1/3/2019,building_management,9559.51,Zoomlounge,velit eu est congue elementum in hac habitasse platea dictumst morbi vestibulum velit id,cash,false,Tilly Fussie
+922,4/13/2019,building_management,1629.68,Wikizz,quisque id justo sit amet sapien dignissim vestibulum vestibulum ante,cash,false,Theodora Duggon
+923,1/27/2019,crm_expenses,8481.76,Linktype,lobortis convallis tortor risus dapibus augue vel accumsan tellus nisi eu orci,cash,true,Goldia Bromwich
+924,1/7/2019,faith_education,4253.64,Camido,primis in faucibus orci luctus et ultrices posuere cubilia,check,false,Laryssa Coxwell
+925,12/4/2019,utilities,4860.81,Jabbercube,metus sapien ut nunc vestibulum ante ipsum primis in faucibus orci,cash,false,Jinny Mallard
+926,6/30/2019,building_management,8426.26,Lazzy,sed augue aliquam erat volutpat in congue etiam justo etiam pretium iaculis justo in hac,cash,true,Dyana Aspy
+927,8/11/2019,building_management,6915.84,Ainyx,justo pellentesque viverra pede ac diam cras pellentesque volutpat dui maecenas,check,true,Susana Towse
+928,2/21/2019,liturgy_music,5609.3,Mybuzz,orci nullam molestie nibh in lectus pellentesque at nulla suspendisse potenti,check,true,Whitney Rolfo
+929,10/12/2019,outreach,3021.29,Dynazzy,,check,false,Christal Pocklington
+930,9/18/2019,crm_expenses,4897.84,Skipfire,,credit card,false,Gunter Jephcott
+931,8/1/2019,utilities,7314.53,Rhynoodle,vitae nisl aenean lectus pellentesque eget nunc donec quis orci eget orci vehicula condimentum curabitur,credit card,false,Drucy Trouel
+932,8/27/2019,retreats,2501.49,LiveZ,nullam molestie nibh in lectus pellentesque at nulla suspendisse potenti,check,false,Annaliese Culvey
+933,5/4/2019,other,1694.3,Realcube,maecenas pulvinar lobortis est phasellus sit amet,credit card,true,Randell Auchterlonie
+934,9/15/2019,retreats,9401.54,Rhyloo,ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae donec pharetra magna,cash,false,Andrei Storcke
+935,5/23/2019,outreach,459.19,Youopia,parturient montes nascetur ridiculus mus etiam vel augue vestibulum rutrum rutrum neque aenean auctor gravida,cash,false,Ode Harrower
+936,4/28/2019,faith_education,5926.52,Oloo,hac habitasse platea dictumst etiam faucibus,check,true,Cosetta Kirtlan
+937,4/2/2019,other,4116.91,Kwimbee,,check,false,Manda Strickler
+938,8/15/2019,building_management,998.47,Realbuzz,,check,false,Helyn Sturdey
+939,1/27/2019,liturgy_music,3721.06,Wordpedia,vestibulum quam sapien varius ut blandit non interdum in ante vestibulum ante,credit card,true,Knox Enoksson
+940,11/24/2019,other,684.15,Browsetype,,cash,true,Elvyn Leddie
+941,9/22/2019,comm_life,9578.33,Youopia,lobortis sapien sapien non mi integer ac neque duis bibendum morbi non quam nec,check,true,Danyelle McVeigh
+942,7/22/2019,comm_life,727.91,Photojam,ante vestibulum ante ipsum primis in faucibus orci luctus et,check,false,Rafael Navarre
+943,7/19/2019,crm_expenses,5847.8,LiveZ,maecenas leo odio condimentum id luctus nec,cash,true,Farlee Abramovicz
+944,9/19/2019,automobiles,567.0,Nlounge,dapibus augue vel accumsan tellus nisi eu orci mauris lacinia,check,false,Marlon Coomes
+945,11/23/2019,other,3544.67,Skiba,consequat in consequat ut nulla sed accumsan felis ut at dolor,cash,true,Dre Malzard
+946,12/19/2019,building_management,1331.0,Demivee,in blandit ultrices enim lorem ipsum dolor sit amet consectetuer,cash,true,Cymbre Vicary
+947,11/16/2019,liturgy_music,6172.12,Photolist,adipiscing lorem vitae mattis nibh ligula nec sem duis,cash,true,Johnna Simmell
+948,8/7/2019,faith_education,9769.71,Miboo,convallis morbi odio odio elementum eu interdum,credit card,true,Jeannine Peltzer
+949,8/29/2019,crm_expenses,4808.89,Edgepulse,fermentum justo nec condimentum neque sapien placerat ante nulla justo aliquam quis,credit card,false,Maxine Spikins
+950,12/19/2019,automobiles,7422.49,Topicblab,quam nec dui luctus rutrum,check,false,Ariela Mollene
+951,5/24/2019,social_justice,4537.06,Riffpath,tristique in tempus sit amet sem fusce consequat nulla,cash,false,Galina Kippax
+952,12/28/2019,retreats,3242.04,Einti,,cash,true,Minor Cheverton
+953,3/15/2019,faith_education,390.59,Yodoo,eget vulputate ut ultrices vel augue vestibulum ante ipsum,credit card,true,Karlik Lindstrom
+954,7/25/2019,office_administration,8255.99,Eayo,,cash,true,Cassius Mathelon
+955,5/12/2019,building_management,4830.68,Linkbridge,habitasse platea dictumst morbi vestibulum velit id pretium iaculis diam erat fermentum justo nec condimentum,credit card,false,Trisha Dineen
+956,10/27/2019,comm_life,3355.51,Topicshots,ligula pellentesque ultrices phasellus id sapien in sapien iaculis congue vivamus metus,credit card,false,Annice Dyke
+957,9/15/2019,utilities,6958.49,Brainverse,rhoncus aliquet pulvinar sed nisl nunc rhoncus dui vel sem sed sagittis nam congue,credit card,false,Ava Cometson
+958,11/17/2019,office_administration,1583.78,Zoovu,vulputate luctus cum sociis natoque penatibus et magnis dis,check,false,Davita O'Shields
+959,9/16/2019,other,7864.64,Realblab,aliquam non mauris morbi non lectus aliquam sit,cash,false,Bibbie Giacomini
+960,4/23/2019,automobiles,7783.62,Skyndu,ultrices posuere cubilia curae mauris viverra diam vitae quam suspendisse potenti,check,true,Margalo Freddi
+961,1/29/2019,student_leadership,987.55,Jabberbean,aliquet ultrices erat tortor sollicitudin mi sit,credit card,false,Anni Langfitt
+962,10/1/2019,retreats,9330.94,Cogibox,volutpat eleifend donec ut dolor morbi vel lectus in quam,cash,true,Hattie Beckworth
+963,11/23/2019,building_management,9536.74,Photojam,tincidunt eu felis fusce posuere felis sed lacus morbi sem mauris laoreet ut rhoncus aliquet,cash,false,Mandi Brasseur
+964,10/31/2019,building_management,6370.61,Brightbean,nullam varius nulla facilisi cras non velit,credit card,true,Hinda Fulger
+965,8/21/2019,office_administration,252.1,Agivu,,check,false,Catha Prothero
+966,6/20/2019,faith_education,6299.2,Bubblebox,interdum mauris ullamcorper purus sit amet nulla quisque arcu libero,check,true,Annetta Goadbie
+967,7/10/2019,office_administration,8887.12,Oyoyo,congue risus semper porta volutpat quam pede lobortis,credit card,false,Dex Pawling
+968,3/10/2019,utilities,7376.26,Photojam,ut mauris eget massa tempor,check,false,Atlanta Beaudry
+969,10/30/2019,comm_life,6920.92,Zooxo,,credit card,false,Haily Bradly
+970,8/15/2019,faith_education,7411.53,Jabberbean,aliquam convallis nunc proin at turpis a,credit card,false,Dena Gobert
+971,8/5/2019,comm_life,1832.76,Tagchat,accumsan tortor quis turpis sed ante vivamus tortor duis mattis egestas metus aenean fermentum,check,true,Demetri O'Deegan
+972,8/20/2019,office_administration,6108.69,Linklinks,non mattis pulvinar nulla pede ullamcorper augue a suscipit nulla elit ac,cash,true,Orv Tibbotts
+973,1/2/2019,social_justice,7492.93,Rhybox,molestie lorem quisque ut erat curabitur gravida nisi at nibh in hac habitasse platea dictumst,cash,true,Fulvia Candwell
+974,6/16/2019,other,1271.25,Dynazzy,,cash,false,Torry Woolrich
+975,10/14/2019,utilities,1234.32,Aimbo,sapien cum sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus etiam,credit card,true,Barnie Kingscote
+976,7/7/2019,faith_education,5794.22,Jatri,,check,false,Geneva Hultberg
+977,10/2/2019,building_management,6470.18,Youbridge,,credit card,true,Hadlee Sandwich
+978,6/23/2019,comm_life,8143.73,Devcast,velit id pretium iaculis diam erat fermentum justo nec condimentum neque sapien placerat,cash,true,Kassandra De Bischop
+979,4/29/2019,outreach,9495.84,Tavu,pulvinar nulla pede ullamcorper augue,cash,false,Micah Slowgrove
+980,7/6/2019,utilities,6840.25,Demizz,lectus suspendisse potenti in eleifend quam a odio,credit card,false,Launce Gawthorpe
+981,5/27/2019,social_justice,864.09,Rhynoodle,leo odio porttitor id consequat in consequat ut nulla sed accumsan felis,cash,false,Homer Clare
+982,5/20/2019,other,1892.27,Tambee,in tempor turpis nec euismod scelerisque quam,check,false,Ginnifer Iapico
+983,7/29/2019,retreats,1641.12,Eimbee,odio odio elementum eu interdum eu tincidunt in leo maecenas pulvinar lobortis est phasellus sit,cash,true,Ardelis Grigorkin
+984,6/12/2019,liturgy_music,4949.9,Geba,ut massa quis augue luctus tincidunt nulla mollis molestie lorem quisque ut erat,credit card,true,Loria Blacklidge
+985,7/25/2019,other,1175.36,Wordtune,sapien ut nunc vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia,check,true,Clary Antognelli
+986,2/24/2019,office_administration,4846.37,Edgewire,velit id pretium iaculis diam erat fermentum justo nec condimentum,check,false,Kaela Pallant
+987,10/12/2019,automobiles,172.53,Omba,in lacus curabitur at ipsum ac tellus semper interdum mauris ullamcorper,check,true,Kayle Darridon
+988,7/16/2019,outreach,5264.22,Youfeed,eros vestibulum ac est lacinia nisi venenatis tristique fusce congue diam id ornare imperdiet sapien,check,false,Lilah Skally
+989,2/4/2019,liturgy_music,8311.4,Jaxspan,elementum nullam varius nulla facilisi cras non velit nec nisi,check,true,Ginnie Auchterlonie
+990,4/19/2019,other,7962.98,Oyonder,non ligula pellentesque ultrices phasellus id sapien in sapien iaculis congue vivamus metus,cash,false,Ursuline Leyden
+991,3/4/2019,retreats,5827.48,Meeveo,convallis duis consequat dui nec nisi,check,true,Pamella Sutherley
+992,7/6/2019,building_management,9474.09,Skinix,justo sollicitudin ut suscipit a,check,false,Ediva Zappel
+993,4/20/2019,comm_life,7067.49,Demimbu,sed vestibulum sit amet cursus id turpis,check,true,Burr Eggar
+994,6/28/2019,social_justice,6072.0,Voolia,,cash,false,Anstice Jenkyn
+995,11/2/2019,comm_life,9257.79,Meembee,consequat varius integer ac leo,credit card,true,Mathe Shingler
+996,9/19/2019,office_administration,3265.49,Jabbercube,adipiscing molestie hendrerit at vulputate vitae nisl aenean lectus pellentesque eget nunc donec quis orci,credit card,false,Luce Bento
+997,1/19/2019,social_justice,8807.32,Bubbletube,platea dictumst etiam faucibus cursus urna,cash,true,Pierette Jardine
+998,6/20/2019,automobiles,6976.52,Quire,in magna bibendum imperdiet nullam orci pede venenatis non sodales sed,check,true,Ferris Bachellier
+999,5/7/2019,student_leadership,7696.18,Ooba,,credit card,true,Evie Mortel
+1000,12/23/2019,office_administration,6037.95,Wordtune,massa id lobortis convallis tortor,credit card,false,Debera Weiss

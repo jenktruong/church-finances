@@ -1,0 +1,1001 @@
+expense_id,date,sub_category,amount,vendor,description,payment_method,receipt,approved_by
+1,2/2/2021,crm_expenses,6367.25,Pixope,at dolor quis odio consequat varius integer ac leo pellentesque ultrices mattis odio donec vitae,cash,true,Virgilio Menel
+2,2/21/2021,social_justice,6780.52,Realblab,vivamus in felis eu sapien cursus vestibulum proin eu mi,credit card,true,Arline Merrill
+3,7/8/2021,outreach,8273.89,Dablist,sem sed sagittis nam congue risus semper porta volutpat quam pede lobortis ligula,credit card,true,Val Falconer
+4,4/3/2021,retreats,2745.06,Avaveo,,check,true,Eolanda Skylett
+5,5/5/2021,faith_education,6259.72,Photobug,turpis donec posuere metus vitae ipsum aliquam,credit card,false,Garvin Izacenko
+6,1/23/2021,social_justice,5681.62,Skidoo,lacinia nisi venenatis tristique fusce congue,check,true,Luella Borton
+7,5/16/2021,other,1987.28,Ntag,nisl aenean lectus pellentesque eget nunc donec quis orci eget orci vehicula condimentum,credit card,false,Sibyl O'Keevan
+8,6/27/2021,outreach,6768.39,Zoonder,nulla ac enim in tempor,credit card,true,Winfred Wisdom
+9,7/24/2021,comm_life,3723.24,Layo,sapien non mi integer ac neque duis bibendum morbi non quam nec dui luctus rutrum,cash,false,Leeann Fasson
+10,12/22/2021,social_justice,6227.6,Eadel,,credit card,true,Evey Slimings
+11,1/12/2021,comm_life,9382.11,Einti,dui luctus rutrum nulla tellus in sagittis dui vel nisl duis ac nibh fusce lacus,cash,false,Rivi Maypother
+12,11/24/2021,comm_life,2475.64,Skyba,nisi venenatis tristique fusce congue diam id ornare imperdiet sapien,credit card,true,Port McVaugh
+13,9/1/2021,building_management,1824.9,Livetube,justo in hac habitasse platea dictumst etiam faucibus,credit card,false,Sonny Iveans
+14,3/6/2021,crm_expenses,5931.0,Yadel,hac habitasse platea dictumst aliquam augue quam sollicitudin vitae consectetuer eget,cash,true,Hillyer Meneur
+15,12/16/2021,faith_education,4245.77,Zoombeat,nulla integer pede justo lacinia eget,credit card,false,Christie Shieldon
+16,10/15/2021,student_leadership,1294.06,Skinder,,check,true,Gregorio Barlace
+17,4/5/2021,comm_life,6404.4,Plajo,donec vitae nisi nam ultrices libero non mattis pulvinar nulla,cash,false,Lanae Leversuch
+18,5/10/2021,building_management,2967.01,Fliptune,hac habitasse platea dictumst aliquam augue quam sollicitudin vitae consectetuer eget rutrum at lorem,check,false,Melloney Blackleech
+19,9/14/2021,outreach,5800.97,Realpoint,in tempus sit amet sem fusce consequat nulla,credit card,false,Granger Billingsly
+20,8/11/2021,crm_expenses,4292.86,Layo,ultrices enim lorem ipsum dolor sit amet consectetuer,credit card,false,Breena Antonnikov
+21,1/14/2021,faith_education,6488.39,Zooveo,justo in blandit ultrices enim lorem ipsum dolor sit amet consectetuer adipiscing,cash,true,Brooks Ternott
+22,3/22/2021,comm_life,2349.27,Mycat,amet justo morbi ut odio cras mi pede malesuada in imperdiet et commodo vulputate,credit card,false,Olimpia Van der Brug
+23,1/25/2021,student_leadership,4021.48,LiveZ,sed augue aliquam erat volutpat in congue etiam justo etiam pretium iaculis,credit card,false,Mycah Iannini
+24,8/3/2021,office_administration,1038.29,Topicblab,aliquam quis turpis eget elit sodales scelerisque mauris sit amet,cash,false,Neille Bradick
+25,1/30/2021,automobiles,8834.68,Roombo,at turpis a pede posuere nonummy integer non velit donec diam neque vestibulum,check,true,Andrew Willan
+26,1/26/2021,comm_life,7161.41,Blognation,et tempus semper est quam pharetra magna ac consequat metus sapien ut nunc vestibulum,check,true,Jarret Ossenna
+27,10/2/2021,faith_education,5022.36,Yozio,sodales scelerisque mauris sit amet eros suspendisse accumsan tortor quis turpis sed ante,credit card,true,Amabel Fairnie
+28,7/23/2021,liturgy_music,8794.76,Photobug,sed vel enim sit amet nunc,cash,true,Gunner Maddock
+29,10/10/2021,liturgy_music,844.0,Feedbug,sed ante vivamus tortor duis mattis egestas metus aenean fermentum donec,credit card,true,Vinny Balfe
+30,8/27/2021,office_administration,8942.7,Flashpoint,nulla tellus in sagittis dui vel nisl duis ac nibh fusce lacus purus aliquet,cash,true,Rhiamon De Launde
+31,3/17/2021,liturgy_music,4363.8,Linkbuzz,,cash,false,Greg Gilcriest
+32,1/7/2021,other,9501.4,Quire,pede ullamcorper augue a suscipit nulla elit ac,check,false,Jacynth O'Feeney
+33,7/7/2021,comm_life,5538.01,Yodoo,a libero nam dui proin leo odio porttitor id consequat in consequat ut nulla sed,check,true,Laetitia Kibby
+34,8/2/2021,building_management,7781.02,Photobug,sed nisl nunc rhoncus dui vel sem sed sagittis nam congue,cash,true,Shawn Corlett
+35,9/14/2021,office_administration,9477.05,Tagchat,et tempus semper est quam pharetra magna ac consequat metus sapien ut nunc,credit card,false,Boote Stoade
+36,12/22/2021,outreach,6559.07,Eimbee,ullamcorper purus sit amet nulla quisque arcu libero rutrum ac lobortis vel dapibus at,credit card,true,Tisha Blencowe
+37,11/3/2021,building_management,4878.7,Kaymbo,neque duis bibendum morbi non quam nec dui luctus rutrum nulla tellus in sagittis dui,check,true,Guillema Chalke
+38,1/9/2021,student_leadership,4448.82,Shufflebeat,vestibulum sit amet cursus id turpis integer aliquet massa id lobortis convallis tortor,cash,true,Melantha Haselgrove
+39,6/21/2021,automobiles,7635.44,Avamm,lobortis ligula sit amet eleifend pede libero quis orci nullam,cash,true,Nani Buckston
+40,12/2/2021,liturgy_music,7819.69,Plambee,ut tellus nulla ut erat id mauris vulputate elementum nullam varius nulla,credit card,false,Georgina Bradburn
+41,8/3/2021,crm_expenses,7482.77,Shuffletag,integer ac neque duis bibendum morbi non,credit card,false,Shoshanna Domingues
+42,3/27/2021,social_justice,7858.88,Jatri,enim leo rhoncus sed vestibulum sit amet cursus id turpis,cash,false,Brittney Goeff
+43,3/22/2021,automobiles,4395.9,Realfire,at velit vivamus vel nulla eget eros elementum pellentesque quisque porta volutpat erat quisque erat,cash,false,Sharon Skittrall
+44,10/3/2021,automobiles,6801.3,Yodo,eu interdum eu tincidunt in leo maecenas,check,true,Kain Braunton
+45,5/23/2021,crm_expenses,6067.91,Eadel,in quis justo maecenas rhoncus aliquam lacus morbi quis tortor id nulla ultrices,cash,true,Patty Brandsma
+46,11/20/2021,outreach,7472.77,Plambee,amet diam in magna bibendum,check,false,Zoe Wadelin
+47,11/17/2021,comm_life,8513.19,Twimm,nisl ut volutpat sapien arcu sed augue aliquam erat volutpat in,credit card,false,Beatrisa Batteson
+48,9/19/2021,comm_life,8490.63,Realcube,id massa id nisl venenatis lacinia aenean sit amet justo morbi ut odio,check,true,Stearne Collingwood
+49,5/12/2021,utilities,6934.06,Bubblemix,vestibulum ac est lacinia nisi venenatis tristique fusce congue diam id,cash,true,Raddie Lyon
+50,2/23/2021,social_justice,8526.38,Jetpulse,ac enim in tempor turpis nec euismod scelerisque quam turpis adipiscing lorem,cash,true,Mile Paxman
+51,6/6/2021,comm_life,6302.21,Lazz,euismod scelerisque quam turpis adipiscing lorem,cash,false,Rois Twitchett
+52,8/1/2021,student_leadership,6534.13,Flipbug,morbi non quam nec dui luctus rutrum nulla,check,false,Ezri Van der Son
+53,9/1/2021,crm_expenses,9518.95,Demimbu,et magnis dis parturient montes nascetur ridiculus mus etiam vel augue,credit card,false,Kristen Hyde-Chambers
+54,2/19/2021,faith_education,3935.85,Oyope,,cash,true,Thoma Emburey
+55,7/23/2021,office_administration,8719.75,Skipstorm,ullamcorper augue a suscipit nulla elit ac nulla sed vel enim sit amet nunc viverra,credit card,false,Kipper Keoghan
+56,10/28/2021,liturgy_music,692.33,Babblestorm,vel sem sed sagittis nam,cash,true,Bart Glasman
+57,2/4/2021,retreats,5939.97,Zoonoodle,ligula nec sem duis aliquam convallis nunc proin at turpis,check,true,Layne Anespie
+58,7/22/2021,utilities,5335.42,Linklinks,ac neque duis bibendum morbi non quam nec dui luctus rutrum nulla tellus,credit card,false,Ebeneser Thominga
+59,3/6/2021,other,6770.64,Riffpath,,credit card,false,Luciano Deinhardt
+60,3/8/2021,comm_life,1132.3,Roombo,est congue elementum in hac habitasse,check,false,Leanna Sulley
+61,11/26/2021,automobiles,9697.43,Meembee,odio odio elementum eu interdum eu tincidunt,check,true,Marlyn Acome
+62,3/17/2021,student_leadership,630.03,Plajo,rhoncus aliquam lacus morbi quis tortor id nulla,credit card,false,Maxwell Drewry
+63,4/24/2021,retreats,7199.31,Realbridge,integer ac neque duis bibendum,cash,false,Janis Caltun
+64,7/16/2021,utilities,2007.72,Youfeed,vel accumsan tellus nisi eu orci,cash,false,Harlan Gabrieli
+65,9/25/2021,outreach,49.52,Mybuzz,,check,false,Amargo Fonzo
+66,4/12/2021,other,7265.03,Roombo,justo in hac habitasse platea,cash,false,Becca Boyford
+67,11/19/2021,retreats,6372.37,Wikido,,credit card,true,Korie Van der Hoven
+68,4/23/2021,social_justice,7040.34,Twimbo,et commodo vulputate justo in blandit ultrices enim lorem ipsum dolor sit,cash,true,Weylin Loker
+69,8/7/2021,liturgy_music,9604.99,Mudo,mus etiam vel augue vestibulum rutrum,check,true,Caddric Kermode
+70,2/4/2021,retreats,2743.1,Realpoint,sit amet cursus id turpis integer aliquet massa id lobortis convallis tortor risus,check,false,Allister Gratrex
+71,10/2/2021,student_leadership,9936.32,Jabbertype,quam sapien varius ut blandit non interdum in ante vestibulum ante ipsum primis,check,false,Ross Rubinfajn
+72,7/13/2021,other,2248.27,Bluejam,sed tincidunt eu felis fusce posuere felis sed lacus morbi sem mauris,credit card,false,Forrest De Andisie
+73,12/15/2021,utilities,8589.36,Meezzy,massa id lobortis convallis tortor risus dapibus augue vel accumsan,check,false,Friederike Summerell
+74,5/6/2021,comm_life,434.1,Zoombox,elit sodales scelerisque mauris sit amet eros suspendisse accumsan tortor quis,credit card,false,Johnathan Thebeau
+75,10/8/2021,retreats,2367.06,Dablist,lectus pellentesque eget nunc donec quis orci eget orci vehicula condimentum,cash,false,Stewart Emeney
+76,3/12/2021,retreats,3438.06,Yabox,etiam pretium iaculis justo in hac habitasse platea dictumst etiam faucibus cursus urna,credit card,false,Frasquito Bencher
+77,2/1/2021,office_administration,1773.99,Meezzy,,credit card,true,Delmor Painter
+78,6/5/2021,retreats,7100.24,Linkbuzz,,check,false,Hy Maywood
+79,12/3/2021,building_management,6893.94,Feedfire,volutpat quam pede lobortis ligula sit amet eleifend pede libero quis orci nullam,credit card,true,Franciska Crust
+80,10/18/2021,other,7718.06,Myworks,ut blandit non interdum in ante vestibulum ante ipsum primis,credit card,true,Loise Ellar
+81,8/11/2021,liturgy_music,8123.51,Tavu,,credit card,true,Tony Keyes
+82,10/4/2021,crm_expenses,5457.11,Fiveclub,phasellus id sapien in sapien iaculis congue vivamus metus arcu adipiscing,credit card,true,Isahella Gaskin
+83,10/21/2021,social_justice,257.58,Eamia,rutrum rutrum neque aenean auctor gravida,credit card,false,Ninetta Enstone
+84,5/12/2021,utilities,8351.33,Yambee,augue quam sollicitudin vitae consectetuer eget rutrum at lorem integer,cash,false,Casie Geerdts
+85,2/10/2021,student_leadership,5326.64,Voomm,ac consequat metus sapien ut nunc vestibulum ante,check,true,Kin Tuffs
+86,9/15/2021,other,3901.39,Demivee,dictumst etiam faucibus cursus urna ut tellus nulla ut erat id mauris vulputate elementum,check,true,Camile Peracco
+87,9/17/2021,faith_education,3591.82,Kamba,sociis natoque penatibus et magnis dis parturient montes nascetur,cash,true,Dario Stevings
+88,3/24/2021,retreats,8420.74,Gabtype,a suscipit nulla elit ac,credit card,true,Kiley Davydochkin
+89,7/29/2021,automobiles,6074.13,Rhycero,odio donec vitae nisi nam ultrices libero non mattis pulvinar nulla pede ullamcorper,credit card,true,Linoel Aleksidze
+90,5/20/2021,student_leadership,165.78,Trudoo,magnis dis parturient montes nascetur ridiculus mus vivamus,check,false,Trixy Willers
+91,1/6/2021,office_administration,6615.27,Photobean,,check,true,Myrvyn Moiser
+92,2/28/2021,liturgy_music,3300.39,Vipe,vulputate elementum nullam varius nulla facilisi cras,check,false,Shirl Pinckstone
+93,6/20/2021,crm_expenses,8941.62,Twitterlist,in tempus sit amet sem fusce consequat nulla nisl nunc nisl duis,check,true,Kacy de Leon
+94,12/13/2021,student_leadership,6214.13,Jatri,sed justo pellentesque viverra pede ac diam,credit card,false,Myrtia Cabena
+95,3/17/2021,retreats,7627.72,Ozu,tortor risus dapibus augue vel accumsan tellus nisi eu orci mauris lacinia sapien quis libero,credit card,false,Shir Zukerman
+96,12/19/2021,student_leadership,618.76,Realpoint,consectetuer adipiscing elit proin risus praesent lectus vestibulum quam sapien varius ut blandit non,credit card,true,Helyn Danson
+97,9/23/2021,faith_education,5889.84,Realblab,risus dapibus augue vel accumsan tellus nisi eu orci mauris,cash,true,Noah Bispo
+98,2/19/2021,faith_education,6481.28,Oyope,pede posuere nonummy integer non velit donec diam neque vestibulum eget vulputate,cash,true,Herbie Polamontayne
+99,10/21/2021,outreach,8918.66,Jatri,convallis eget eleifend luctus ultricies eu nibh quisque id justo sit amet sapien dignissim vestibulum,credit card,true,Winne Titterton
+100,12/10/2021,building_management,8354.53,Dynabox,magnis dis parturient montes nascetur ridiculus mus etiam vel augue vestibulum rutrum rutrum,credit card,false,Xerxes Cousen
+101,4/27/2021,student_leadership,1809.98,Voolith,in imperdiet et commodo vulputate justo in blandit ultrices enim lorem ipsum dolor sit amet,credit card,false,Stace Waterhous
+102,12/18/2021,building_management,3443.75,Gigazoom,nulla tellus in sagittis dui vel nisl duis ac nibh fusce lacus purus,credit card,true,Amalee Sale
+103,2/17/2021,social_justice,9601.09,Zoozzy,orci nullam molestie nibh in lectus pellentesque at nulla,cash,false,Kerrie Lindwasser
+104,7/17/2021,outreach,3535.79,Tagpad,aliquam convallis nunc proin at turpis a pede posuere,credit card,false,Eba Shepcutt
+105,5/22/2021,faith_education,4873.75,Twitterworks,quis justo maecenas rhoncus aliquam lacus morbi quis tortor id nulla ultrices,cash,true,Celestia Alvarado
+106,4/18/2021,outreach,3385.85,Yakidoo,dui nec nisi volutpat eleifend donec ut dolor,credit card,false,Dore Ruilton
+107,2/23/2021,utilities,6998.49,Kazio,sapien cum sociis natoque penatibus et magnis dis parturient,cash,false,Hyman Crohan
+108,9/10/2021,faith_education,6071.87,Vitz,,check,true,Nolly Bikker
+109,4/27/2021,comm_life,5587.85,Lajo,,check,true,Thorn Lafflina
+110,3/11/2021,automobiles,6957.75,Ntags,sem praesent id massa id nisl venenatis lacinia aenean sit amet,credit card,true,Man Carryer
+111,8/4/2021,crm_expenses,9325.63,Kimia,sagittis dui vel nisl duis,check,true,Wanda Houseago
+112,3/14/2021,building_management,5390.42,Edgepulse,ut massa quis augue luctus tincidunt nulla mollis molestie lorem quisque ut erat curabitur,cash,true,Gaven Zapater
+113,2/19/2021,other,3202.96,Twitterbridge,aliquet at feugiat non pretium quis lectus suspendisse potenti in eleifend quam,credit card,true,Ileana Coenraets
+114,7/9/2021,social_justice,2053.25,Gigazoom,morbi vestibulum velit id pretium,check,false,Melamie Elliott
+115,7/5/2021,automobiles,786.04,Riffwire,felis fusce posuere felis sed,cash,false,Missie Kolin
+116,10/9/2021,liturgy_music,3627.65,Edgeclub,pede lobortis ligula sit amet eleifend pede libero quis orci nullam molestie,credit card,false,Colman Heathcoat
+117,7/6/2021,automobiles,8953.9,Mybuzz,vel enim sit amet nunc viverra,credit card,false,Matteo Ghidoni
+118,3/30/2021,faith_education,4052.75,Trudoo,mauris eget massa tempor convallis nulla neque libero convallis eget eleifend luctus ultricies,cash,false,Charmain Barendtsen
+119,8/27/2021,utilities,5669.58,Mycat,diam id ornare imperdiet sapien urna pretium nisl ut volutpat sapien arcu sed augue aliquam,cash,true,Christel Spere
+120,5/26/2021,faith_education,7598.99,Eimbee,turpis sed ante vivamus tortor duis,check,false,Haywood Gencke
+121,6/26/2021,crm_expenses,1992.58,Avavee,primis in faucibus orci luctus et ultrices posuere cubilia curae,credit card,false,Abey Pinock
+122,3/19/2021,student_leadership,6732.36,Shuffletag,augue luctus tincidunt nulla mollis molestie lorem quisque,credit card,true,Erena Thornhill
+123,9/18/2021,crm_expenses,7877.18,Innotype,adipiscing lorem vitae mattis nibh ligula nec sem duis aliquam convallis nunc proin,credit card,false,Nessi Di Biasio
+124,4/26/2021,liturgy_music,8939.86,Flashset,ut erat curabitur gravida nisi at nibh in hac habitasse platea dictumst aliquam augue,credit card,false,Gertrudis Searight
+125,10/2/2021,other,4530.6,Rhybox,amet eleifend pede libero quis orci nullam molestie nibh in lectus pellentesque at nulla,credit card,false,Ted Stollwerk
+126,6/22/2021,student_leadership,5769.58,Ntag,nulla sed vel enim sit amet nunc viverra dapibus,cash,false,Solomon Wallbanks
+127,8/21/2021,social_justice,3841.59,Centizu,quam pede lobortis ligula sit amet eleifend pede libero quis orci nullam molestie nibh,credit card,true,Dulcia Moorton
+128,1/7/2021,utilities,9724.72,Innotype,nisi nam ultrices libero non mattis pulvinar nulla pede ullamcorper augue a suscipit nulla elit,check,true,Bridie Gulliver
+129,8/18/2021,comm_life,9791.5,Avamba,hac habitasse platea dictumst etiam,check,false,Myrta Eastby
+130,12/6/2021,student_leadership,9972.15,Flashdog,nascetur ridiculus mus etiam vel augue vestibulum,check,false,Humfried Woolfenden
+131,4/10/2021,automobiles,6316.19,Fivechat,lacinia eget tincidunt eget tempus vel pede morbi porttitor lorem id,credit card,true,Kris Membry
+132,2/24/2021,retreats,629.07,Rhynyx,et magnis dis parturient montes nascetur ridiculus mus vivamus vestibulum sagittis sapien cum,credit card,true,Friedrich Migheli
+133,3/10/2021,other,1116.79,Thoughtsphere,magna ac consequat metus sapien ut nunc vestibulum,cash,false,Pier Raspison
+134,9/4/2021,faith_education,7779.92,Kimia,phasellus in felis donec semper sapien a libero nam dui proin,cash,false,Davin Vankeev
+135,4/17/2021,student_leadership,9296.61,Blogspan,id turpis integer aliquet massa id lobortis convallis tortor risus,credit card,false,Richardo Cockayme
+136,3/30/2021,retreats,2137.71,Livepath,eu nibh quisque id justo sit amet sapien dignissim,cash,false,Winna Dron
+137,5/14/2021,social_justice,7221.09,Jabbersphere,,credit card,false,Cortney Hoy
+138,10/25/2021,retreats,310.65,Pixope,mattis odio donec vitae nisi nam ultrices libero non mattis pulvinar nulla pede ullamcorper,credit card,true,Odette Storrs
+139,1/21/2021,other,6916.29,Gabcube,,credit card,false,Sindee Fairholm
+140,3/20/2021,retreats,7913.24,Meevee,luctus rutrum nulla tellus in sagittis dui vel nisl duis ac nibh fusce,credit card,true,Flin Mercer
+141,5/9/2021,faith_education,2933.22,Tagopia,luctus et ultrices posuere cubilia curae donec pharetra magna vestibulum aliquet ultrices,check,false,Karrah Headingham
+142,7/1/2021,liturgy_music,4168.95,Aibox,in consequat ut nulla sed accumsan felis,credit card,false,Jourdan Wattisham
+143,1/4/2021,utilities,7607.89,Voonte,fusce posuere felis sed lacus,cash,true,Estella Bullick
+144,11/18/2021,building_management,1811.89,Twiyo,gravida nisi at nibh in hac habitasse platea dictumst aliquam augue quam sollicitudin vitae,cash,true,Alberto McDowall
+145,10/20/2021,other,9189.12,Zooveo,non quam nec dui luctus rutrum nulla tellus in sagittis dui vel,cash,true,Jaynell Northill
+146,12/8/2021,crm_expenses,8454.22,Centimia,,check,true,Rosalyn Inchbald
+147,2/27/2021,other,2235.28,Babbleset,ultrices mattis odio donec vitae nisi nam ultrices libero non mattis pulvinar nulla pede,credit card,false,Duffy Hazell
+148,2/20/2021,building_management,1492.64,Jetpulse,maecenas leo odio condimentum id luctus nec molestie sed justo pellentesque viverra pede ac,check,true,Donielle Brandel
+149,10/6/2021,utilities,9444.75,Trilith,risus auctor sed tristique in tempus sit amet sem fusce consequat nulla nisl nunc,check,true,Miltie Moine
+150,1/21/2021,faith_education,7786.59,Innojam,diam vitae quam suspendisse potenti nullam porttitor lacus at turpis donec posuere metus,cash,false,Chadd Wray
+151,9/10/2021,other,5958.7,Myworks,accumsan tortor quis turpis sed ante vivamus,check,false,Drake Mackiewicz
+152,5/10/2021,student_leadership,3591.76,Gabtune,ultrices phasellus id sapien in sapien iaculis congue vivamus,cash,true,Klarrisa Boundley
+153,11/13/2021,crm_expenses,288.78,Jabberbean,risus auctor sed tristique in tempus sit amet sem,check,true,Matias Ainsworth
+154,8/23/2021,utilities,5884.5,Skalith,,cash,true,Leandra Ortmann
+155,9/29/2021,building_management,4676.19,Jaloo,arcu sed augue aliquam erat volutpat in congue etiam justo etiam pretium iaculis justo in,cash,true,Delia Calbert
+156,2/10/2021,comm_life,4958.04,Rhycero,arcu libero rutrum ac lobortis vel dapibus at diam,credit card,false,Andonis Crosio
+157,7/18/2021,liturgy_music,9069.98,Youbridge,,credit card,false,Giffy Lamas
+158,4/15/2021,retreats,606.91,Camido,volutpat dui maecenas tristique est et tempus semper est quam,cash,true,Gilemette Tigner
+159,12/18/2021,liturgy_music,678.39,Youbridge,orci mauris lacinia sapien quis libero nullam sit amet turpis elementum ligula,credit card,true,Filberte Neesham
+160,6/9/2021,student_leadership,8053.92,Photobug,donec posuere metus vitae ipsum aliquam non mauris morbi non lectus aliquam sit amet diam,check,false,Findley Walklot
+161,11/16/2021,automobiles,3108.57,Tazzy,in felis eu sapien cursus vestibulum proin eu mi nulla ac,credit card,true,Carr Blythe
+162,6/3/2021,office_administration,4307.48,Vinder,ante vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere,credit card,false,Tedi De Beauchamp
+163,2/13/2021,other,6483.64,Babbleblab,vel est donec odio justo sollicitudin,credit card,true,Kissee Rizzillo
+164,9/10/2021,faith_education,5914.89,Fivespan,proin interdum mauris non ligula pellentesque ultrices phasellus id sapien in sapien iaculis,credit card,true,Rolph Alvarado
+165,5/1/2021,utilities,8180.51,Snaptags,,check,false,Filide Clohessy
+166,7/26/2021,faith_education,4337.01,Trupe,in felis donec semper sapien a libero nam dui proin leo,check,false,Janeen Heed
+167,2/4/2021,faith_education,458.28,Tambee,,credit card,true,Giselbert Farady
+168,6/24/2021,liturgy_music,2164.2,Topicstorm,justo eu massa donec dapibus duis at velit eu,credit card,true,Beverie Pregel
+169,6/9/2021,comm_life,1728.91,Podcat,id turpis integer aliquet massa id lobortis convallis tortor risus dapibus augue vel accumsan tellus,cash,false,Ashien Dunthorne
+170,6/5/2021,liturgy_music,465.1,Realblab,vestibulum rutrum rutrum neque aenean auctor gravida sem praesent id massa id nisl,credit card,false,Miguelita Ghilardi
+171,9/17/2021,office_administration,8402.99,Teklist,magna ac consequat metus sapien ut nunc vestibulum,check,true,Aguste Shipsey
+172,3/19/2021,crm_expenses,3001.93,Flashdog,donec posuere metus vitae ipsum aliquam non mauris morbi non lectus aliquam sit amet,check,false,Clyde D'Arrigo
+173,7/24/2021,automobiles,9783.49,Kamba,,cash,false,Vladamir Johanning
+174,1/12/2021,liturgy_music,898.8,Vipe,penatibus et magnis dis parturient montes nascetur ridiculus mus etiam vel augue vestibulum rutrum rutrum,cash,false,Elsy McAlarney
+175,11/13/2021,office_administration,7318.36,Tazzy,blandit mi in porttitor pede justo eu massa,cash,false,Vita Antliff
+176,2/13/2021,outreach,8082.9,Tagopia,,cash,true,Sallie Paxman
+177,4/24/2021,student_leadership,5909.09,Edgepulse,metus aenean fermentum donec ut mauris eget massa tempor convallis nulla,cash,true,Danika Vicary
+178,2/2/2021,other,8731.66,Fliptune,interdum in ante vestibulum ante ipsum primis,cash,true,Tony Melbourn
+179,9/8/2021,social_justice,161.4,Voolia,dis parturient montes nascetur ridiculus mus etiam vel augue,check,true,Davita Copestick
+180,12/25/2021,faith_education,6191.48,Skiba,elementum pellentesque quisque porta volutpat erat quisque erat eros viverra eget congue eget semper rutrum,credit card,true,Craggie Lernihan
+181,7/24/2021,faith_education,3429.53,Edgetag,,credit card,true,Hallie Gilford
+182,10/9/2021,building_management,3275.39,Zoonder,,check,false,Perry Gehricke
+183,1/13/2021,office_administration,8903.66,Yata,sociis natoque penatibus et magnis dis parturient montes,check,false,Theo Akister
+184,12/7/2021,liturgy_music,6999.82,Feednation,hac habitasse platea dictumst etiam faucibus cursus urna ut,credit card,true,Flin Philliskirk
+185,7/21/2021,student_leadership,5747.22,Jamia,mauris sit amet eros suspendisse accumsan tortor quis turpis,credit card,true,Waylen Nissle
+186,1/6/2021,faith_education,5659.4,Meedoo,,credit card,true,Darci Crollman
+187,3/13/2021,office_administration,2286.36,Izio,primis in faucibus orci luctus et ultrices posuere cubilia curae,cash,false,Sean Grzeszczak
+188,11/14/2021,other,9312.55,Bluezoom,nunc vestibulum ante ipsum primis in,cash,false,Brockie Duffet
+189,8/29/2021,outreach,6021.56,Livepath,sit amet diam in magna bibendum imperdiet nullam orci,credit card,true,Aarika Lincoln
+190,1/22/2021,student_leadership,6787.15,Fanoodle,sapien dignissim vestibulum vestibulum ante ipsum primis in faucibus,credit card,true,Sheri O'Hare
+191,8/11/2021,other,6461.09,Feednation,in imperdiet et commodo vulputate justo,cash,false,Christiana Martino
+192,7/18/2021,liturgy_music,6806.17,Yodel,justo etiam pretium iaculis justo in hac habitasse platea dictumst etiam faucibus cursus urna ut,cash,true,Stanfield Beneyto
+193,7/31/2021,faith_education,1138.37,Latz,curabitur in libero ut massa volutpat convallis morbi odio,credit card,true,Sherwood McWilliam
+194,7/11/2021,crm_expenses,2416.97,Kwimbee,justo maecenas rhoncus aliquam lacus morbi,cash,false,Joyous Willshere
+195,7/4/2021,office_administration,1885.67,Dynazzy,eu interdum eu tincidunt in leo maecenas pulvinar lobortis est phasellus sit amet,cash,false,Pate Filipowicz
+196,8/8/2021,social_justice,3174.51,Eire,mattis odio donec vitae nisi nam ultrices libero non mattis,credit card,true,Nathaniel Satford
+197,11/3/2021,other,191.09,Skippad,orci pede venenatis non sodales sed tincidunt eu,cash,false,Jessi Martel
+198,1/16/2021,liturgy_music,4362.3,Zazio,commodo placerat praesent blandit nam nulla integer pede justo lacinia eget tincidunt eget tempus vel,cash,false,Josephine Marlowe
+199,12/7/2021,student_leadership,5378.38,Snaptags,rhoncus sed vestibulum sit amet cursus id turpis integer aliquet massa,check,true,Cordelia Brahams
+200,2/14/2021,automobiles,9373.16,Fanoodle,nunc rhoncus dui vel sem sed sagittis nam congue,credit card,true,Quentin Logsdail
+201,7/31/2021,faith_education,1285.53,Quatz,imperdiet nullam orci pede venenatis non sodales sed tincidunt eu felis,check,false,Nappy Purshouse
+202,8/4/2021,social_justice,3781.34,Tazzy,nulla ac enim in tempor turpis nec euismod,credit card,false,Tommy Hirthe
+203,4/6/2021,liturgy_music,3620.42,Wordtune,,cash,false,Nolly Sandercock
+204,12/14/2021,office_administration,1779.14,Skipfire,felis fusce posuere felis sed lacus morbi sem mauris laoreet ut rhoncus aliquet pulvinar,check,false,Cecilius Kirmond
+205,3/13/2021,utilities,1260.95,Quamba,morbi vel lectus in quam fringilla rhoncus mauris enim leo rhoncus sed vestibulum sit,cash,false,Car Merwe
+206,6/6/2021,office_administration,1182.96,Zoozzy,montes nascetur ridiculus mus etiam vel augue vestibulum rutrum rutrum neque,credit card,false,Gene Grishunin
+207,5/9/2021,other,7253.57,Fivespan,leo rhoncus sed vestibulum sit amet cursus id turpis integer,cash,false,Waldemar Austwick
+208,5/28/2021,retreats,7466.12,Minyx,egestas metus aenean fermentum donec ut mauris,credit card,true,Stefano Laroux
+209,3/22/2021,social_justice,154.86,Eare,sit amet erat nulla tempus vivamus,cash,true,Amabelle Reynish
+210,12/18/2021,automobiles,5657.18,Gabspot,justo nec condimentum neque sapien placerat ante nulla justo aliquam quis,check,false,Ginger Sweeten
+211,4/3/2021,comm_life,3753.04,Viva,non mattis pulvinar nulla pede ullamcorper augue a suscipit,check,false,Maggie Wornum
+212,1/10/2021,liturgy_music,2101.39,Skyndu,non mi integer ac neque duis bibendum morbi non quam nec,cash,true,Tynan Bosomworth
+213,10/24/2021,office_administration,6148.03,Quamba,nullam varius nulla facilisi cras non velit nec nisi vulputate nonummy maecenas tincidunt lacus,cash,true,Joelie Rosbrough
+214,6/16/2021,automobiles,5927.04,Livepath,elit proin interdum mauris non ligula pellentesque ultrices,check,true,Analiese Childs
+215,1/23/2021,automobiles,4019.59,BlogXS,,check,false,Lori Rozycki
+216,4/13/2021,utilities,3818.62,Twinder,,cash,false,Zulema Loweth
+217,4/4/2021,comm_life,8210.58,Talane,montes nascetur ridiculus mus vivamus vestibulum sagittis sapien cum sociis natoque penatibus,cash,true,Hanan Collett
+218,7/26/2021,comm_life,8668.65,Youbridge,blandit mi in porttitor pede justo eu massa donec dapibus duis at velit,credit card,false,Daveta Lacroux
+219,5/23/2021,other,6989.24,Edgeify,dui nec nisi volutpat eleifend donec,cash,false,Mamie Borres
+220,10/30/2021,social_justice,4570.46,Flipopia,,cash,false,Dorian Follet
+221,7/8/2021,office_administration,2566.88,Livefish,ac enim in tempor turpis nec euismod scelerisque quam turpis,check,false,Adrea Lindenstrauss
+222,7/9/2021,automobiles,2509.33,Eayo,congue risus semper porta volutpat quam pede lobortis ligula sit amet eleifend pede libero quis,credit card,false,Faydra Langcastle
+223,8/14/2021,building_management,8053.57,Rhynyx,nulla suspendisse potenti cras in purus,credit card,true,Debbie Bedford
+224,2/16/2021,other,2087.91,JumpXS,aenean lectus pellentesque eget nunc donec quis,cash,true,Theodoric Cornish
+225,4/20/2021,liturgy_music,4262.81,Realfire,est lacinia nisi venenatis tristique fusce congue diam id ornare imperdiet,check,false,Gustav Ratt
+226,3/15/2021,crm_expenses,8780.81,Thoughtstorm,tincidunt eget tempus vel pede morbi porttitor lorem id ligula suspendisse ornare consequat lectus,check,true,Averil Drife
+227,12/12/2021,faith_education,8699.57,Quinu,nisl duis ac nibh fusce lacus purus,cash,true,Cece Thacker
+228,8/1/2021,social_justice,8865.33,Twitterbridge,parturient montes nascetur ridiculus mus etiam vel augue vestibulum rutrum rutrum neque,credit card,false,Katie Knok
+229,6/1/2021,automobiles,6279.77,Voolith,vel sem sed sagittis nam,credit card,true,Kellby Probart
+230,10/5/2021,retreats,2308.45,Blogtag,aenean auctor gravida sem praesent id massa id,cash,true,Gabriella Oakden
+231,5/16/2021,outreach,3507.17,Kamba,,cash,false,Kelcey Tippin
+232,2/25/2021,outreach,214.25,Skippad,lectus in quam fringilla rhoncus mauris enim leo,cash,false,Barbee McGrane
+233,8/18/2021,retreats,3223.21,Skipstorm,mauris laoreet ut rhoncus aliquet pulvinar sed nisl nunc rhoncus dui vel sem sed,check,false,Marysa Cropton
+234,11/3/2021,office_administration,6546.45,Divanoodle,,cash,true,Maury Presnell
+235,5/15/2021,utilities,1997.6,Kwideo,dis parturient montes nascetur ridiculus mus etiam vel,check,true,Shir MacArthur
+236,3/19/2021,crm_expenses,2626.97,Zoovu,natoque penatibus et magnis dis parturient montes nascetur ridiculus mus etiam vel augue vestibulum rutrum,check,false,Judi Hebbard
+237,12/2/2021,crm_expenses,2411.78,Zoomdog,porttitor pede justo eu massa donec dapibus duis at velit eu est,check,false,Chrissie Iltchev
+238,9/8/2021,other,5983.61,Youspan,vel sem sed sagittis nam congue risus semper porta volutpat quam pede lobortis ligula sit,cash,false,Herta Quinane
+239,11/12/2021,liturgy_music,4716.87,Gabcube,volutpat dui maecenas tristique est et tempus semper,cash,true,Drucie Hainning
+240,12/4/2021,other,3845.5,Lazz,platea dictumst etiam faucibus cursus urna,cash,true,Iorgo Wogdon
+241,11/3/2021,crm_expenses,2689.76,Meejo,morbi sem mauris laoreet ut rhoncus aliquet pulvinar sed nisl nunc rhoncus dui vel sem,check,true,Georgianne Guyver
+242,5/22/2021,retreats,9822.91,Rhynoodle,feugiat non pretium quis lectus,credit card,false,Amabelle Brodway
+243,9/25/2021,crm_expenses,5712.7,Demizz,ultrices posuere cubilia curae nulla dapibus dolor,check,false,Mallory Poulston
+244,7/29/2021,outreach,708.42,Twimbo,,credit card,true,Yvon Sweedland
+245,1/5/2021,liturgy_music,765.2,Blogtags,at lorem integer tincidunt ante vel ipsum praesent blandit lacinia erat vestibulum sed magna,credit card,true,Dierdre Lebel
+246,10/23/2021,liturgy_music,8734.0,Vinder,venenatis non sodales sed tincidunt eu felis fusce posuere felis sed lacus morbi sem mauris,credit card,true,Antonius Romao
+247,7/21/2021,automobiles,1569.89,Divape,,cash,true,Foss Knoller
+248,7/12/2021,comm_life,8332.3,Brainbox,magna at nunc commodo placerat praesent blandit nam nulla integer pede justo lacinia,check,true,Gretchen Brotherhood
+249,9/5/2021,office_administration,666.96,Skidoo,mauris ullamcorper purus sit amet nulla quisque arcu libero rutrum ac lobortis vel dapibus,check,false,Eulalie Percifull
+250,8/15/2021,liturgy_music,6536.88,Thoughtmix,lorem ipsum dolor sit amet consectetuer adipiscing elit proin interdum mauris non,cash,false,Myrtice Winthrop
+251,2/27/2021,retreats,8016.01,Twitterbridge,dictumst etiam faucibus cursus urna ut tellus nulla ut,check,true,Bertine Arrighi
+252,7/11/2021,crm_expenses,4035.26,Tekfly,venenatis non sodales sed tincidunt eu felis fusce posuere,cash,false,Reeva Steaning
+253,12/25/2021,other,9621.27,Thoughtworks,morbi sem mauris laoreet ut rhoncus aliquet pulvinar sed nisl nunc rhoncus dui vel,cash,false,Davidde Overy
+254,3/23/2021,building_management,7143.9,Zooxo,,cash,true,Kanya Jarret
+255,3/1/2021,crm_expenses,1944.44,Dabtype,posuere cubilia curae duis faucibus accumsan odio curabitur convallis duis consequat dui nec,cash,false,Aldric Miles
+256,8/27/2021,crm_expenses,6830.68,Oozz,volutpat in congue etiam justo etiam pretium,check,false,Bear Blabey
+257,2/23/2021,liturgy_music,1988.19,Wordify,justo maecenas rhoncus aliquam lacus,check,true,Ermina Babin
+258,7/4/2021,student_leadership,3843.11,Tambee,at velit vivamus vel nulla eget,check,true,Gerry Hinnerk
+259,1/31/2021,utilities,8036.26,Livepath,facilisi cras non velit nec nisi vulputate nonummy maecenas tincidunt lacus at velit,cash,false,Molli Vamplers
+260,9/9/2021,other,6584.03,Brightbean,eleifend donec ut dolor morbi vel,cash,true,Marlow Grinov
+261,4/10/2021,outreach,1851.36,Thoughtmix,accumsan tellus nisi eu orci,cash,true,Brynna Aviss
+262,10/21/2021,student_leadership,8490.43,Vitz,vulputate ut ultrices vel augue vestibulum ante ipsum primis in faucibus orci luctus et ultrices,check,false,Ronda Weale
+263,12/11/2021,crm_expenses,7087.98,Zoomdog,id pretium iaculis diam erat fermentum justo nec,credit card,true,Lucia MacDonald
+264,7/17/2021,other,3764.45,Devcast,id massa id nisl venenatis lacinia aenean,cash,true,Kristofer Levin
+265,7/20/2021,comm_life,6698.25,Topiclounge,morbi vestibulum velit id pretium iaculis,cash,false,Anderson Brussell
+266,4/24/2021,comm_life,112.91,Yozio,ut erat id mauris vulputate elementum nullam varius,check,false,Clarey Rains
+267,1/2/2021,comm_life,2613.04,Twitterbridge,aenean auctor gravida sem praesent id massa id,credit card,true,Danita Huzzay
+268,7/20/2021,comm_life,7912.32,Skyba,massa volutpat convallis morbi odio odio elementum eu interdum eu tincidunt,cash,false,Chrysa Ambrosio
+269,3/26/2021,other,5342.06,Photobean,habitasse platea dictumst morbi vestibulum velit id pretium iaculis diam,credit card,true,Nannette Leah
+270,10/27/2021,comm_life,11.37,Ntags,eu sapien cursus vestibulum proin eu mi nulla ac,cash,false,Joletta Vatcher
+271,4/9/2021,liturgy_music,4617.19,Vitz,fermentum justo nec condimentum neque sapien placerat ante nulla justo aliquam quis turpis,cash,false,Jacqueline Kassel
+272,12/19/2021,automobiles,6437.65,Jazzy,fermentum justo nec condimentum neque sapien placerat ante nulla justo aliquam quis turpis eget elit,cash,false,Georgia Cookney
+273,8/18/2021,student_leadership,879.2,Dabtype,eu tincidunt in leo maecenas,cash,false,Alvie Taig
+274,12/6/2021,retreats,9783.54,Jabbersphere,quis odio consequat varius integer ac,cash,true,Alma Gask
+275,9/15/2021,office_administration,1207.2,Devshare,,credit card,true,Bride Stolze
+276,2/1/2021,comm_life,2516.15,Muxo,purus sit amet nulla quisque arcu libero rutrum ac lobortis vel,check,true,Hester Munsey
+277,2/23/2021,building_management,6092.48,Brightbean,lectus vestibulum quam sapien varius ut blandit non interdum in ante,credit card,true,Phaedra Beaven
+278,3/19/2021,crm_expenses,6807.93,Voomm,nunc nisl duis bibendum felis sed interdum venenatis turpis enim blandit,check,false,Othello Khosa
+279,5/27/2021,automobiles,3364.85,Photolist,pretium iaculis justo in hac habitasse platea dictumst,credit card,true,Harlan Boylin
+280,3/25/2021,comm_life,6324.51,Fliptune,commodo placerat praesent blandit nam nulla integer pede,credit card,false,Clo Kington
+281,2/14/2021,liturgy_music,1754.18,Yamia,vel nisl duis ac nibh fusce lacus purus aliquet at,credit card,true,Ingrid Larimer
+282,5/28/2021,student_leadership,2238.19,Tagopia,pharetra magna ac consequat metus sapien ut nunc vestibulum ante ipsum primis,credit card,false,Dana Compston
+283,9/18/2021,comm_life,2241.24,Brainsphere,vel augue vestibulum rutrum rutrum neque aenean auctor gravida,credit card,true,Brady Di Frisco
+284,4/1/2021,outreach,548.9,Voonder,nulla facilisi cras non velit nec nisi vulputate nonummy,cash,false,Lavena Edwardes
+285,3/26/2021,other,6175.44,Tagchat,,credit card,true,Martainn Lambertini
+286,7/7/2021,building_management,6060.62,Voomm,faucibus orci luctus et ultrices posuere cubilia,check,true,Josephina Shilton
+287,10/29/2021,student_leadership,8309.37,Dabfeed,magna vestibulum aliquet ultrices erat tortor sollicitudin mi sit,check,true,Guillaume Kauschke
+288,9/25/2021,crm_expenses,5580.72,Flashdog,ut dolor morbi vel lectus,credit card,false,Ralph Hallad
+289,6/18/2021,student_leadership,6060.45,Devshare,suspendisse accumsan tortor quis turpis sed ante vivamus,cash,true,Gregg Perfili
+290,9/23/2021,social_justice,8535.41,Skidoo,orci luctus et ultrices posuere cubilia curae duis faucibus accumsan odio curabitur convallis,credit card,true,Solly Curry
+291,5/18/2021,other,5899.85,Skinte,venenatis turpis enim blandit mi in porttitor pede justo eu massa donec dapibus duis,check,false,Carmine Eyden
+292,4/27/2021,other,3509.84,Wikizz,amet eleifend pede libero quis orci nullam molestie nibh in lectus pellentesque at nulla,check,true,Auria Guard
+293,6/16/2021,student_leadership,7265.08,Zoozzy,,cash,false,Marrissa Crop
+294,8/16/2021,building_management,115.84,Voonix,porttitor id consequat in consequat ut,cash,false,Cyndy Regitz
+295,12/30/2021,comm_life,6759.64,Browsezoom,,cash,false,Rozamond Dowty
+296,6/14/2021,outreach,3474.68,Eazzy,est et tempus semper est quam pharetra magna ac consequat metus sapien ut,credit card,false,Mable Andrivot
+297,5/18/2021,office_administration,2827.63,Twinte,nibh in quis justo maecenas rhoncus aliquam lacus morbi quis tortor,cash,true,Cristine Knolles-Green
+298,2/24/2021,outreach,11.39,Meembee,aliquam augue quam sollicitudin vitae consectetuer eget rutrum at lorem,cash,false,Franchot Tarbin
+299,5/5/2021,comm_life,6720.02,Dabtype,,check,true,Ed Carlisle
+300,3/28/2021,office_administration,8201.88,Twitternation,,check,false,Reube Durbann
+301,1/12/2021,liturgy_music,7120.29,Trudeo,parturient montes nascetur ridiculus mus etiam vel augue vestibulum,credit card,true,Markus Emor
+302,4/22/2021,other,5842.07,Zava,morbi quis tortor id nulla ultrices aliquet maecenas leo odio,credit card,true,Thom Fabler
+303,4/25/2021,retreats,721.16,Leexo,dictumst maecenas ut massa quis augue luctus tincidunt nulla,check,false,Bayard Shark
+304,3/15/2021,outreach,8948.64,Skinte,proin leo odio porttitor id consequat in consequat ut nulla sed accumsan felis ut,check,true,Prince Le Friec
+305,7/22/2021,comm_life,4087.5,Tagtune,at nunc commodo placerat praesent,credit card,false,Morton Bruckental
+306,3/2/2021,automobiles,3257.54,Fiveclub,commodo placerat praesent blandit nam nulla,cash,false,Mel Howels
+307,5/12/2021,building_management,7016.37,Divanoodle,mattis nibh ligula nec sem duis,check,false,Care Clyant
+308,1/26/2021,faith_education,2751.38,Edgetag,ac enim in tempor turpis nec euismod scelerisque quam turpis adipiscing,check,true,Natalee McFie
+309,1/18/2021,office_administration,2312.18,Topiczoom,,cash,false,Michelle Furzey
+310,11/22/2021,crm_expenses,5958.17,Yacero,in purus eu magna vulputate luctus cum sociis,credit card,true,Inessa Lies
+311,5/23/2021,utilities,9071.31,Twitterbeat,luctus et ultrices posuere cubilia curae donec pharetra magna vestibulum aliquet ultrices,credit card,true,Kyla Watton
+312,12/6/2021,liturgy_music,4950.12,Fivebridge,ornare imperdiet sapien urna pretium nisl ut volutpat sapien arcu sed,cash,false,Ulrikaumeko Iddens
+313,10/19/2021,office_administration,1409.23,Omba,pulvinar nulla pede ullamcorper augue a suscipit nulla elit ac,credit card,false,Gwenny Yelland
+314,10/14/2021,other,156.73,Skilith,nisl duis ac nibh fusce lacus purus aliquet at,cash,false,Conny Edney
+315,1/26/2021,student_leadership,8685.56,Browseblab,ultrices posuere cubilia curae donec pharetra,check,true,Tobi Kroch
+316,4/12/2021,office_administration,1810.14,Snaptags,ridiculus mus vivamus vestibulum sagittis sapien cum sociis natoque penatibus et magnis dis parturient,cash,true,Clarita Fenkel
+317,12/2/2021,outreach,5410.1,Devshare,ornare consequat lectus in est risus,credit card,false,Malchy Lepope
+318,1/14/2021,office_administration,9635.1,Devpoint,odio justo sollicitudin ut suscipit a feugiat et eros vestibulum ac,check,true,Raymond Dorward
+319,10/21/2021,liturgy_music,9000.44,Photolist,posuere cubilia curae donec pharetra magna vestibulum aliquet ultrices erat tortor sollicitudin,credit card,false,Lefty Pele
+320,1/16/2021,faith_education,8785.82,Zava,,cash,false,Nathanial Honack
+321,2/17/2021,building_management,650.32,Rhynoodle,,check,false,Lavinia Bettenay
+322,12/19/2021,building_management,9615.07,Yodel,metus vitae ipsum aliquam non mauris morbi non lectus aliquam sit amet diam in magna,check,false,Howie Boxell
+323,1/20/2021,utilities,4659.37,Muxo,in sagittis dui vel nisl duis ac nibh fusce lacus purus aliquet,cash,false,Ivor Bullas
+324,12/14/2021,other,5747.87,Thoughtstorm,turpis enim blandit mi in porttitor pede justo eu massa donec dapibus duis,cash,true,Stacy Allbones
+325,4/24/2021,social_justice,6371.87,Rhyloo,donec semper sapien a libero nam dui,credit card,true,Jennilee Jewiss
+326,4/29/2021,social_justice,3723.65,Yodoo,sapien quis libero nullam sit,check,true,Elka Goodley
+327,12/30/2021,other,3301.45,Oodoo,,cash,false,Hillard Reece
+328,4/22/2021,building_management,1326.69,Jetwire,cras pellentesque volutpat dui maecenas tristique est et tempus semper est quam pharetra magna ac,cash,true,Giuditta McAreavey
+329,8/26/2021,social_justice,720.08,Youspan,elit sodales scelerisque mauris sit amet eros suspendisse accumsan tortor quis turpis sed ante vivamus,credit card,false,Effie Laugier
+330,9/9/2021,retreats,8161.35,Blognation,molestie sed justo pellentesque viverra,credit card,false,Dosi Moncreiffe
+331,6/28/2021,comm_life,5146.12,Edgeclub,,cash,false,Ingunna Priden
+332,2/23/2021,faith_education,1849.79,Topicblab,donec quis orci eget orci,cash,false,Terrijo Awde
+333,7/2/2021,automobiles,9133.07,Devpulse,mi nulla ac enim in tempor turpis,cash,true,Johnathon Gell
+334,11/22/2021,outreach,4187.52,Meevee,venenatis non sodales sed tincidunt eu felis fusce posuere felis sed lacus,credit card,false,Inga Caren
+335,1/5/2021,comm_life,7663.34,Yodel,eget eleifend luctus ultricies eu nibh quisque id,check,true,Kerianne Dudderidge
+336,1/5/2021,utilities,6708.38,Oyonder,congue eget semper rutrum nulla nunc purus phasellus,credit card,true,Loella Murkin
+337,10/21/2021,faith_education,335.96,Jayo,elit sodales scelerisque mauris sit,cash,false,Quinn Hutchens
+338,5/20/2021,outreach,3104.29,Jabbercube,,credit card,true,Elyssa Reddie
+339,8/7/2021,social_justice,4438.0,Zava,diam erat fermentum justo nec condimentum neque sapien,check,false,Yorker Sahnow
+340,8/20/2021,crm_expenses,9345.82,Yata,,credit card,false,Byrle Seaborne
+341,9/18/2021,outreach,1262.04,Livepath,in sapien iaculis congue vivamus metus arcu adipiscing molestie hendrerit at vulputate,check,false,Melli Grissett
+342,2/20/2021,faith_education,2151.88,Bubblemix,ut dolor morbi vel lectus in quam fringilla rhoncus mauris enim leo rhoncus sed vestibulum,cash,false,Addison O'Beirne
+343,6/4/2021,building_management,9867.79,Jabbertype,sed ante vivamus tortor duis mattis egestas metus aenean fermentum donec ut mauris eget massa,cash,false,Beryle Canto
+344,8/6/2021,utilities,7743.19,Meedoo,phasellus sit amet erat nulla tempus vivamus,check,false,Bridie Francino
+345,1/27/2021,office_administration,3036.23,Meemm,nullam sit amet turpis elementum ligula vehicula consequat morbi a ipsum integer a,credit card,true,Monti Ros
+346,6/20/2021,building_management,4921.32,Livetube,sed sagittis nam congue risus semper porta volutpat,credit card,false,Jan Doyle
+347,9/25/2021,comm_life,96.8,Nlounge,ut volutpat sapien arcu sed augue aliquam erat volutpat,credit card,false,Ebenezer Girdlestone
+348,6/2/2021,faith_education,7865.18,Skippad,blandit lacinia erat vestibulum sed magna at nunc commodo placerat praesent blandit nam,check,false,Derron Faich
+349,4/8/2021,automobiles,9133.44,Skimia,erat nulla tempus vivamus in felis eu sapien cursus vestibulum,credit card,true,Freddie Abley
+350,8/25/2021,outreach,1067.45,Devshare,aenean lectus pellentesque eget nunc donec quis orci eget,credit card,false,Martin McDell
+351,5/13/2021,comm_life,703.02,Skivee,volutpat erat quisque erat eros,cash,false,Amalita Snoden
+352,3/26/2021,utilities,5986.18,Zoomzone,parturient montes nascetur ridiculus mus vivamus vestibulum sagittis sapien cum sociis natoque penatibus et magnis,cash,false,Bobbee Rymill
+353,3/17/2021,utilities,7904.76,Lazzy,enim sit amet nunc viverra dapibus nulla suscipit ligula in lacus curabitur,credit card,true,Dionysus Meron
+354,2/11/2021,automobiles,3782.03,Kwilith,quisque ut erat curabitur gravida nisi at nibh,check,false,Glenn Polly
+355,9/17/2021,comm_life,7905.96,Avaveo,tempus semper est quam pharetra magna ac consequat metus sapien ut,cash,true,Viviana Hardwell
+356,7/1/2021,office_administration,3564.97,Quire,,cash,true,Glad Thomassin
+357,5/15/2021,comm_life,7367.08,Avaveo,maecenas rhoncus aliquam lacus morbi quis tortor id nulla ultrices aliquet maecenas,check,false,Rochelle Labden
+358,5/4/2021,retreats,7913.99,Gabvine,aliquet at feugiat non pretium quis lectus suspendisse potenti,credit card,true,Emlyn Mikalski
+359,3/7/2021,automobiles,8630.9,Eare,natoque penatibus et magnis dis parturient montes,check,false,Mattie Dunkley
+360,1/13/2021,student_leadership,6043.63,Demizz,,credit card,true,Grissel Excell
+361,8/10/2021,crm_expenses,7145.83,Tazzy,,check,true,Nada Devany
+362,7/29/2021,student_leadership,6192.85,Aivee,vivamus in felis eu sapien cursus vestibulum,check,true,Ava Snelson
+363,3/26/2021,other,5474.5,Oyoba,quam fringilla rhoncus mauris enim leo rhoncus sed,credit card,false,Gus Jentges
+364,7/24/2021,automobiles,9718.25,Tagcat,viverra dapibus nulla suscipit ligula in lacus curabitur at ipsum ac tellus semper interdum,cash,true,Leland Colby
+365,7/19/2021,retreats,9456.62,Devbug,,cash,true,Elisa Rulton
+366,5/19/2021,social_justice,6537.26,Gigabox,,check,false,Magdalen Ellsbury
+367,7/19/2021,other,3598.59,Dabtype,pede justo eu massa donec dapibus duis,check,true,Hermia England
+368,4/13/2021,building_management,8083.01,Fliptune,,credit card,false,Benedikta Lawson
+369,10/29/2021,faith_education,4571.72,Katz,vestibulum quam sapien varius ut blandit non interdum in ante vestibulum ante,check,true,Lazar Vynall
+370,9/26/2021,utilities,6024.03,Dynava,sapien in sapien iaculis congue vivamus metus,credit card,true,Gertie Whimpenny
+371,3/30/2021,building_management,2768.3,Skibox,platea dictumst etiam faucibus cursus urna ut tellus nulla ut,credit card,true,Ransom Allday
+372,2/25/2021,office_administration,1962.79,Wordpedia,,check,false,Edwin Maciaszek
+373,9/26/2021,outreach,9852.4,Jetwire,cubilia curae mauris viverra diam vitae quam suspendisse potenti nullam porttitor,credit card,false,Deane Zuanelli
+374,3/2/2021,social_justice,6993.77,Jabbertype,luctus tincidunt nulla mollis molestie lorem quisque ut erat,cash,true,Liz Treamayne
+375,10/13/2021,crm_expenses,9053.88,Skiba,vel augue vestibulum ante ipsum primis in faucibus orci,check,true,Wade Barrie
+376,1/13/2021,comm_life,4825.3,Dynazzy,,cash,false,Anatola Inch
+377,8/27/2021,faith_education,314.1,Zoomdog,non interdum in ante vestibulum ante ipsum primis in faucibus orci,cash,false,Butch Munnery
+378,6/18/2021,other,321.68,Youfeed,pharetra magna vestibulum aliquet ultrices erat tortor sollicitudin mi sit,credit card,false,Sukey Leport
+379,10/14/2021,utilities,5201.99,Riffpath,erat fermentum justo nec condimentum,cash,true,Douglass Squibbes
+380,7/19/2021,building_management,2498.63,Yotz,vestibulum sed magna at nunc commodo placerat praesent blandit nam nulla integer pede justo lacinia,check,false,Wilbert Ibbs
+381,7/5/2021,automobiles,4971.32,Rhynoodle,,cash,true,Clarabelle Stickells
+382,4/25/2021,social_justice,4920.29,Miboo,sagittis nam congue risus semper porta volutpat quam pede lobortis ligula sit amet eleifend pede,credit card,true,Ardenia Cambling
+383,1/19/2021,building_management,2832.5,Jamia,,check,false,Jeffy Bloomer
+384,3/19/2021,outreach,4347.36,Realcube,mattis egestas metus aenean fermentum donec,cash,false,Aliza MacAllan
+385,7/27/2021,faith_education,1561.02,Voonder,,check,false,Archaimbaud McFie
+386,12/18/2021,crm_expenses,7460.48,Yabox,et ultrices posuere cubilia curae donec pharetra magna vestibulum aliquet ultrices erat tortor sollicitudin mi,credit card,true,Vitia Momery
+387,11/21/2021,liturgy_music,2904.34,Wikizz,venenatis lacinia aenean sit amet justo morbi ut odio cras mi pede,credit card,true,Darice Chaytor
+388,8/29/2021,student_leadership,7717.95,Feedspan,bibendum felis sed interdum venenatis turpis,credit card,true,Matthieu Gerrey
+389,9/23/2021,other,9432.44,Blognation,mauris sit amet eros suspendisse accumsan tortor quis turpis sed ante vivamus tortor duis,check,true,Emlynne Grebbin
+390,1/12/2021,building_management,9526.49,Trunyx,eleifend donec ut dolor morbi vel lectus in quam fringilla,credit card,false,Moira Costell
+391,5/16/2021,other,7705.41,Blogtags,quisque ut erat curabitur gravida nisi at nibh in hac habitasse platea dictumst aliquam,credit card,false,Dede Croose
+392,7/19/2021,social_justice,4596.0,Dazzlesphere,donec vitae nisi nam ultrices libero non mattis pulvinar nulla pede ullamcorper augue a suscipit,cash,true,Abdul Sitford
+393,12/14/2021,other,2064.34,Oyoyo,habitasse platea dictumst aliquam augue quam sollicitudin vitae consectetuer eget rutrum at lorem,cash,false,Kassandra Featherstonhalgh
+394,11/25/2021,other,4002.9,Edgepulse,sollicitudin ut suscipit a feugiat et eros,credit card,false,Obadias Kernell
+395,12/3/2021,liturgy_music,6431.08,Cogidoo,,check,false,Angele Maha
+396,8/3/2021,faith_education,4376.02,Abata,odio curabitur convallis duis consequat dui,credit card,false,Suellen Hanmer
+397,4/26/2021,utilities,1525.27,Yoveo,massa id lobortis convallis tortor risus dapibus augue vel accumsan,credit card,false,Teodor McBrearty
+398,8/30/2021,outreach,2468.28,Skivee,nullam varius nulla facilisi cras non velit nec nisi vulputate nonummy maecenas tincidunt lacus,cash,false,Bar Bearblock
+399,5/4/2021,utilities,8763.53,Photofeed,,cash,false,Livia Measures
+400,11/15/2021,utilities,5328.82,Mydo,quam fringilla rhoncus mauris enim leo rhoncus,check,true,Phillip Odhams
+401,5/11/2021,building_management,7508.08,Centidel,hac habitasse platea dictumst aliquam augue quam sollicitudin vitae consectetuer eget,cash,true,Martelle Pinfold
+402,5/8/2021,office_administration,6638.72,Yotz,luctus et ultrices posuere cubilia curae donec pharetra magna vestibulum aliquet ultrices erat tortor sollicitudin,check,false,Carlynn Busst
+403,2/12/2021,student_leadership,9235.56,Jaxbean,lacus curabitur at ipsum ac tellus semper,credit card,false,Albertine Kinnar
+404,8/23/2021,crm_expenses,6465.93,Dabjam,dui luctus rutrum nulla tellus in sagittis dui,cash,true,Avie Cawthorne
+405,3/2/2021,liturgy_music,3650.27,Vidoo,volutpat eleifend donec ut dolor morbi vel lectus in quam fringilla rhoncus mauris enim leo,cash,true,Peirce Ewing
+406,8/3/2021,other,2439.78,Lazz,nisl ut volutpat sapien arcu sed augue aliquam,check,false,Alfi Doyland
+407,1/27/2021,retreats,3402.65,Dabshots,,check,false,Dolly Palatini
+408,12/15/2021,automobiles,8717.05,Wordpedia,cubilia curae mauris viverra diam vitae quam,cash,false,Tann Snodden
+409,5/2/2021,crm_expenses,5724.53,Quatz,eu nibh quisque id justo sit amet sapien,credit card,true,Yasmin Ruddlesden
+410,10/5/2021,faith_education,184.35,Trilith,,cash,false,Obadias Stannus
+411,2/21/2021,other,7363.75,Gigabox,eget nunc donec quis orci eget orci vehicula condimentum curabitur in libero ut,credit card,true,Antone Cleynman
+412,3/1/2021,utilities,1567.7,Teklist,ullamcorper augue a suscipit nulla elit ac nulla sed vel enim sit amet nunc viverra,check,true,Mikaela Fadell
+413,6/19/2021,other,449.99,Shuffledrive,nullam varius nulla facilisi cras non velit nec nisi,check,true,Ammamaria Honig
+414,8/28/2021,retreats,5879.04,Edgeify,curabitur at ipsum ac tellus semper interdum mauris ullamcorper purus sit,cash,false,Celesta Dengate
+415,4/1/2021,automobiles,9132.96,Rhybox,nulla mollis molestie lorem quisque ut erat curabitur gravida nisi at nibh in,credit card,true,Annalise Terbrugge
+416,9/10/2021,office_administration,2750.85,Tazzy,interdum venenatis turpis enim blandit,credit card,false,Krisha Crabbe
+417,9/26/2021,outreach,5416.26,Skipstorm,,check,false,Wallache Stollsteiner
+418,7/30/2021,retreats,9174.53,Rooxo,rhoncus dui vel sem sed sagittis nam congue risus semper porta volutpat quam pede lobortis,check,false,Therese Bonin
+419,4/29/2021,liturgy_music,3143.1,Chatterpoint,,cash,true,Ruy Gorry
+420,10/19/2021,liturgy_music,7100.03,Photospace,turpis integer aliquet massa id lobortis convallis tortor risus dapibus augue vel accumsan tellus,check,true,Paige Spurway
+421,10/19/2021,outreach,7983.2,Gabtype,,credit card,false,Kristel Tufts
+422,8/25/2021,crm_expenses,779.89,Minyx,nullam varius nulla facilisi cras non velit nec nisi vulputate nonummy maecenas tincidunt lacus at,credit card,false,Keelby Wandrich
+423,6/12/2021,outreach,334.26,Flashspan,,check,true,Matias Cecely
+424,10/6/2021,other,1377.25,Jabberbean,,credit card,false,Kirsteni Iacopini
+425,1/18/2021,automobiles,6711.45,Meedoo,eleifend donec ut dolor morbi vel lectus in quam fringilla rhoncus,cash,true,Aylmar Sproston
+426,2/4/2021,comm_life,5863.11,Avaveo,pede venenatis non sodales sed tincidunt,credit card,false,Farrand Isgate
+427,9/19/2021,faith_education,3956.86,Meemm,consectetuer eget rutrum at lorem integer tincidunt ante,credit card,false,Merna Kynder
+428,12/18/2021,student_leadership,9897.59,Mynte,vestibulum ante ipsum primis in faucibus orci luctus et ultrices,check,true,Eleen Huie
+429,10/22/2021,liturgy_music,3078.98,Youtags,convallis nulla neque libero convallis eget eleifend luctus ultricies eu nibh,check,false,Kayley Sollitt
+430,4/9/2021,liturgy_music,4950.62,Katz,dui vel nisl duis ac nibh fusce lacus purus aliquet at,check,true,Kathie Sture
+431,12/16/2021,student_leadership,6499.79,Eamia,amet eleifend pede libero quis orci nullam molestie nibh in lectus,check,false,Roma Stickles
+432,5/1/2021,other,9774.52,Skiptube,risus praesent lectus vestibulum quam sapien varius ut blandit non,cash,false,Nels Youel
+433,9/29/2021,office_administration,5564.51,Podcat,nec molestie sed justo pellentesque viverra pede ac diam cras pellentesque volutpat,check,false,Margalo Fontaine
+434,11/10/2021,other,8541.54,Youtags,,credit card,true,Isidore Cluitt
+435,2/25/2021,building_management,1787.55,Youbridge,in ante vestibulum ante ipsum,cash,true,Jorry Duffet
+436,3/18/2021,automobiles,1487.44,Bubblebox,tempus sit amet sem fusce,credit card,false,Deanna Kingswell
+437,7/12/2021,comm_life,189.34,Viva,nulla sed accumsan felis ut at dolor quis odio consequat varius integer,credit card,false,Rozina Schoenfisch
+438,3/24/2021,building_management,226.4,Linktype,massa quis augue luctus tincidunt nulla mollis molestie lorem quisque ut erat,check,false,Waly Pittford
+439,4/14/2021,faith_education,9994.39,Oyope,nunc commodo placerat praesent blandit nam nulla integer pede justo lacinia,credit card,false,Morten Britt
+440,9/17/2021,office_administration,5968.79,Thoughtbeat,neque sapien placerat ante nulla justo aliquam quis turpis eget,credit card,false,Currey Halleybone
+441,3/17/2021,faith_education,427.81,Brightdog,sed tincidunt eu felis fusce posuere felis sed lacus morbi sem,check,true,Josiah Jalland
+442,7/12/2021,student_leadership,7464.77,Bubblebox,penatibus et magnis dis parturient montes nascetur ridiculus mus,check,true,Hillery Chagg
+443,4/18/2021,student_leadership,4662.94,Photofeed,nisi volutpat eleifend donec ut dolor morbi vel lectus,cash,true,Ottilie Beedham
+444,8/25/2021,student_leadership,1069.12,Roomm,interdum in ante vestibulum ante ipsum primis in faucibus orci,credit card,false,Blakeley Ranyard
+445,8/25/2021,other,696.13,Feedfish,enim lorem ipsum dolor sit amet consectetuer,check,true,Prent Hutcheon
+446,6/25/2021,student_leadership,6697.5,Fiveclub,maecenas tristique est et tempus semper est quam pharetra magna ac,credit card,true,Debra Eales
+447,3/25/2021,automobiles,5253.74,Digitube,consequat lectus in est risus auctor sed tristique in tempus sit amet sem,cash,false,Carey Carlos
+448,2/12/2021,retreats,9079.6,Agimba,pellentesque at nulla suspendisse potenti cras in purus eu magna,credit card,false,Leshia Wakely
+449,7/10/2021,retreats,4611.18,Divape,faucibus orci luctus et ultrices posuere,check,false,Olav Tran
+450,10/30/2021,office_administration,2923.45,Talane,bibendum imperdiet nullam orci pede venenatis non sodales sed,credit card,false,Karie Aspinell
+451,1/13/2021,utilities,9244.87,Kimia,sit amet diam in magna bibendum imperdiet nullam orci pede venenatis non,check,true,Nickie Huggen
+452,12/26/2021,student_leadership,1616.12,Thoughtstorm,libero convallis eget eleifend luctus,check,false,Garwood Fley
+453,9/30/2021,social_justice,7385.0,Trupe,vivamus metus arcu adipiscing molestie hendrerit at vulputate vitae,cash,true,Jarad Fettiplace
+454,2/1/2021,crm_expenses,6567.03,Eimbee,purus phasellus in felis donec semper sapien a libero nam,cash,false,Trueman Peterken
+455,2/6/2021,social_justice,1560.35,Gevee,eget nunc donec quis orci eget orci vehicula condimentum curabitur in libero ut massa,check,true,Nilson Postians
+456,6/3/2021,other,846.57,Skynoodle,nibh quisque id justo sit amet sapien dignissim vestibulum vestibulum ante,cash,true,Norbie Lee
+457,1/18/2021,faith_education,3659.61,Kayveo,mauris lacinia sapien quis libero,check,false,Karen Blankhorn
+458,12/25/2021,building_management,6400.4,Edgeclub,volutpat erat quisque erat eros viverra,cash,false,Rogers Jirus
+459,1/6/2021,faith_education,6290.36,Rhyloo,morbi vestibulum velit id pretium iaculis diam erat fermentum,check,true,Jarad Jestico
+460,1/29/2021,comm_life,6460.27,Realpoint,natoque penatibus et magnis dis parturient montes nascetur ridiculus mus vivamus vestibulum,check,false,Jenifer Darby
+461,12/22/2021,liturgy_music,1906.77,Agimba,odio curabitur convallis duis consequat,credit card,false,Erna Burnhams
+462,4/20/2021,liturgy_music,5467.46,Trilith,commodo vulputate justo in blandit ultrices enim lorem ipsum dolor sit,credit card,true,Alikee Dmitrievski
+463,9/6/2021,liturgy_music,5811.81,Rhyzio,eget tempus vel pede morbi porttitor,credit card,true,Maressa Conner
+464,2/24/2021,building_management,9298.0,Izio,nonummy maecenas tincidunt lacus at velit vivamus vel nulla eget eros elementum pellentesque quisque porta,cash,true,Jeremy Coventon
+465,6/12/2021,social_justice,4505.5,Skinte,sit amet eleifend pede libero quis,cash,true,Asher Dowle
+466,12/18/2021,comm_life,9722.21,Browsedrive,bibendum felis sed interdum venenatis turpis enim blandit mi in porttitor pede justo eu massa,cash,false,Bendix Gouinlock
+467,1/9/2021,utilities,9361.44,Zoomdog,diam erat fermentum justo nec condimentum neque sapien placerat ante nulla justo,cash,true,Olia Dyas
+468,6/4/2021,building_management,7844.46,Tagfeed,placerat praesent blandit nam nulla integer,credit card,false,Lucine Gerry
+469,11/29/2021,other,3594.4,Feedfire,scelerisque mauris sit amet eros suspendisse accumsan tortor quis turpis sed ante vivamus tortor duis,cash,true,Kimberli Spowage
+470,8/10/2021,retreats,4350.85,Talane,quis lectus suspendisse potenti in eleifend quam a odio in hac habitasse,credit card,true,Onfre Rodway
+471,10/7/2021,comm_life,2129.2,Topicstorm,dolor sit amet consectetuer adipiscing elit proin risus praesent lectus,cash,true,Iago Rugge
+472,11/20/2021,office_administration,3911.09,Mudo,,credit card,false,Farlie Jerzyk
+473,10/17/2021,building_management,9435.49,Flashspan,ultrices vel augue vestibulum ante ipsum primis in faucibus orci luctus et ultrices,credit card,false,Fanechka Darycott
+474,8/24/2021,automobiles,562.51,DabZ,odio elementum eu interdum eu,credit card,true,Allix Apple
+475,11/3/2021,building_management,7157.17,Jabbersphere,congue elementum in hac habitasse platea dictumst morbi vestibulum velit id pretium,check,true,Fania Yanele
+476,4/24/2021,retreats,6247.0,Mydeo,iaculis congue vivamus metus arcu adipiscing molestie hendrerit at vulputate vitae nisl,cash,false,Corliss Charity
+477,1/4/2021,social_justice,885.92,Meevee,pharetra magna ac consequat metus sapien ut nunc vestibulum ante ipsum primis,credit card,true,Leanora Paolucci
+478,7/27/2021,other,1149.27,Jayo,sapien cum sociis natoque penatibus et,check,true,Ira Drennan
+479,1/13/2021,automobiles,2015.51,Centizu,sit amet cursus id turpis integer aliquet massa id,cash,false,Berget Dudeney
+480,1/2/2021,building_management,7074.15,Centidel,,check,false,Hyatt Nisot
+481,2/24/2021,social_justice,1908.65,Blogspan,quam turpis adipiscing lorem vitae mattis nibh ligula nec sem duis aliquam,check,true,Martyn MacConnal
+482,4/3/2021,other,3125.5,Oyoba,augue quam sollicitudin vitae consectetuer eget,credit card,true,Aylmer Lukianov
+483,10/19/2021,social_justice,3696.34,Zoomzone,venenatis lacinia aenean sit amet justo morbi ut odio cras,credit card,true,Dari Danielou
+484,12/19/2021,social_justice,7658.73,Rhyzio,,check,true,Baxy Gadaud
+485,6/11/2021,social_justice,1005.02,Edgeblab,,cash,false,Dina Scotchmoor
+486,12/17/2021,utilities,7252.76,Divape,curae mauris viverra diam vitae quam suspendisse potenti nullam porttitor lacus at turpis donec posuere,check,false,Marleah Abdey
+487,1/9/2021,crm_expenses,9975.46,Trilia,et magnis dis parturient montes nascetur ridiculus mus etiam vel augue vestibulum,cash,true,Edan Leall
+488,9/5/2021,outreach,2027.71,Fadeo,duis bibendum morbi non quam nec dui luctus rutrum nulla tellus in,credit card,false,Whitney Mumm
+489,4/17/2021,building_management,9270.66,Tagfeed,maecenas tincidunt lacus at velit vivamus vel nulla eget eros elementum pellentesque quisque porta volutpat,cash,true,Dalis Smy
+490,9/3/2021,office_administration,8356.91,Tagchat,felis eu sapien cursus vestibulum proin eu mi nulla ac enim in tempor turpis,cash,true,Ruthi Dobbson
+491,8/3/2021,building_management,3375.81,Buzzster,nunc proin at turpis a pede,check,false,Orelee Delgadillo
+492,6/1/2021,outreach,1218.91,Voonix,nulla sed vel enim sit amet nunc viverra dapibus nulla suscipit ligula in lacus,credit card,true,Ami Belz
+493,11/10/2021,automobiles,6384.2,Yoveo,amet erat nulla tempus vivamus in felis eu sapien,cash,false,Chloris Choke
+494,11/19/2021,utilities,4313.91,Rhybox,diam id ornare imperdiet sapien urna pretium nisl ut,cash,true,Jennifer Pinare
+495,10/4/2021,utilities,4897.17,Kwimbee,parturient montes nascetur ridiculus mus vivamus vestibulum sagittis sapien cum sociis,cash,true,Lydie Grunder
+496,2/3/2021,comm_life,8968.66,Dazzlesphere,lorem integer tincidunt ante vel ipsum,check,true,Corie Hillatt
+497,10/22/2021,retreats,9813.67,Jabbertype,eget congue eget semper rutrum nulla nunc purus phasellus in felis,cash,false,Carie Dimitriou
+498,9/25/2021,outreach,1855.59,Wikibox,pretium iaculis diam erat fermentum justo,check,false,Kimbell Houlridge
+499,3/29/2021,utilities,9112.78,Cogidoo,lectus aliquam sit amet diam in magna bibendum imperdiet,check,false,Saxon Paterson
+500,10/28/2021,other,7462.14,Aibox,diam erat fermentum justo nec condimentum neque sapien placerat,check,false,Pansie Starton
+501,5/12/2021,student_leadership,3752.24,Ntag,lorem ipsum dolor sit amet consectetuer adipiscing elit proin risus praesent lectus vestibulum quam,cash,true,Ferris Jorez
+502,10/8/2021,retreats,9162.84,Katz,massa tempor convallis nulla neque libero convallis eget eleifend luctus ultricies eu,check,true,Raymund Heaney`
+503,12/29/2021,automobiles,3977.43,Edgeblab,donec odio justo sollicitudin ut suscipit a feugiat et eros vestibulum ac est,check,true,Wenona Northbridge
+504,1/13/2021,office_administration,1857.44,Chatterbridge,neque libero convallis eget eleifend,credit card,true,Amerigo Arrandale
+505,1/18/2021,social_justice,3274.76,Eadel,pulvinar lobortis est phasellus sit amet erat nulla tempus vivamus in felis eu,check,true,Patin Warry
+506,6/11/2021,comm_life,3233.09,Leexo,,credit card,false,Clemente Brezlaw
+507,7/22/2021,comm_life,2587.34,Eayo,phasellus id sapien in sapien iaculis congue,check,true,Britte Rockcliff
+508,4/30/2021,building_management,1.36,Realcube,,check,false,Carey Willshaw
+509,10/6/2021,retreats,415.62,Dazzlesphere,amet justo morbi ut odio cras mi pede malesuada,cash,false,Vanya Matuszak
+510,1/29/2021,outreach,4553.3,Gigaclub,mi in porttitor pede justo eu massa donec dapibus duis at velit eu est,cash,true,Rozelle Brenton
+511,7/1/2021,liturgy_music,5637.55,Lazz,donec vitae nisi nam ultrices libero,check,true,Bertrando Dallmann
+512,2/6/2021,outreach,719.41,Mudo,nulla ultrices aliquet maecenas leo odio condimentum id luctus nec molestie,check,false,Lorrayne Scoggin
+513,4/21/2021,comm_life,9994.34,Kwilith,consequat dui nec nisi volutpat eleifend donec,cash,false,Viola Ottewell
+514,12/13/2021,outreach,7478.11,Skalith,ultrices aliquet maecenas leo odio condimentum id luctus nec molestie sed,credit card,true,Letty Younge
+515,11/27/2021,building_management,5483.12,Roombo,nulla facilisi cras non velit nec,credit card,true,Malorie Pannaman
+516,9/16/2021,retreats,5606.44,Voolith,dolor sit amet consectetuer adipiscing elit proin interdum mauris non ligula pellentesque ultrices phasellus id,credit card,false,Madelin Ubanks
+517,9/10/2021,liturgy_music,4100.58,Tanoodle,sem praesent id massa id nisl venenatis lacinia aenean sit amet,check,false,Auroora Riping
+518,2/1/2021,retreats,543.02,Voonte,sit amet lobortis sapien sapien non mi integer ac,check,false,Waylan Spray
+519,1/12/2021,social_justice,169.27,Flashset,in tempor turpis nec euismod scelerisque quam turpis adipiscing lorem vitae mattis nibh ligula nec,check,true,Sonni Ivantyev
+520,9/11/2021,social_justice,3739.31,Edgeify,in purus eu magna vulputate luctus,credit card,false,Susannah Jeanequin
+521,4/11/2021,utilities,5743.97,Devcast,,check,true,Ardys Willers
+522,11/9/2021,comm_life,6932.66,Dazzlesphere,felis sed interdum venenatis turpis enim blandit mi in,credit card,false,Chicky Cradey
+523,3/8/2021,retreats,1997.3,Oyondu,vestibulum sagittis sapien cum sociis natoque penatibus et magnis dis parturient,check,true,Arnaldo Enderson
+524,11/13/2021,outreach,8988.03,Tagchat,sollicitudin vitae consectetuer eget rutrum at lorem integer tincidunt ante vel ipsum,check,true,Ernesta Duprey
+525,5/23/2021,social_justice,4572.24,Aimbu,dui luctus rutrum nulla tellus in,cash,true,Anthony Brockelsby
+526,10/29/2021,social_justice,8881.21,Thoughtblab,est donec odio justo sollicitudin ut suscipit,cash,true,Lavena Ebbs
+527,12/2/2021,liturgy_music,6780.37,Photofeed,duis consequat dui nec nisi volutpat eleifend donec,cash,false,Miles Oppery
+528,4/21/2021,crm_expenses,371.88,Skynoodle,curabitur convallis duis consequat dui nec nisi volutpat eleifend donec,check,true,Debbie Blampey
+529,8/15/2021,student_leadership,2213.31,Zoonoodle,hac habitasse platea dictumst etiam,credit card,true,Wrennie Chad
+530,6/21/2021,crm_expenses,106.21,Shufflebeat,donec vitae nisi nam ultrices libero non mattis pulvinar nulla pede ullamcorper augue a,cash,false,Rorie Merrywether
+531,10/11/2021,retreats,66.35,Oba,congue diam id ornare imperdiet sapien urna pretium nisl ut,check,true,Christiane Bristowe
+532,5/6/2021,outreach,6802.56,Vipe,interdum venenatis turpis enim blandit mi,credit card,true,Cathryn Peckett
+533,7/31/2021,utilities,5433.04,Edgeify,congue eget semper rutrum nulla nunc purus phasellus in felis donec semper,credit card,true,Ky Grayer
+534,12/22/2021,crm_expenses,7367.76,Feednation,curae duis faucibus accumsan odio,cash,true,Adelina Lovel
+535,1/13/2021,outreach,6683.49,Brainverse,,cash,true,Goldie Dewhurst
+536,1/31/2021,social_justice,2079.27,Meeveo,pede justo eu massa donec,check,true,Rance Cattow
+537,11/6/2021,student_leadership,2181.66,Browsetype,id pretium iaculis diam erat fermentum justo nec condimentum neque sapien placerat,credit card,true,Alethea Rowthorne
+538,3/3/2021,office_administration,9426.61,Eidel,condimentum curabitur in libero ut massa volutpat convallis morbi odio odio elementum eu interdum eu,cash,false,Philbert Husby
+539,3/18/2021,outreach,9510.25,Kimia,,cash,false,Alanson Toll
+540,8/26/2021,crm_expenses,1373.58,Buzzbean,sapien dignissim vestibulum vestibulum ante ipsum primis in faucibus,cash,true,Rivalee Domenicone
+541,6/20/2021,comm_life,3855.35,Digitube,augue vestibulum rutrum rutrum neque aenean auctor,check,true,Cornelia Greaves
+542,9/12/2021,crm_expenses,5442.73,Oozz,justo eu massa donec dapibus duis at velit eu est congue elementum,cash,false,Beaufort Jordine
+543,4/24/2021,crm_expenses,4403.47,Zoomzone,ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae nulla dapibus,check,true,Vonni Hoonahan
+544,3/10/2021,utilities,6936.28,Leexo,eu mi nulla ac enim in tempor turpis nec euismod,check,false,Denny Ends
+545,2/1/2021,student_leadership,9166.76,Wikivu,sodales sed tincidunt eu felis fusce posuere felis sed,check,true,Marline Alger
+546,10/6/2021,utilities,6586.64,Skyble,non velit nec nisi vulputate nonummy maecenas tincidunt lacus at velit vivamus vel nulla eget,credit card,false,Anitra Burris
+547,8/21/2021,liturgy_music,4392.07,Rhynyx,malesuada in imperdiet et commodo vulputate,credit card,true,Jim Loram
+548,3/22/2021,faith_education,6373.2,Rooxo,vestibulum sit amet cursus id turpis integer aliquet massa id,cash,true,Felike Shipton
+549,5/23/2021,utilities,7961.31,Brainsphere,ultrices posuere cubilia curae duis faucibus accumsan odio curabitur convallis duis,cash,false,Gilbertina Matzl
+550,11/29/2021,retreats,9635.5,Babbleblab,quis turpis eget elit sodales scelerisque mauris sit amet,check,false,Matty Wines
+551,8/29/2021,crm_expenses,158.54,Kwideo,laoreet ut rhoncus aliquet pulvinar sed nisl nunc rhoncus dui vel sem sed,check,false,Levey Putley
+552,1/22/2021,faith_education,5292.8,Kwilith,at nibh in hac habitasse platea dictumst aliquam augue,credit card,true,Isaak Fiske
+553,12/16/2021,outreach,8974.62,Dabfeed,commodo placerat praesent blandit nam nulla integer pede justo lacinia eget tincidunt,credit card,false,Beauregard Seyler
+554,8/25/2021,comm_life,7619.15,Eamia,mi sit amet lobortis sapien,check,false,Wadsworth Flaonier
+555,12/2/2021,office_administration,2984.11,Kwinu,,credit card,false,Dredi Jeremiah
+556,3/16/2021,comm_life,8098.2,Rhybox,ipsum praesent blandit lacinia erat vestibulum sed magna at,cash,true,Cassie Harefoot
+557,12/3/2021,building_management,4849.82,Roombo,nunc vestibulum ante ipsum primis in faucibus orci luctus et,check,true,Kare St. Hill
+558,7/1/2021,other,7081.88,Leenti,curabitur at ipsum ac tellus semper interdum mauris ullamcorper purus sit amet nulla quisque arcu,cash,true,Osmond Eskriet
+559,2/22/2021,office_administration,8897.55,Rhybox,sollicitudin ut suscipit a feugiat et eros vestibulum ac est lacinia nisi venenatis tristique,check,true,Tamma Procter
+560,10/21/2021,utilities,1456.96,Katz,,cash,false,Verna Lambotin
+561,3/18/2021,other,8539.11,Thoughtblab,interdum mauris ullamcorper purus sit amet nulla quisque,check,false,Fields Major
+562,10/28/2021,social_justice,8814.1,Meemm,parturient montes nascetur ridiculus mus vivamus vestibulum,cash,false,Salim Fancott
+563,3/19/2021,crm_expenses,6558.78,Browsebug,curabitur at ipsum ac tellus semper interdum mauris ullamcorper purus sit amet nulla quisque arcu,credit card,false,Ada O'Daly
+564,6/8/2021,student_leadership,4219.6,Jayo,tincidunt lacus at velit vivamus vel nulla eget eros elementum pellentesque quisque porta,cash,true,Bette-ann Gommowe
+565,11/10/2021,office_administration,7143.84,Jaxspan,vulputate justo in blandit ultrices enim lorem ipsum dolor sit amet consectetuer adipiscing elit,credit card,true,Danyette Niezen
+566,3/12/2021,faith_education,6987.31,Blogspan,velit id pretium iaculis diam erat fermentum justo nec condimentum neque sapien placerat ante,cash,false,Sherlock Culligan
+567,1/1/2021,social_justice,7484.94,Feedfire,,check,true,Brigg Verna
+568,7/25/2021,office_administration,5418.73,Abata,sed tristique in tempus sit,cash,false,Madelaine Lindborg
+569,7/25/2021,liturgy_music,656.77,Browsedrive,magna vulputate luctus cum sociis natoque penatibus et magnis dis parturient montes nascetur,check,true,Angelo Pattini
+570,8/18/2021,retreats,6676.39,Jaloo,non interdum in ante vestibulum,check,false,Mal Dunning
+571,4/2/2021,social_justice,6077.24,Kaymbo,,check,false,Cherilynn Hammett
+572,7/17/2021,other,7102.74,Photobug,,cash,false,Norry Coe
+573,3/29/2021,automobiles,1259.07,Yoveo,posuere cubilia curae duis faucibus,check,false,Frants Dymott
+574,2/25/2021,faith_education,7750.53,Ntags,habitasse platea dictumst morbi vestibulum velit id pretium iaculis diam,cash,true,Stevy Deller
+575,3/3/2021,student_leadership,2290.23,Pixope,enim blandit mi in porttitor,cash,true,Kimbell Corkel
+576,4/27/2021,comm_life,3091.63,Jamia,,check,true,Dorian Stirling
+577,4/2/2021,faith_education,853.09,Feedfish,luctus nec molestie sed justo pellentesque viverra pede ac diam cras pellentesque volutpat,cash,true,Hillier Celand
+578,9/28/2021,retreats,5729.75,Shuffletag,et magnis dis parturient montes nascetur ridiculus mus vivamus vestibulum sagittis sapien,check,true,Darya Snoden
+579,12/2/2021,other,9192.17,Voolith,nec nisi volutpat eleifend donec ut dolor morbi vel lectus,credit card,false,Aldin Storck
+580,4/11/2021,outreach,3552.44,Yakitri,donec odio justo sollicitudin ut suscipit a feugiat et eros vestibulum ac est lacinia nisi,cash,false,Halsey Iffland
+581,6/1/2021,comm_life,6076.26,Edgepulse,erat nulla tempus vivamus in felis eu sapien cursus vestibulum proin eu,cash,false,Blanca Brooks
+582,4/11/2021,social_justice,7649.39,Edgeblab,justo in hac habitasse platea dictumst etiam faucibus cursus urna ut tellus,cash,true,Ramsay Woolway
+583,4/19/2021,crm_expenses,4897.22,Trilia,posuere metus vitae ipsum aliquam non mauris morbi,cash,true,Reine Colwell
+584,11/18/2021,social_justice,9818.63,Gabtune,metus arcu adipiscing molestie hendrerit at vulputate vitae nisl aenean lectus pellentesque,check,true,Hakim Poe
+585,6/23/2021,utilities,9434.01,Miboo,mauris ullamcorper purus sit amet nulla quisque arcu libero rutrum ac lobortis,check,false,Ludovika Cherry
+586,6/17/2021,student_leadership,8043.65,Agivu,lorem ipsum dolor sit amet consectetuer adipiscing elit proin risus praesent lectus vestibulum quam,cash,false,Ivett Marsh
+587,10/13/2021,comm_life,6891.07,Riffwire,justo in hac habitasse platea dictumst,credit card,false,Farrand Dubarry
+588,11/16/2021,student_leadership,1178.02,Realfire,,check,true,Euphemia Jukes
+589,3/21/2021,utilities,7013.41,Browsedrive,vulputate nonummy maecenas tincidunt lacus at velit vivamus,credit card,false,Kaela Kinder
+590,6/21/2021,other,4483.86,Gabtype,luctus nec molestie sed justo pellentesque viverra pede ac diam cras pellentesque,check,true,Giulio Baldrick
+591,4/29/2021,retreats,6521.58,Livetube,montes nascetur ridiculus mus etiam vel augue vestibulum rutrum rutrum,credit card,true,Maure Stables
+592,1/16/2021,retreats,8519.37,Yodel,enim sit amet nunc viverra dapibus,check,false,Myra Leguey
+593,3/2/2021,automobiles,2793.25,Vidoo,ultrices aliquet maecenas leo odio condimentum id luctus nec molestie sed justo pellentesque viverra pede,check,false,Traci Girodin
+594,4/13/2021,automobiles,2771.23,Flipopia,,credit card,true,Lorry Danzey
+595,1/31/2021,comm_life,4199.09,Edgetag,dui luctus rutrum nulla tellus in sagittis dui vel nisl duis ac,check,true,Vivie Doogood
+596,5/15/2021,office_administration,3432.8,Quinu,nulla mollis molestie lorem quisque,cash,true,Hieronymus Bettison
+597,10/9/2021,student_leadership,2513.08,Meezzy,ipsum integer a nibh in quis justo,cash,true,Jillian Ducaen
+598,5/14/2021,comm_life,5031.04,Voonder,aliquam quis turpis eget elit sodales scelerisque mauris sit amet eros suspendisse,check,false,Jacquette Boston
+599,10/8/2021,other,2043.38,Realblab,maecenas tristique est et tempus semper est quam pharetra,cash,false,Obie Rubinlicht
+600,12/18/2021,building_management,1325.95,Skimia,erat id mauris vulputate elementum nullam varius nulla facilisi cras non,credit card,false,Lucias Pignon
+601,8/14/2021,crm_expenses,9880.25,Dabjam,,check,false,Whitby Lewknor
+602,3/22/2021,social_justice,7406.18,Edgeify,sit amet consectetuer adipiscing elit proin risus praesent lectus vestibulum quam sapien varius ut blandit,credit card,true,Doria Simonutti
+603,3/12/2021,comm_life,5021.9,Edgeblab,vestibulum velit id pretium iaculis diam erat fermentum justo,credit card,false,Shanta Juggins
+604,7/4/2021,crm_expenses,9633.44,Feedmix,a suscipit nulla elit ac nulla sed vel enim sit amet nunc viverra,credit card,true,Pamela Stillwell
+605,3/6/2021,liturgy_music,3453.06,Teklist,viverra pede ac diam cras pellentesque volutpat dui maecenas tristique est et tempus semper,check,true,Lyndsey Cantero
+606,3/7/2021,office_administration,7931.66,Realblab,mauris vulputate elementum nullam varius nulla facilisi cras,credit card,true,Hendrick Sabberton
+607,7/4/2021,utilities,6179.01,Pixope,metus aenean fermentum donec ut mauris,check,true,Katrina Cleef
+608,10/2/2021,automobiles,3661.29,Skimia,mauris ullamcorper purus sit amet nulla quisque arcu libero rutrum ac,cash,false,Land Tatchell
+609,8/10/2021,other,1179.56,JumpXS,ipsum primis in faucibus orci luctus et,credit card,false,Merissa Stollenhof
+610,11/4/2021,retreats,9382.97,Feednation,sapien iaculis congue vivamus metus arcu adipiscing molestie hendrerit at vulputate,credit card,false,Johan Agent
+611,11/11/2021,student_leadership,40.97,Linkbridge,praesent blandit lacinia erat vestibulum sed magna at,check,false,Berne Tinham
+612,10/4/2021,building_management,5522.47,Oyoba,vivamus metus arcu adipiscing molestie hendrerit at vulputate vitae nisl aenean lectus pellentesque,credit card,false,Even Brach
+613,2/25/2021,student_leadership,2990.36,Fivespan,ligula sit amet eleifend pede libero quis orci nullam molestie nibh in lectus pellentesque at,cash,true,Eddie Kennealy
+614,11/21/2021,outreach,7837.5,Browsezoom,sapien quis libero nullam sit amet turpis,check,true,Maggy Earpe
+615,12/30/2021,crm_expenses,6814.2,Buzzshare,,credit card,false,Rollo Pennells
+616,3/21/2021,retreats,4815.92,Latz,a ipsum integer a nibh in quis justo maecenas rhoncus aliquam,credit card,false,Pippo Scaice
+617,1/6/2021,social_justice,5970.17,Avaveo,,cash,false,Kylie Buck
+618,8/4/2021,utilities,6857.31,Twitterlist,vestibulum velit id pretium iaculis diam erat fermentum justo nec condimentum neque sapien,cash,false,Idalina Carthy
+619,12/9/2021,building_management,2939.89,Wordify,nulla justo aliquam quis turpis eget elit sodales scelerisque,check,true,Donnie McGlaud
+620,3/31/2021,faith_education,2659.14,Shuffledrive,ligula vehicula consequat morbi a ipsum integer a nibh in quis justo maecenas,credit card,true,Marlo Worsom
+621,1/31/2021,outreach,574.92,Topiczoom,bibendum felis sed interdum venenatis turpis enim blandit mi in,check,false,Melita Francesconi
+622,10/20/2021,automobiles,1889.72,Tagcat,,credit card,false,Lyn Wayman
+623,3/17/2021,student_leadership,2533.35,Feedspan,sapien cursus vestibulum proin eu mi nulla ac enim in tempor turpis,check,false,Cosette Siddele
+624,8/5/2021,liturgy_music,6819.26,Jayo,quam fringilla rhoncus mauris enim leo rhoncus sed vestibulum sit amet cursus id turpis integer,credit card,true,Milzie Milan
+625,8/27/2021,comm_life,9595.35,Zazio,dapibus duis at velit eu est,cash,false,Werner Tremollet
+626,8/24/2021,outreach,8231.13,Divanoodle,,credit card,false,Ollie Cavnor
+627,3/10/2021,other,1508.97,Jabbersphere,dapibus augue vel accumsan tellus nisi eu orci mauris,credit card,false,Hew Kermott
+628,4/19/2021,automobiles,3952.34,Yozio,quis tortor id nulla ultrices aliquet maecenas leo odio condimentum id luctus nec molestie,cash,true,Krissy Wharton
+629,8/20/2021,social_justice,3567.41,Mita,duis faucibus accumsan odio curabitur convallis duis consequat dui,credit card,false,Melicent Marland
+630,1/6/2021,comm_life,8700.86,Ntags,primis in faucibus orci luctus et ultrices posuere cubilia curae,check,false,De witt Ridolfo
+631,8/15/2021,liturgy_music,9477.96,Voomm,,credit card,true,Alanson Lanchbery
+632,6/29/2021,comm_life,6502.13,Skiptube,,credit card,true,Lorne Cocklie
+633,3/22/2021,liturgy_music,7036.47,Tagtune,,check,false,Linnea Tax
+634,3/20/2021,outreach,6905.68,Livepath,dolor sit amet consectetuer adipiscing elit proin interdum mauris non ligula pellentesque,credit card,true,Gabie Staite
+635,1/10/2021,automobiles,915.57,Meevee,a odio in hac habitasse,credit card,true,Barbee Stennings
+636,11/15/2021,comm_life,4583.55,Yadel,diam cras pellentesque volutpat dui maecenas tristique,check,true,Della Gammidge
+637,5/5/2021,liturgy_music,3296.16,Lazzy,ac leo pellentesque ultrices mattis odio donec vitae nisi nam ultrices libero non mattis,credit card,false,Deeyn Dighton
+638,10/29/2021,retreats,8364.42,Yata,non ligula pellentesque ultrices phasellus id sapien in sapien iaculis congue vivamus,cash,true,Mab Tattersdill
+639,7/16/2021,liturgy_music,1654.69,Einti,cursus id turpis integer aliquet massa id lobortis convallis tortor risus dapibus augue vel accumsan,credit card,true,Ken Nolot
+640,7/4/2021,utilities,3048.38,Yata,ante nulla justo aliquam quis turpis eget elit sodales scelerisque mauris sit amet eros,cash,true,Nikolaus Dog
+641,12/23/2021,retreats,9023.74,Jetpulse,,check,true,Shae Erskine Sandys
+642,8/1/2021,liturgy_music,8471.3,Vidoo,diam erat fermentum justo nec condimentum neque sapien placerat ante nulla justo aliquam,check,false,Becka Rosettini
+643,8/2/2021,office_administration,1565.89,Dablist,sit amet consectetuer adipiscing elit,cash,true,Elset Lukock
+644,9/18/2021,automobiles,9719.59,Flipopia,metus arcu adipiscing molestie hendrerit at vulputate vitae nisl aenean lectus pellentesque eget nunc,credit card,false,Humfried Mustarde
+645,2/26/2021,utilities,2553.24,Youopia,,check,true,Florence Kliemann
+646,7/26/2021,liturgy_music,2847.46,Gigaclub,scelerisque mauris sit amet eros suspendisse accumsan tortor quis turpis sed ante,check,false,Sinclair Aylin
+647,1/18/2021,outreach,6781.96,Digitube,,cash,true,Rex Bilton
+648,5/19/2021,crm_expenses,1563.25,Blogtag,justo pellentesque viverra pede ac diam cras pellentesque volutpat dui maecenas tristique est et tempus,check,false,Grantham Scrivin
+649,3/28/2021,faith_education,6952.92,Twimm,,credit card,false,Sharia Hancox
+650,1/9/2021,outreach,675.67,Tazzy,malesuada in imperdiet et commodo vulputate justo in blandit ultrices,cash,false,Hana Airth
+651,5/13/2021,retreats,6253.8,Buzzster,tincidunt eu felis fusce posuere felis sed lacus morbi sem,credit card,false,Marcelle Fitzsymonds
+652,6/20/2021,student_leadership,4858.87,Aimbo,nonummy integer non velit donec diam neque vestibulum eget vulputate,credit card,true,Hunt Coast
+653,8/20/2021,comm_life,5695.66,Twiyo,,credit card,false,Cordie Armit
+654,1/1/2021,automobiles,8430.54,Zoonder,condimentum id luctus nec molestie sed justo pellentesque viverra pede ac diam cras pellentesque volutpat,credit card,false,Odessa Bennoe
+655,6/22/2021,crm_expenses,7895.25,Quinu,augue aliquam erat volutpat in congue,cash,false,Harrison Godfroy
+656,4/5/2021,crm_expenses,4556.78,Skaboo,vehicula consequat morbi a ipsum integer a nibh in quis justo maecenas,check,true,Terrance Dunlap
+657,2/27/2021,retreats,9562.35,Flipbug,,check,false,Helaina Chellenham
+658,6/22/2021,liturgy_music,7075.21,Feednation,mauris sit amet eros suspendisse accumsan tortor quis turpis,cash,false,Gustave Romanet
+659,11/14/2021,building_management,3967.39,Jabberbean,,cash,false,Aline Sopper
+660,10/30/2021,building_management,347.52,Aimbu,ultrices posuere cubilia curae donec pharetra magna vestibulum,credit card,true,Isa Shenfisch
+661,3/24/2021,social_justice,4334.64,Twitterbridge,donec ut dolor morbi vel lectus in,check,true,Marlena Seedull
+662,9/11/2021,crm_expenses,244.42,Browsedrive,donec pharetra magna vestibulum aliquet ultrices,check,false,Fonz Knock
+663,7/24/2021,outreach,4757.45,Riffwire,non lectus aliquam sit amet diam in magna bibendum imperdiet,cash,false,Amabel Snailham
+664,5/9/2021,building_management,4727.31,Avaveo,,credit card,false,Guenevere Kuhle
+665,3/11/2021,comm_life,3742.61,Dazzlesphere,,credit card,true,Iormina Shearmur
+666,12/10/2021,faith_education,4069.24,Agimba,turpis a pede posuere nonummy integer non velit donec diam neque,check,false,Alessandra Decker
+667,4/18/2021,outreach,2839.29,Yakijo,,credit card,false,Emelen Vernon
+668,1/20/2021,automobiles,7577.29,Voonyx,morbi sem mauris laoreet ut rhoncus aliquet pulvinar sed nisl nunc rhoncus,cash,false,Shannah Charville
+669,2/23/2021,social_justice,394.06,Eayo,arcu sed augue aliquam erat volutpat in congue etiam,check,true,Norby Hansford
+670,10/18/2021,social_justice,8505.17,Quimba,eget massa tempor convallis nulla neque,check,false,Tommy Trangmar
+671,11/19/2021,outreach,9813.11,Skyba,nisi eu orci mauris lacinia sapien quis libero nullam sit amet turpis,check,false,Kordula Galey
+672,6/4/2021,automobiles,9125.1,Tazz,et ultrices posuere cubilia curae nulla dapibus dolor vel est,cash,true,Vivyanne Ferrara
+673,9/24/2021,outreach,845.38,Skivee,amet eleifend pede libero quis orci nullam molestie nibh in lectus pellentesque at nulla,cash,false,Phil Shaddick
+674,1/1/2021,crm_expenses,5507.86,Skiba,hac habitasse platea dictumst etiam faucibus cursus urna ut tellus nulla,cash,true,Vergil Abbess
+675,2/20/2021,social_justice,7925.23,Vipe,felis donec semper sapien a libero nam dui proin,cash,true,Emmalyn Murricanes
+676,10/28/2021,liturgy_music,8615.86,Skinte,ornare consequat lectus in est risus,cash,true,Tadd Thirst
+677,5/20/2021,automobiles,1039.78,Riffwire,posuere metus vitae ipsum aliquam non mauris morbi non lectus,cash,false,Drud Coch
+678,10/8/2021,retreats,5843.19,Gigazoom,rutrum at lorem integer tincidunt,credit card,false,Gussi Cato
+679,4/2/2021,faith_education,6910.42,Vidoo,in purus eu magna vulputate luctus cum sociis natoque penatibus et magnis dis parturient montes,cash,false,Jamison Ayton
+680,7/13/2021,student_leadership,165.42,Riffwire,luctus rutrum nulla tellus in sagittis dui vel nisl duis ac nibh fusce lacus purus,cash,false,Charmion Ovey
+681,6/21/2021,crm_expenses,7629.9,Innotype,nibh ligula nec sem duis aliquam convallis nunc proin at turpis a,check,false,Karissa Parnby
+682,7/2/2021,utilities,5823.31,Skilith,,credit card,true,Fay Pargeter
+683,12/6/2021,building_management,4410.64,Vimbo,,cash,false,Rodrick Ianizzi
+684,6/23/2021,office_administration,2424.06,Latz,cras non velit nec nisi vulputate nonummy maecenas tincidunt,check,true,Nat Scotchbourouge
+685,1/1/2021,faith_education,6515.97,Gabcube,sapien cum sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus,cash,true,Vinny McClaughlin
+686,12/20/2021,social_justice,2656.2,Linkbuzz,ullamcorper purus sit amet nulla,check,false,Belvia Arenson
+687,9/20/2021,building_management,5538.07,Fadeo,,cash,true,Maurits Feldfisher
+688,12/4/2021,student_leadership,9688.65,Jaloo,,credit card,true,Kerwinn Gillice
+689,2/16/2021,retreats,3408.18,Geba,et ultrices posuere cubilia curae nulla dapibus,check,true,Nance Pandey
+690,4/7/2021,social_justice,7989.99,Linklinks,sollicitudin ut suscipit a feugiat et eros,credit card,true,Rockie Rablin
+691,2/23/2021,social_justice,5714.43,Abata,nonummy integer non velit donec diam neque vestibulum eget vulputate ut ultrices vel augue vestibulum,credit card,true,Gunter Josselsohn
+692,5/19/2021,social_justice,685.39,Yotz,varius integer ac leo pellentesque ultrices mattis odio donec vitae nisi nam,cash,true,Cassey Sallter
+693,11/28/2021,automobiles,5355.75,Tagtune,lacus morbi quis tortor id nulla ultrices aliquet maecenas leo odio condimentum id luctus,cash,false,Lettie O'Callaghan
+694,8/27/2021,social_justice,8369.91,Wordpedia,,credit card,true,Katherine Rookwell
+695,7/29/2021,retreats,8786.48,Linkbuzz,nulla facilisi cras non velit nec nisi vulputate nonummy maecenas tincidunt lacus at velit,cash,false,Elvyn Headley
+696,12/26/2021,social_justice,5960.64,Yabox,sollicitudin vitae consectetuer eget rutrum at,credit card,true,Hirsch Emney
+697,11/28/2021,comm_life,8810.59,Oloo,et eros vestibulum ac est lacinia nisi venenatis tristique fusce,cash,true,Laetitia Fellenor
+698,1/26/2021,retreats,2668.4,Camido,consequat metus sapien ut nunc vestibulum ante ipsum primis in faucibus orci luctus et ultrices,cash,false,Carlye Igo
+699,4/16/2021,retreats,3690.89,Gigashots,et ultrices posuere cubilia curae donec pharetra magna vestibulum aliquet ultrices erat,check,false,Hannie Nehlsen
+700,7/13/2021,building_management,8046.7,Fivebridge,fusce posuere felis sed lacus morbi,check,false,Florencia Bukac
+701,2/6/2021,liturgy_music,783.75,Centidel,aliquam convallis nunc proin at turpis a pede posuere nonummy integer non,credit card,true,Carleton Mellish
+702,5/11/2021,office_administration,353.31,Fivebridge,mollis molestie lorem quisque ut erat curabitur gravida,check,true,Poppy Nassie
+703,10/12/2021,comm_life,8570.4,Gabtype,tempus vivamus in felis eu sapien cursus vestibulum proin eu mi nulla ac enim in,cash,false,Gannie Koeppke
+704,9/8/2021,student_leadership,1603.62,Jabberbean,in quis justo maecenas rhoncus aliquam lacus morbi quis tortor id nulla ultrices,cash,true,Babette Iannuzzi
+705,10/25/2021,utilities,7094.67,Oyoloo,erat quisque erat eros viverra eget congue eget semper rutrum nulla nunc purus phasellus in,check,true,Rica Jura
+706,11/6/2021,building_management,2242.62,Skinte,non mattis pulvinar nulla pede,cash,true,Blane Palatini
+707,3/17/2021,crm_expenses,10.66,Flashspan,,check,true,Carmela Rodder
+708,10/13/2021,other,9961.22,Realmix,,credit card,false,Friederike Laycock
+709,6/8/2021,retreats,6987.45,Mita,,credit card,true,Miltie Hirsthouse
+710,12/3/2021,social_justice,1142.73,Thoughtblab,maecenas tincidunt lacus at velit vivamus vel nulla eget eros elementum,cash,false,Jerri Elden
+711,4/24/2021,student_leadership,386.41,Twitterlist,luctus et ultrices posuere cubilia curae donec pharetra magna vestibulum aliquet ultrices erat tortor sollicitudin,check,true,Vlad Wolfendell
+712,8/9/2021,student_leadership,45.69,Feedspan,venenatis tristique fusce congue diam,credit card,false,Tracy Fishburn
+713,3/13/2021,utilities,5801.43,Flashset,justo in blandit ultrices enim,cash,true,Gwendolyn Lipmann
+714,10/25/2021,social_justice,2301.41,Zoomdog,interdum mauris non ligula pellentesque ultrices phasellus id sapien,check,true,Martyn Ramble
+715,4/24/2021,retreats,8499.49,Photospace,diam vitae quam suspendisse potenti nullam porttitor lacus at turpis,cash,false,Jocelyn Kernock
+716,11/22/2021,utilities,7570.71,Wordtune,faucibus accumsan odio curabitur convallis duis consequat dui nec nisi volutpat,check,false,Kesley Lope
+717,6/7/2021,automobiles,5264.63,Skippad,sapien quis libero nullam sit amet turpis elementum ligula vehicula consequat morbi a,check,false,Slade Rajchert
+718,12/7/2021,student_leadership,7384.23,Tambee,pede morbi porttitor lorem id ligula suspendisse,credit card,false,Clifford Tunbridge
+719,1/28/2021,outreach,4642.39,Realblab,egestas metus aenean fermentum donec ut mauris eget,check,true,Dewie Landon
+720,6/19/2021,liturgy_music,5167.87,Topiczoom,nibh in quis justo maecenas rhoncus aliquam lacus morbi quis tortor id nulla ultrices aliquet,cash,true,Hollie Cosstick
+721,6/25/2021,liturgy_music,6843.03,Oyondu,nulla sed vel enim sit amet nunc,check,false,Rosemonde Gyurko
+722,7/21/2021,outreach,8468.05,Topicstorm,ipsum dolor sit amet consectetuer adipiscing elit proin risus praesent lectus vestibulum quam sapien varius,cash,true,Dorice Maulden
+723,10/30/2021,comm_life,4321.22,Centizu,ultrices mattis odio donec vitae nisi nam ultrices libero,check,true,Jameson Ever
+724,6/13/2021,automobiles,5240.8,Babbleblab,et magnis dis parturient montes nascetur ridiculus mus etiam vel,check,false,Lauralee Reinger
+725,6/17/2021,crm_expenses,3783.99,Kimia,sit amet erat nulla tempus vivamus in felis,cash,true,Rufe Gallandre
+726,3/16/2021,comm_life,8882.88,Yozio,,check,true,Jolee Littlewood
+727,12/18/2021,crm_expenses,94.97,Yotz,justo etiam pretium iaculis justo in hac habitasse platea dictumst etiam faucibus cursus,check,false,Doro Pardie
+728,2/28/2021,automobiles,7507.6,Kamba,,cash,true,Adam Keaveney
+729,4/26/2021,utilities,4705.56,Reallinks,ligula in lacus curabitur at ipsum ac tellus,cash,true,Shana McGahern
+730,5/30/2021,outreach,3028.98,Reallinks,mattis odio donec vitae nisi nam ultrices libero non mattis pulvinar nulla,check,false,Gaston Comar
+731,7/1/2021,office_administration,4389.78,Muxo,et ultrices posuere cubilia curae mauris viverra diam vitae quam,cash,false,Coraline Risdale
+732,4/1/2021,faith_education,5802.11,Aimbo,id lobortis convallis tortor risus dapibus augue vel accumsan tellus nisi eu orci mauris,credit card,true,Giff Berget
+733,1/23/2021,office_administration,9039.35,Twitterbeat,pede ac diam cras pellentesque,cash,true,Kirsti Vitet
+734,7/31/2021,retreats,8923.8,Zoomdog,vitae ipsum aliquam non mauris morbi non lectus,cash,true,Joice Tenwick
+735,7/21/2021,comm_life,7211.9,Devbug,dictumst etiam faucibus cursus urna ut tellus nulla ut erat id mauris vulputate elementum,check,false,Nedda Conradsen
+736,7/15/2021,building_management,3992.63,Kayveo,in felis donec semper sapien a libero nam dui,cash,false,Florette Britzius
+737,6/30/2021,retreats,8670.34,Izio,interdum eu tincidunt in leo maecenas pulvinar lobortis est phasellus,credit card,true,Alberta Klazenga
+738,8/8/2021,outreach,424.78,Realcube,nulla ut erat id mauris vulputate elementum nullam varius nulla facilisi cras non velit nec,credit card,true,Zeb Boyland
+739,6/6/2021,utilities,1592.05,Devbug,,check,true,Sybil Highwood
+740,10/3/2021,office_administration,3852.19,Devcast,duis ac nibh fusce lacus purus,check,true,Norry Honig
+741,9/28/2021,utilities,2016.12,Meezzy,lectus vestibulum quam sapien varius ut blandit non interdum in ante vestibulum ante,check,false,Gabriello Cornely
+742,6/4/2021,comm_life,2199.96,Realblab,ut ultrices vel augue vestibulum ante ipsum primis in faucibus,check,false,Clerc Ickovic
+743,8/19/2021,building_management,2020.52,Bluezoom,volutpat dui maecenas tristique est et tempus semper,credit card,true,Renault McBryde
+744,12/6/2021,retreats,1828.95,Divape,lectus vestibulum quam sapien varius ut blandit non interdum in,credit card,true,Robinett Murrum
+745,10/28/2021,faith_education,5491.5,Meeveo,eget tincidunt eget tempus vel pede morbi porttitor lorem id ligula suspendisse ornare,credit card,false,Marten McCorkell
+746,6/8/2021,social_justice,1559.79,Youfeed,morbi vel lectus in quam fringilla rhoncus mauris enim leo rhoncus,credit card,true,Dara Collinson
+747,7/3/2021,comm_life,4670.38,Leexo,sapien iaculis congue vivamus metus arcu adipiscing molestie hendrerit at vulputate vitae,cash,false,Charisse Habben
+748,7/13/2021,outreach,1969.3,Yotz,lobortis sapien sapien non mi integer ac neque duis bibendum morbi non quam nec,cash,false,Cello Kitchingman
+749,10/12/2021,social_justice,9098.68,Bubbletube,,cash,false,Hattie Owen
+750,11/29/2021,liturgy_music,8831.77,Jaxbean,cubilia curae donec pharetra magna vestibulum aliquet ultrices erat tortor sollicitudin mi,check,true,Lyell Dunkerley
+751,5/9/2021,liturgy_music,786.74,Ozu,,credit card,true,Leesa Ziemecki
+752,7/24/2021,office_administration,8554.97,Oyoloo,quis augue luctus tincidunt nulla mollis molestie lorem quisque ut erat,credit card,false,Louis Bertenshaw
+753,12/18/2021,crm_expenses,5014.36,Bluezoom,id nulla ultrices aliquet maecenas,check,false,Cherey McKeurton
+754,10/5/2021,automobiles,5630.59,Ailane,enim in tempor turpis nec,credit card,true,Waneta Tuite
+755,2/7/2021,outreach,3309.73,Topicshots,,check,false,Avram Storms
+756,2/18/2021,social_justice,9661.44,Riffpath,a odio in hac habitasse,check,false,Gonzales Ricardon
+757,9/2/2021,retreats,560.7,Katz,rutrum neque aenean auctor gravida sem praesent id,check,true,Antonio Shearstone
+758,7/2/2021,student_leadership,5195.88,Viva,potenti in eleifend quam a odio in hac habitasse platea dictumst maecenas ut,check,false,Tyler Seiler
+759,7/24/2021,retreats,5543.3,Thoughtstorm,etiam justo etiam pretium iaculis justo in hac habitasse platea dictumst,check,false,Bessy Skrine
+760,3/18/2021,outreach,8797.18,Tagcat,morbi non lectus aliquam sit amet,cash,false,Norine Vise
+761,3/2/2021,office_administration,1216.34,Quire,risus semper porta volutpat quam pede lobortis ligula sit amet eleifend,check,true,Donnie Gianolo
+762,4/6/2021,retreats,8158.16,Voonte,,cash,false,Britte Jory
+763,12/21/2021,other,955.12,Tagpad,,credit card,true,Ber Skerm
+764,1/27/2021,student_leadership,2301.08,LiveZ,ut mauris eget massa tempor convallis nulla,cash,true,Johnathan Coryndon
+765,7/19/2021,other,5971.19,Jatri,varius nulla facilisi cras non velit nec nisi vulputate nonummy maecenas tincidunt lacus,check,true,Deena Tilbury
+766,4/6/2021,outreach,4627.79,Kwilith,nisi at nibh in hac habitasse platea dictumst aliquam augue quam sollicitudin,cash,false,Avictor Fradson
+767,8/9/2021,retreats,3136.38,Skalith,luctus et ultrices posuere cubilia,credit card,false,Mildrid Ridesdale
+768,7/9/2021,retreats,720.59,Brightdog,lacus at velit vivamus vel nulla eget eros,credit card,true,Pippo McCawley
+769,10/2/2021,office_administration,1853.87,Mynte,,cash,true,Kylynn Alway
+770,9/5/2021,utilities,2440.49,Feedfire,sodales scelerisque mauris sit amet,cash,false,Deck Nisius
+771,1/17/2021,faith_education,8631.77,Izio,maecenas tincidunt lacus at velit vivamus vel nulla eget,cash,false,Dori Kirley
+772,12/4/2021,liturgy_music,8483.63,Agivu,non velit donec diam neque,check,false,Arin Tytterton
+773,1/7/2021,other,9694.25,Linkbridge,amet eros suspendisse accumsan tortor quis turpis sed ante vivamus,credit card,false,Donnell Chainey
+774,1/19/2021,student_leadership,5236.71,Voolith,erat tortor sollicitudin mi sit amet lobortis sapien sapien non mi integer ac neque duis,cash,false,Cthrine Bulleyn
+775,2/26/2021,liturgy_music,4086.14,Miboo,justo pellentesque viverra pede ac diam cras pellentesque,cash,false,Lannie Goodnow
+776,8/18/2021,outreach,8067.26,Wikivu,sit amet cursus id turpis integer aliquet massa id lobortis convallis tortor,credit card,false,Dyann Wyllt
+777,11/29/2021,other,1817.16,Innojam,lacinia sapien quis libero nullam sit amet turpis elementum ligula,cash,false,Ivory Jarville
+778,12/12/2021,other,6.62,Twitterwire,curae nulla dapibus dolor vel est,cash,true,Virgina Dutnell
+779,6/23/2021,automobiles,9769.58,Voonte,id justo sit amet sapien dignissim vestibulum vestibulum ante ipsum,cash,true,Cam Jina
+780,11/13/2021,retreats,5584.15,Skalith,mus vivamus vestibulum sagittis sapien cum sociis natoque penatibus et,credit card,true,Genny Brownsword
+781,6/3/2021,faith_education,2599.78,Photobean,eu est congue elementum in hac habitasse,credit card,true,Zachery Dun
+782,7/26/2021,building_management,9094.97,Thoughtworks,ante vel ipsum praesent blandit lacinia,check,false,Larine Topliss
+783,11/19/2021,utilities,9124.05,Meevee,vulputate luctus cum sociis natoque penatibus et,credit card,false,Georgeta Burdon
+784,1/9/2021,other,3228.18,Linklinks,vestibulum ante ipsum primis in faucibus,cash,false,Rossie Docket
+785,2/27/2021,crm_expenses,2814.73,Zoomzone,sit amet eleifend pede libero quis orci nullam molestie nibh in lectus pellentesque at,cash,true,Adelina Skones
+786,3/19/2021,comm_life,3510.09,Twitterlist,nunc donec quis orci eget orci vehicula condimentum curabitur in libero ut massa volutpat,cash,true,Franzen Castagneto
+787,8/7/2021,utilities,5396.45,Fiveclub,maecenas rhoncus aliquam lacus morbi,cash,true,Cathrine Easman
+788,1/5/2021,faith_education,2408.62,Devshare,nunc donec quis orci eget orci vehicula condimentum curabitur,credit card,false,Donella Girauld
+789,1/10/2021,other,1002.74,Aimbo,tempus semper est quam pharetra,cash,false,Tallie Gaitung
+790,9/8/2021,faith_education,7103.66,Divape,imperdiet sapien urna pretium nisl ut volutpat sapien arcu sed augue aliquam,cash,true,Hyacinth Behling
+791,11/27/2021,office_administration,8382.37,Jaxspan,scelerisque mauris sit amet eros suspendisse accumsan tortor quis turpis sed ante vivamus tortor,check,true,Reagen Saker
+792,2/7/2021,outreach,7353.27,Vipe,cubilia curae duis faucibus accumsan odio curabitur convallis duis consequat dui nec nisi volutpat,credit card,false,Lindsy Morcom
+793,3/27/2021,office_administration,3602.01,Centimia,,cash,false,Van Dufore
+794,10/4/2021,automobiles,9825.07,Tagfeed,etiam justo etiam pretium iaculis justo in hac habitasse platea dictumst,credit card,true,Dill Tathacott
+795,9/17/2021,other,2563.34,Yodo,varius nulla facilisi cras non velit nec nisi vulputate nonummy maecenas tincidunt,check,true,Elsey Paulsson
+796,6/19/2021,student_leadership,818.9,Twitterlist,,check,true,Dur Ascough
+797,5/27/2021,automobiles,2555.34,Shufflebeat,vestibulum sit amet cursus id turpis integer aliquet massa id,credit card,true,Elsy Fisby
+798,12/21/2021,social_justice,7332.37,Topiczoom,diam id ornare imperdiet sapien urna pretium nisl ut volutpat sapien arcu sed augue aliquam,cash,true,Persis Nanson
+799,4/8/2021,social_justice,5459.59,Flashspan,vel augue vestibulum ante ipsum primis in faucibus,check,false,Cecil Bendig
+800,7/27/2021,student_leadership,6720.25,Feedfire,nec condimentum neque sapien placerat ante,credit card,false,Rozella Kuhnel
+801,3/3/2021,faith_education,4499.25,Yodel,in hac habitasse platea dictumst maecenas,cash,false,Emmalynn Glaze
+802,1/15/2021,crm_expenses,6167.8,Mita,congue elementum in hac habitasse platea dictumst,credit card,true,Keven Golling
+803,3/11/2021,retreats,7518.68,Babbleblab,mattis odio donec vitae nisi nam ultrices libero non mattis,check,false,Richmound Inston
+804,8/16/2021,student_leadership,8344.79,Zoonder,sodales scelerisque mauris sit amet eros,check,false,Bennett Hilliam
+805,2/13/2021,liturgy_music,8401.46,Yoveo,aliquet massa id lobortis convallis tortor risus,credit card,true,Kenny Maes
+806,9/7/2021,utilities,1901.8,Voomm,quis libero nullam sit amet turpis elementum ligula vehicula consequat,cash,false,Katherina Schoolcroft
+807,4/16/2021,retreats,4238.08,Meembee,morbi ut odio cras mi pede malesuada in imperdiet,cash,true,Keene McNabb
+808,12/4/2021,social_justice,5603.6,Twimbo,turpis integer aliquet massa id lobortis convallis tortor risus dapibus augue,cash,false,Frayda Paynter
+809,11/26/2021,liturgy_music,7977.99,Quamba,nam nulla integer pede justo lacinia eget tincidunt eget tempus vel pede morbi,credit card,false,Pearle Landsman
+810,3/23/2021,office_administration,2246.45,Quimba,nam nulla integer pede justo lacinia,cash,true,Jillana Keinrat
+811,10/31/2021,building_management,9609.6,Vipe,erat eros viverra eget congue eget semper rutrum nulla nunc purus phasellus in felis donec,cash,true,Timotheus Valler
+812,7/11/2021,office_administration,6421.13,Fliptune,amet nulla quisque arcu libero,credit card,false,Kizzee Ebben
+813,12/21/2021,automobiles,599.82,Feedfish,lectus in quam fringilla rhoncus mauris enim,credit card,true,Eadmund Macenzy
+814,8/10/2021,utilities,663.34,Trupe,posuere cubilia curae duis faucibus accumsan odio curabitur convallis duis consequat dui nec,credit card,false,Skip Duran
+815,5/12/2021,office_administration,922.92,Quaxo,,check,false,Emmy Megainey
+816,10/4/2021,office_administration,7117.71,Midel,etiam faucibus cursus urna ut,credit card,false,Sherrie Carswell
+817,1/6/2021,liturgy_music,6888.74,Gabcube,in faucibus orci luctus et ultrices posuere cubilia curae mauris viverra diam vitae quam,credit card,true,Deloria Falkner
+818,6/27/2021,liturgy_music,4444.77,Wordtune,scelerisque mauris sit amet eros suspendisse accumsan,credit card,false,Marcy Philliphs
+819,1/3/2021,other,8276.41,Oyondu,,cash,false,Florrie McCrone
+820,3/27/2021,crm_expenses,1691.27,Minyx,viverra pede ac diam cras pellentesque volutpat,check,false,Eberhard Aleksandrikin
+821,9/14/2021,student_leadership,2971.65,Thoughtmix,non interdum in ante vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere,check,true,Emeline Sannes
+822,10/27/2021,comm_life,5409.64,Brainlounge,semper sapien a libero nam dui proin leo odio,cash,false,Esme Angrave
+823,3/9/2021,social_justice,9222.17,Tagcat,aenean lectus pellentesque eget nunc donec quis orci eget orci vehicula condimentum curabitur,check,true,Baudoin Drane
+824,7/20/2021,crm_expenses,5317.88,Minyx,nunc nisl duis bibendum felis sed interdum venenatis,credit card,false,Jenifer Simoncello
+825,11/25/2021,utilities,8853.98,Mita,,check,false,Glenine Naisey
+826,3/29/2021,faith_education,6250.54,Eazzy,lectus in quam fringilla rhoncus mauris enim leo rhoncus sed,credit card,true,Eamon Fellini
+827,11/2/2021,outreach,7803.1,Meedoo,pede ullamcorper augue a suscipit nulla elit ac nulla sed vel enim sit amet,check,true,Boonie Reuss
+828,12/10/2021,outreach,2140.59,Thoughtsphere,porttitor lacus at turpis donec posuere,check,false,Abey Steutly
+829,12/25/2021,comm_life,802.94,Centimia,aenean auctor gravida sem praesent id massa id nisl venenatis lacinia aenean sit amet,credit card,true,Osmond Curr
+830,5/27/2021,student_leadership,7270.37,Demizz,,credit card,true,Quincy Vallantine
+831,8/14/2021,faith_education,4096.58,Brainlounge,sollicitudin ut suscipit a feugiat et eros,credit card,true,Avis Jindrich
+832,10/6/2021,building_management,2598.31,Eadel,sit amet lobortis sapien sapien non mi integer ac neque duis,credit card,false,Karel Hellicar
+833,4/28/2021,social_justice,3046.16,Dazzlesphere,fusce lacus purus aliquet at feugiat non pretium quis lectus suspendisse potenti in,cash,false,Saundra Bartusek
+834,8/25/2021,social_justice,6239.59,Brainlounge,elit proin risus praesent lectus vestibulum quam sapien varius ut blandit non interdum in,cash,true,Corney Clayborn
+835,8/30/2021,utilities,6423.47,Bubblebox,rhoncus mauris enim leo rhoncus sed vestibulum sit amet cursus id turpis integer aliquet,credit card,false,Tracee Doding
+836,3/13/2021,crm_expenses,6034.11,Edgeify,ligula in lacus curabitur at ipsum,credit card,true,Meta Gippes
+837,4/14/2021,outreach,5014.54,Realbuzz,est quam pharetra magna ac consequat,cash,true,Granthem Disley
+838,12/2/2021,building_management,9405.33,Thoughtbridge,leo rhoncus sed vestibulum sit,check,false,Letizia Hymas
+839,9/26/2021,automobiles,9323.41,Rhycero,morbi porttitor lorem id ligula suspendisse ornare consequat lectus in est risus auctor sed,check,false,Pammie McSharry
+840,8/21/2021,outreach,1165.73,Livetube,mauris morbi non lectus aliquam sit,credit card,false,Noe McCourt
+841,8/5/2021,outreach,3043.85,Trupe,erat id mauris vulputate elementum nullam varius nulla facilisi cras non,cash,true,Glenn Morbey
+842,4/28/2021,automobiles,1810.05,Skynoodle,nisl duis ac nibh fusce,cash,true,Malvina Cheek
+843,6/15/2021,other,9066.75,Devshare,congue diam id ornare imperdiet sapien urna pretium nisl ut volutpat sapien,credit card,true,Oralee Mantram
+844,10/25/2021,liturgy_music,3708.73,Gevee,augue luctus tincidunt nulla mollis molestie lorem quisque ut erat curabitur gravida nisi at,credit card,true,Deloris Oret
+845,7/25/2021,building_management,8488.14,Meembee,,credit card,true,Clement Tuckwell
+846,9/20/2021,automobiles,5576.69,Jabbertype,iaculis justo in hac habitasse platea dictumst etiam,cash,false,Lydie Pavie
+847,3/10/2021,student_leadership,7296.55,Thoughtblab,elementum nullam varius nulla facilisi cras non velit nec nisi vulputate nonummy maecenas tincidunt,check,false,Wilek Tripett
+848,8/22/2021,building_management,7008.18,Thoughtsphere,nulla eget eros elementum pellentesque quisque porta,check,true,Chery Weine
+849,1/31/2021,utilities,577.77,Jetwire,est et tempus semper est quam,check,true,Preston Bliven
+850,9/13/2021,comm_life,8910.55,Centizu,,credit card,true,Freemon Putley
+851,1/4/2021,liturgy_music,9381.59,Yadel,cursus vestibulum proin eu mi nulla ac enim in,credit card,true,Keene Britton
+852,3/19/2021,social_justice,1014.41,Quire,ipsum dolor sit amet consectetuer adipiscing elit proin risus praesent lectus vestibulum quam sapien varius,cash,true,Vinnie Doppler
+853,6/15/2021,student_leadership,559.66,Blognation,,check,true,Tim Price
+854,1/4/2021,comm_life,9400.35,Topicblab,quisque id justo sit amet sapien dignissim,cash,false,Calvin Spieght
+855,7/21/2021,building_management,1143.15,Wikibox,ut blandit non interdum in ante,cash,true,Mira McKendo
+856,5/15/2021,faith_education,6826.42,Kimia,,credit card,true,Lindsey Flewitt
+857,10/2/2021,liturgy_music,4654.45,Livetube,quam pede lobortis ligula sit amet eleifend,cash,false,Henrie Schlag
+858,6/11/2021,liturgy_music,4831.68,Browsecat,ipsum primis in faucibus orci luctus et ultrices,check,true,Kristien Stennine
+859,2/28/2021,student_leadership,3883.51,Fivebridge,turpis sed ante vivamus tortor duis mattis egestas metus aenean fermentum donec ut mauris,credit card,true,Yoko MacLure
+860,4/21/2021,faith_education,4438.66,Npath,volutpat erat quisque erat eros viverra eget,credit card,true,Bea Yosselevitch
+861,2/20/2021,automobiles,1752.06,Fivespan,,check,false,Hamnet Beeston
+862,12/1/2021,office_administration,1067.29,Skyvu,donec vitae nisi nam ultrices libero non mattis pulvinar nulla pede,cash,false,Ruthann Beaty
+863,5/10/2021,office_administration,1097.77,Thoughtbridge,suspendisse potenti in eleifend quam a odio in hac habitasse platea dictumst maecenas ut,credit card,true,Ramona Klainman
+864,2/4/2021,office_administration,1224.96,Ntag,lobortis sapien sapien non mi integer ac neque duis bibendum,cash,true,Armand Doley
+865,3/27/2021,liturgy_music,8407.24,Fadeo,,check,true,Marielle Tonn
+866,11/4/2021,faith_education,6585.92,Livetube,est et tempus semper est quam pharetra magna ac,credit card,true,Maria Janiszewski
+867,11/27/2021,utilities,3469.37,Wordify,ipsum dolor sit amet consectetuer adipiscing,credit card,true,Odie Veque
+868,12/22/2021,retreats,901.03,Browseblab,nulla nisl nunc nisl duis bibendum felis sed interdum venenatis,check,false,Elie Rennels
+869,11/5/2021,automobiles,1778.58,Ailane,,cash,false,Mill Espadas
+870,8/19/2021,comm_life,8451.98,Trudoo,quis augue luctus tincidunt nulla mollis molestie lorem quisque ut erat,cash,true,Bevin Heales
+871,3/22/2021,other,3831.06,Mycat,cum sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus etiam vel augue,check,false,Kassia Elsom
+872,2/14/2021,student_leadership,7741.91,Quinu,curabitur in libero ut massa volutpat convallis morbi odio odio elementum eu interdum eu tincidunt,cash,true,Jemmie Peake
+873,10/20/2021,utilities,7544.4,Photospace,,check,false,Decca Ruddlesden
+874,4/7/2021,comm_life,1854.94,Centidel,congue elementum in hac habitasse platea dictumst,check,true,Reiko Vandrill
+875,10/23/2021,crm_expenses,2818.64,Skiptube,massa donec dapibus duis at velit eu est congue,credit card,true,Griff Geratt
+876,9/9/2021,office_administration,4470.63,Linkbuzz,nulla nunc purus phasellus in felis donec semper sapien a libero nam dui proin,check,true,Ezra Claypool
+877,8/30/2021,other,971.67,Kare,,cash,false,Red Eppson
+878,3/13/2021,social_justice,3009.46,Centizu,in magna bibendum imperdiet nullam orci pede venenatis non sodales sed tincidunt eu felis fusce,credit card,false,Trip Carillo
+879,8/16/2021,student_leadership,1244.8,Linkbuzz,diam erat fermentum justo nec,check,true,Bondy Merrifield
+880,9/27/2021,liturgy_music,4217.69,Yakijo,tempor convallis nulla neque libero convallis,cash,true,Sullivan Lowther
+881,4/2/2021,student_leadership,4623.98,Innotype,quam pharetra magna ac consequat metus sapien ut nunc,cash,false,Brit Pales
+882,7/26/2021,other,8370.04,Skyble,mauris morbi non lectus aliquam sit amet diam in magna bibendum imperdiet nullam orci,check,true,Darren Zorzetti
+883,11/23/2021,faith_education,3518.5,Babbleblab,justo morbi ut odio cras mi pede malesuada in imperdiet et commodo vulputate justo,credit card,true,Michelina Bower
+884,2/21/2021,outreach,6107.17,Dablist,,check,false,Britta Plank
+885,7/27/2021,other,1389.74,Podcat,,cash,false,Dur Pucker
+886,3/29/2021,office_administration,9290.85,Shufflebeat,ligula sit amet eleifend pede libero,cash,true,Andrej Orpin
+887,10/10/2021,office_administration,8229.3,Devpulse,quis turpis sed ante vivamus tortor duis mattis egestas,credit card,false,Zelda Lear
+888,9/4/2021,automobiles,6271.05,Yakijo,in consequat ut nulla sed accumsan,check,true,Reinald Delbergue
+889,9/16/2021,crm_expenses,2044.36,Jayo,,cash,false,Onofredo Smitton
+890,4/14/2021,office_administration,5544.22,Oyondu,platea dictumst maecenas ut massa,check,true,Meir Casillas
+891,2/25/2021,office_administration,320.55,Aimbo,varius nulla facilisi cras non velit nec nisi vulputate,check,false,Robbie McClements
+892,5/2/2021,student_leadership,3270.52,Midel,phasellus in felis donec semper sapien a,credit card,false,Agosto Manthorpe
+893,1/14/2021,crm_expenses,1758.39,Jaxnation,,check,false,Gail Edgler
+894,1/27/2021,outreach,8252.81,Zoombeat,suspendisse potenti nullam porttitor lacus at turpis donec posuere metus vitae ipsum,cash,false,Agretha Easlea
+895,9/21/2021,liturgy_music,1812.83,Demivee,purus phasellus in felis donec semper sapien a libero nam dui proin leo,credit card,true,Elsey Pickance
+896,3/19/2021,utilities,9837.57,Twitterworks,ullamcorper augue a suscipit nulla elit ac,cash,false,Avrom Baguley
+897,8/11/2021,liturgy_music,3315.82,Youspan,diam vitae quam suspendisse potenti nullam porttitor lacus at turpis donec posuere,check,true,Shell Isson
+898,8/29/2021,crm_expenses,4821.83,Dablist,,credit card,false,Maryjane Feenan
+899,2/10/2021,building_management,7357.67,Skinder,at turpis donec posuere metus,check,false,Germaine Timmes
+900,12/27/2021,building_management,615.96,Quatz,diam vitae quam suspendisse potenti nullam porttitor lacus at turpis donec,credit card,true,Pascal Readie
+901,2/2/2021,student_leadership,8887.14,Leenti,in leo maecenas pulvinar lobortis est phasellus sit amet erat nulla,credit card,false,Dorothee Drexel
+902,3/18/2021,faith_education,6799.86,Skalith,nec condimentum neque sapien placerat ante nulla justo aliquam quis turpis eget elit sodales,check,true,Shanan MacIlwrick
+903,7/9/2021,automobiles,6658.14,Skilith,,check,false,Aundrea Carrel
+904,1/19/2021,social_justice,1385.26,Eimbee,suscipit a feugiat et eros vestibulum ac,cash,false,Haily McSwan
+905,8/27/2021,comm_life,7275.23,Kwideo,luctus et ultrices posuere cubilia,check,true,Dolly Gregoraci
+906,3/3/2021,outreach,4225.8,Oyoyo,mauris viverra diam vitae quam,credit card,true,Bronson Chitson
+907,10/5/2021,comm_life,5999.07,Yambee,diam erat fermentum justo nec condimentum neque sapien placerat ante nulla,check,false,Corene Wrettum
+908,6/21/2021,office_administration,2888.1,Vinte,cursus urna ut tellus nulla,credit card,true,Lynnet Druitt
+909,9/6/2021,office_administration,253.18,Eadel,justo sollicitudin ut suscipit a feugiat,credit card,true,Gale Ick
+910,12/3/2021,retreats,4386.15,Flashspan,mus vivamus vestibulum sagittis sapien cum sociis natoque penatibus et,cash,true,Rosalinde Talman
+911,5/9/2021,utilities,6994.79,Fivebridge,cursus urna ut tellus nulla ut erat id,cash,false,Robena Laurand
+912,9/19/2021,student_leadership,829.61,Shufflebeat,nunc viverra dapibus nulla suscipit,check,false,Wally Grangier
+913,2/21/2021,crm_expenses,5763.87,Skivee,vitae mattis nibh ligula nec sem duis aliquam convallis nunc proin at turpis,check,false,Markus Tivenan
+914,7/6/2021,retreats,2071.45,Talane,odio donec vitae nisi nam ultrices libero non,cash,false,Benita Karran
+915,6/12/2021,utilities,6031.51,Oyoloo,tempor convallis nulla neque libero convallis eget,cash,true,Galvan Rumens
+916,10/11/2021,building_management,9631.11,Riffpedia,mauris morbi non lectus aliquam sit amet diam in magna,credit card,true,Iosep Drew-Clifton
+917,11/25/2021,automobiles,530.26,Topdrive,vestibulum rutrum rutrum neque aenean auctor gravida sem,check,true,Susie Cooling
+918,3/3/2021,office_administration,3582.25,Tambee,ut erat id mauris vulputate elementum nullam varius nulla,check,false,Rosaleen Wilber
+919,4/10/2021,retreats,91.41,Realmix,primis in faucibus orci luctus et ultrices posuere cubilia curae duis faucibus accumsan,check,false,Anthiathia Dobbin
+920,9/22/2021,retreats,4615.74,Dabfeed,sapien placerat ante nulla justo aliquam quis turpis eget elit sodales scelerisque mauris sit amet,check,false,Christian Pigeon
+921,10/21/2021,liturgy_music,4899.3,Thoughtstorm,ultrices posuere cubilia curae duis faucibus accumsan odio curabitur convallis duis consequat,check,false,Janeta Bradford
+922,5/28/2021,comm_life,2566.38,Camimbo,at nulla suspendisse potenti cras in purus eu magna vulputate luctus cum sociis,check,false,Alene Eberlein
+923,11/13/2021,social_justice,4540.85,Viva,nonummy integer non velit donec,credit card,false,Chance Penwell
+924,8/11/2021,office_administration,1179.4,Rhycero,donec quis orci eget orci vehicula condimentum curabitur in libero ut massa volutpat,check,false,Sid Frake
+925,4/10/2021,crm_expenses,6568.48,Mycat,sed tristique in tempus sit amet sem fusce consequat nulla nisl nunc nisl duis,credit card,false,Mollie Bellam
+926,5/22/2021,building_management,9347.18,Rooxo,turpis nec euismod scelerisque quam turpis adipiscing lorem vitae mattis nibh,credit card,false,Eddie Kenewell
+927,9/2/2021,utilities,4718.7,Zava,ut odio cras mi pede malesuada in imperdiet et commodo vulputate,cash,false,Sophronia Tidball
+928,2/11/2021,faith_education,7433.34,Kazio,imperdiet sapien urna pretium nisl ut volutpat sapien arcu sed augue aliquam erat volutpat in,credit card,true,Davon Chat
+929,10/27/2021,outreach,7563.98,Topiczoom,praesent blandit lacinia erat vestibulum sed magna at nunc commodo placerat praesent blandit,cash,false,Stella Hounson
+930,3/1/2021,liturgy_music,7695.3,Tavu,sollicitudin ut suscipit a feugiat et eros,check,false,Flory Ropartz
+931,6/8/2021,outreach,6706.33,Twitterbridge,ut massa quis augue luctus tincidunt nulla mollis molestie lorem quisque ut erat,check,true,Reeba Pozzo
+932,4/30/2021,automobiles,5490.56,Zoonder,pellentesque eget nunc donec quis orci eget orci vehicula condimentum curabitur in libero,check,true,Yank Clixby
+933,4/12/2021,social_justice,9974.52,Babblestorm,eleifend donec ut dolor morbi vel lectus,cash,true,Karena Shaul
+934,1/2/2021,comm_life,3842.27,Photospace,at turpis a pede posuere nonummy integer non velit donec,check,false,Melitta Bungey
+935,10/24/2021,utilities,6058.92,Zoombeat,blandit nam nulla integer pede justo,credit card,false,Elfie Purkess
+936,9/26/2021,comm_life,8515.23,Zoombeat,nibh in lectus pellentesque at nulla suspendisse potenti cras,check,false,Ely Ikin
+937,9/20/2021,office_administration,9513.53,Zoombeat,vestibulum velit id pretium iaculis diam erat fermentum justo nec condimentum neque,check,false,Ode Capron
+938,6/24/2021,faith_education,4342.99,Buzzdog,vestibulum ante ipsum primis in,check,true,Kassandra Verick
+939,9/20/2021,automobiles,6490.17,Jabbercube,lorem id ligula suspendisse ornare consequat lectus,check,false,Emmery Rolf
+940,11/5/2021,liturgy_music,7979.69,Realcube,platea dictumst aliquam augue quam sollicitudin vitae consectetuer eget rutrum at lorem integer,cash,true,Hilton Rennles
+941,2/23/2021,retreats,8795.17,Dabjam,sit amet diam in magna,credit card,true,Maris Hathorn
+942,10/7/2021,crm_expenses,414.07,Tambee,rutrum nulla tellus in sagittis dui vel nisl duis ac nibh fusce lacus purus aliquet,check,false,Chris Heninghem
+943,5/10/2021,crm_expenses,9355.61,Dynabox,a pede posuere nonummy integer non velit donec diam neque vestibulum eget,credit card,false,Georgianna Shannahan
+944,1/29/2021,automobiles,6864.96,Bubbletube,quis lectus suspendisse potenti in eleifend quam a odio in hac,cash,true,Marlo Fynn
+945,7/18/2021,retreats,2203.62,Linktype,velit id pretium iaculis diam erat fermentum justo,credit card,false,Fidela Hyrons
+946,4/8/2021,utilities,3672.34,Agimba,nulla justo aliquam quis turpis eget elit sodales scelerisque,credit card,false,Klement Kaming
+947,10/17/2021,crm_expenses,2121.85,Trilia,,check,false,Deana Gower
+948,7/30/2021,student_leadership,3174.14,Yabox,ut rhoncus aliquet pulvinar sed,cash,false,Dasha De Bischof
+949,4/6/2021,social_justice,862.04,Twitterworks,id luctus nec molestie sed justo pellentesque viverra pede ac diam cras,credit card,false,Lesya Syme
+950,10/23/2021,retreats,6719.53,Kwilith,in hac habitasse platea dictumst maecenas,credit card,true,Oneida Malmar
+951,1/13/2021,office_administration,6812.42,Einti,,credit card,true,Geraldine Northin
+952,1/5/2021,liturgy_music,2397.93,Skinte,eleifend quam a odio in hac habitasse platea dictumst maecenas ut massa quis augue luctus,cash,false,Reamonn Ausello
+953,4/12/2021,retreats,9732.63,Realbridge,at nulla suspendisse potenti cras in purus eu magna vulputate,cash,false,Ambrosius Folcarelli
+954,9/27/2021,utilities,7278.74,Edgeify,ipsum praesent blandit lacinia erat,credit card,true,Tomkin Durber
+955,11/11/2021,faith_education,3774.34,Feedspan,vehicula condimentum curabitur in libero ut massa,check,false,Jere McCallister
+956,9/15/2021,liturgy_music,2561.79,Teklist,arcu libero rutrum ac lobortis vel dapibus at diam nam,credit card,false,Moe Onions
+957,8/19/2021,social_justice,5472.18,Meevee,at lorem integer tincidunt ante,cash,true,Leonardo Dorrins
+958,7/1/2021,student_leadership,6923.18,Yabox,pellentesque quisque porta volutpat erat quisque erat eros viverra,credit card,true,Vidovik Martynikhin
+959,12/1/2021,faith_education,9599.89,Jabbersphere,,credit card,false,Betta Wickett
+960,3/20/2021,retreats,2450.46,Wordtune,suscipit nulla elit ac nulla sed vel enim sit,cash,true,Iolanthe Mora
+961,3/13/2021,automobiles,4188.43,Photofeed,,cash,true,Waiter Tilston
+962,12/7/2021,building_management,8044.32,Pixonyx,at dolor quis odio consequat varius integer ac leo pellentesque ultrices mattis odio,check,false,Marcello Mannix
+963,8/24/2021,faith_education,7569.63,Meedoo,convallis tortor risus dapibus augue vel accumsan tellus nisi eu orci,check,true,Corilla Ede
+964,8/28/2021,office_administration,2379.95,Jetpulse,nam dui proin leo odio porttitor,cash,true,Paton Normanton
+965,10/3/2021,other,7226.08,Babblestorm,eget vulputate ut ultrices vel augue,cash,true,Hurlee Ghilks
+966,4/20/2021,building_management,9351.48,Yamia,morbi non lectus aliquam sit amet diam in,check,false,Lyman Gieves
+967,5/15/2021,liturgy_music,131.69,Skimia,primis in faucibus orci luctus et ultrices posuere cubilia curae duis faucibus accumsan,cash,false,Maurizia Bothwell
+968,5/4/2021,retreats,9255.94,Livetube,a ipsum integer a nibh in quis justo maecenas rhoncus aliquam lacus morbi quis,check,true,Aurelie Beverstock
+969,4/11/2021,retreats,6494.28,Skinix,nisl aenean lectus pellentesque eget nunc donec,cash,true,Neville Janeway
+970,10/22/2021,other,5026.18,Gabvine,nonummy integer non velit donec diam neque vestibulum eget vulputate ut ultrices vel augue vestibulum,check,true,Marcello Gohier
+971,8/5/2021,social_justice,3899.91,Yamia,libero ut massa volutpat convallis morbi odio odio elementum eu interdum eu tincidunt,check,true,Arly Sodor
+972,8/1/2021,office_administration,1385.61,Thoughtstorm,nulla nisl nunc nisl duis bibendum felis sed interdum venenatis turpis enim,credit card,true,Godwin Hum
+973,7/9/2021,comm_life,9515.89,Fiveclub,luctus rutrum nulla tellus in sagittis dui vel nisl duis,check,false,Georg Aizikovitz
+974,1/17/2021,retreats,8386.83,Realcube,bibendum felis sed interdum venenatis turpis enim blandit mi in porttitor,cash,false,Glory Snadden
+975,6/29/2021,utilities,2435.6,Trilia,,check,true,Emmi Manclark
+976,12/28/2021,social_justice,4669.12,Zava,platea dictumst etiam faucibus cursus urna ut tellus nulla ut erat id mauris,cash,false,Diahann Summerley
+977,7/9/2021,social_justice,52.6,Ainyx,ut dolor morbi vel lectus in quam fringilla rhoncus mauris enim,check,false,Amalle Tomovic
+978,6/19/2021,outreach,3857.08,Voolith,vitae nisi nam ultrices libero non mattis pulvinar nulla pede ullamcorper augue a,check,true,Alphard Ballinghall
+979,7/16/2021,faith_education,9292.28,Dabshots,,cash,true,Emmye Di Dello
+980,3/20/2021,faith_education,8646.5,Topicshots,,check,false,Fidelity Ducarne
+981,9/14/2021,liturgy_music,9558.01,Yambee,nibh quisque id justo sit amet sapien dignissim vestibulum vestibulum ante ipsum primis,check,true,Melania Goricke
+982,4/21/2021,liturgy_music,3817.78,Livetube,in hac habitasse platea dictumst etiam faucibus,cash,false,Kirbie Francesco
+983,8/30/2021,retreats,1903.28,Babbleblab,est phasellus sit amet erat nulla tempus vivamus in felis,check,false,Aylmer Muxworthy
+984,3/22/2021,social_justice,3626.85,Babblestorm,vitae quam suspendisse potenti nullam porttitor lacus at turpis donec posuere metus vitae,cash,false,Lawton Worviell
+985,11/30/2021,utilities,1573.98,Trunyx,semper est quam pharetra magna ac consequat,cash,false,Maressa Stonary
+986,1/6/2021,outreach,6713.75,Gigazoom,ipsum aliquam non mauris morbi non lectus aliquam sit amet diam in magna bibendum imperdiet,credit card,true,Harmonia Gulliver
+987,4/5/2021,comm_life,2140.9,Chatterpoint,,cash,false,Darice Binford
+988,5/2/2021,outreach,2886.84,Realcube,,credit card,true,Whit Noakes
+989,5/14/2021,student_leadership,4415.61,Fatz,sed interdum venenatis turpis enim blandit,credit card,false,Bryan Seniour
+990,3/2/2021,outreach,4191.42,Yakidoo,,cash,true,Dennie Yourell
+991,6/17/2021,social_justice,4864.04,Muxo,congue elementum in hac habitasse platea dictumst,cash,true,Darcey Ovendale
+992,3/11/2021,comm_life,7827.64,Divanoodle,odio justo sollicitudin ut suscipit a feugiat et eros vestibulum ac est lacinia nisi venenatis,check,true,Anestassia Tregunna
+993,3/8/2021,social_justice,7719.5,Innojam,pede libero quis orci nullam molestie nibh in lectus pellentesque at nulla suspendisse,credit card,false,Birk Davis
+994,6/15/2021,building_management,6535.49,Teklist,id justo sit amet sapien dignissim vestibulum vestibulum ante ipsum,credit card,false,Pembroke Pacheco
+995,6/1/2021,liturgy_music,9971.91,Shufflester,natoque penatibus et magnis dis parturient montes nascetur ridiculus mus etiam vel augue,check,false,Roseanne Garrattley
+996,12/24/2021,outreach,2033.44,Zoomzone,egestas metus aenean fermentum donec ut mauris eget massa,check,true,Halli Portch
+997,9/5/2021,office_administration,8980.46,Meembee,suspendisse potenti in eleifend quam a odio in hac habitasse,cash,false,Herschel Blinde
+998,6/12/2021,outreach,1763.14,Brainverse,id ligula suspendisse ornare consequat,cash,true,Reena Clements
+999,2/2/2021,other,6855.26,Yombu,nulla sed accumsan felis ut at dolor quis odio consequat varius integer ac leo,credit card,false,Bellanca Lambrecht
+1000,7/31/2021,utilities,2436.24,Thoughtbeat,aliquam convallis nunc proin at turpis a pede posuere nonummy integer,cash,true,Laurella Chalker
